@@ -11,7 +11,7 @@ navigation:
   clients: Clients
   blog: Blog
   contact: Contact
-  contactAction: Talk to Us
+  contactAction: Talk to Us →
   menu: Menu
 footer:
   services: Services
