@@ -2,7 +2,7 @@
 name: Tommy Bohn
 role: Senior Consultant
 tier: senior-consultant
-order: 11
+order: 10
 image: null
 alt: ""
 ---

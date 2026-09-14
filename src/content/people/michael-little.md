@@ -2,7 +2,7 @@
 name: Michael Little
 role: Senior Consultant
 tier: senior-consultant
-order: 10
+order: 11
 image: null
 alt: ""
 ---
