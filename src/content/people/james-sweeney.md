@@ -7,4 +7,4 @@ image: null
 alt: ""
 ---
 
-Jim had a ten-year career in the supermarket industry before spending 20+ years as a retail industry consultant, achieving leadership positions at Arthur Andersen, Capgemini, and Accenture. He left his role as an Executive Partner at Accenture to found tSCG in 2009. Recognized as a retail operations expert, Jim has been a featured speaker at NRF, FMI, and GMA on numerous industry topics. MBA, Rutgers University.
+Jim is a Managing Director for the Stores Consulting Group, LLC. He had a ten year career in the supermarket industry and then worked for 20+ years as a retail industry consultant, achieving leadership positions at Arthur Andersen, Capgemini and Accenture. Jim left his role as an Executive Partner at Accenture to found the Stores Consulting Group in 2009. He is recognized as a retail operations expert and has been a featured speaker at NRF, FMI, and GMA shows on numerous industry topics. Jim has an MBA from Rutgers University.

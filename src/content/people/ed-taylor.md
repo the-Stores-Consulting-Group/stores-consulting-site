@@ -7,4 +7,4 @@ image: null
 alt: ""
 ---
 
-35+ years of proven retail leadership at The Kroger Company, including Director of Shrink Management at Corporate, with responsibility for Shrink Management, DSD, and process improvement across 20+ Kroger divisions and 2,700+ stores.
+He has over 35 years of proven retail leadership at the Kroger Company, including Director of Shrink Management at Corporate with responsibilities for Shrink Management, DSD, SBT and process improvement in over 20 Kroger Divisions encompassing 2700 plus stores.

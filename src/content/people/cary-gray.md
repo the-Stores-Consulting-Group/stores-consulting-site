@@ -7,4 +7,4 @@ image: null
 alt: ""
 ---
 
-20 years of retail loss prevention, asset protection, and safety experience. Accomplished in DSD receiving, production planning, transaction monitoring, LP management, and access control. Prior experience as a law enforcement officer.
+Cary Gray is a Senior Consultant with the Stores Consulting Group. His experience includes 20 years of Retail Loss Prevention, Asset Protection & Safety. He is accomplished in DSD Receiving, Production Planning, Transaction Monitoring, LP Management, and Access Control. Cary's prior experience also includes serving as a Law Enforcement Officer.

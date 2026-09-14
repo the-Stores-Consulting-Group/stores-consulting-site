@@ -7,4 +7,4 @@ image: null
 alt: ""
 ---
 
-40+ years of retail operational experience and management, plus five years consulting with retailers across the United States. Proven executive ability combining business strategy with client-focused initiatives across all areas of store operations.
+Mike Connolly is a Managing Consultant with the Stores Consulting Group. He has over 40 years of retail operational experience and management and over five years experience working as a consultant with retailers across the United States. Mike has proven executive ability to combine business concentrated strategic procedures with client focused initiatives. He has extensive knowledge on all areas of store operations and management.

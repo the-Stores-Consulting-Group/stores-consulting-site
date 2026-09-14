@@ -7,4 +7,4 @@ image: null
 alt: ""
 ---
 
-Over ten years as a retail industry consultant with Arthur Andersen and Capgemini, plus 15 years of grocery retail experience. Has led numerous grocery and perishable profit improvement programs focused on production planning, process improvement, and workforce management. BA in Finance, Cleveland State University.
+Greg is a Director with the Stores Consulting Group, LLC. He has over ten years of experience as a retail industry consultant with Arthur Andersen and Capgemini. In addition, he has 15 years of grocery retail industry experience. Greg has led numerous grocery and perishable profit improvement programs, focusing on production planning, process improvement, and workforce management. Greg has BA degree in Finance from Cleveland State University.
