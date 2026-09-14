@@ -2,7 +2,7 @@
 name: Mike Connolly
 role: Managing Consultant
 tier: managing-consultant
-order: 5
+order: 6
 image: null
 alt: ""
 ---

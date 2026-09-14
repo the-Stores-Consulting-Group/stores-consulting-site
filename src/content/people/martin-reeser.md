@@ -2,7 +2,7 @@
 name: Martin Reeser
 role: Managing Consultant
 tier: managing-consultant
-order: 4.5
+order: 5
 image: null
 alt: ""
 ---
