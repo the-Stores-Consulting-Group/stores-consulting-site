@@ -1,5 +1,5 @@
 ---
-name: MK Maiti Keen
+name: Maiti Keen
 role: Senior Consultant
 tier: senior-consultant
 order: 12
