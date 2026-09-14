@@ -2,7 +2,7 @@
 name: Cary Gray
 role: Senior Consultant
 tier: senior-consultant
-order: 10
+order: 9
 image: null
 alt: ""
 ---
