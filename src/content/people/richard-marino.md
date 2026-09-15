@@ -3,7 +3,7 @@ name: Richard Marino
 role: Managing Director
 tier: leadership
 order: 1
-image: ''
+image: null
 alt: ''
 ---
 
