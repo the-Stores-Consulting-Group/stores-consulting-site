@@ -4,7 +4,7 @@ slug: coborns
 route: /project/coborns/
 category: legacy-client
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/coborns.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/coborns.jpg
 legacyUrl: https://storesconsulting.com/project/coborns/
 updatedDate: 2023-01-17T11:16:05
 sourceId: 29200

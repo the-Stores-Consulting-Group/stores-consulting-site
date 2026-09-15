@@ -17,7 +17,7 @@ async function checkImages(value, file) {
  for (const [key,item] of Object.entries(value)) {
   if (['src','image','featuredMedia','logo','avatar'].includes(key) && typeof item === 'string') {
    let path = item;
-   if (path.startsWith('https://stores-consulting-site.vercel.app/')) path = new URL(path).pathname;
+   if (path.startsWith('https://stores-consulting-site-dusky.vercel.app/')) path = new URL(path).pathname;
    if (path.startsWith('/')) {try{await access('public'+path);}catch{errors.push(`${file}: missing image ${path}`);}}
   } else if (item && typeof item === 'object') await checkImages(item,file);
  }

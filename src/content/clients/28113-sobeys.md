@@ -4,7 +4,7 @@ slug: sobeys
 route: /project/sobeys/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/sobeys.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/sobeys.png
 legacyUrl: https://storesconsulting.com/project/sobeys/
 updatedDate: 2017-01-25T02:15:27
 sourceId: 28113

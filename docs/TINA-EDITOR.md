@@ -89,11 +89,11 @@ Choose Written article, Video, or PDF report in Post format. Report posts use th
 
 The 9/9 source audit retained 22 complete articles, four videos and one PDF report. Removed WordPress starter/slider tests and three password-protected internal-page stubs; their URLs now return 404 and are absent from public archives and the editor.
 
-Legacy image fields use absolute URLs on the stable `stores-consulting-site.vercel.app` asset host, preventing Tina's `assets/editorial` media root from being prepended on save. Original files remain in place. Newly uploaded images continue to use the editorial media library. Retain that Vercel alias when moving domains or migrate these legacy URLs deliberately.
+Legacy image fields use absolute URLs on the stable `stores-consulting-site-dusky.vercel.app` asset host, preventing Tina's `assets/editorial` media root from being prepended on save. Original files remain in place. Newly uploaded images continue to use the editorial media library. Retain that Vercel alias when moving domains or migrate these legacy URLs deliberately.
 
 ## Five-minute editor walkthrough
 
-1. Open https://stores-consulting-site.vercel.app/admin/index.html and sign in with your invited account.
+1. Open https://stores-consulting-site-dusky.vercel.app/admin/index.html and sign in with your invited account.
 2. Use the navigation menu to choose a page or Blog posts. Search by title or topic. Click the preview text or open its named field to edit.
 3. For a new post, choose Add File. Set title, excerpt, date, author and categories using the pickers. Keep Draft enabled while writing. Choose its format; PDF reports also need the report title and PDF URL. Select related services for the reader's next step.
 4. For a case study, open its Client profile → Case study. Add the challenge, work and approved results, then choose related services. Enable Publish approved case study only when the claims and client identification have approval. An unpublished case study does not replace the existing profile.

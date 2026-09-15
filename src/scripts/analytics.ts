@@ -1,7 +1,7 @@
 // Josh confirmed the existing Stores Consulting property on 2026-09-09.
 export const measurementId = 'G-73E0EDSM19';
 export function startAnalytics(win: Window, doc: Document) {
- const hosts=['storesconsulting.com','www.storesconsulting.com','stores-consulting-site.vercel.app'];
+ const hosts=['storesconsulting.com','www.storesconsulting.com','stores-consulting-site-dusky.vercel.app'];
  if(win.self!==win.top || !hosts.includes(win.location.hostname) || /^\/(admin|styleguide)(\/|$)/.test(win.location.pathname))return;
  const w=win as Window & {dataLayer?:unknown[];gtag?:(...args:unknown[])=>void};
  if(w.gtag)return;

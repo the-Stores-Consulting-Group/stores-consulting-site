@@ -4,7 +4,7 @@ slug: superior-grocers
 route: /project/superior-grocers/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/superiorgrocers.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/superiorgrocers.png
 legacyUrl: https://storesconsulting.com/project/superior-grocers/
 updatedDate: 2017-01-24T23:44:22
 sourceId: 28115

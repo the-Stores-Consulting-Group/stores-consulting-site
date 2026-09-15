@@ -4,7 +4,7 @@ slug: total-wine
 route: /project/total-wine/
 category: clients, tscg-clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/SponsorPage-TotalWine.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/SponsorPage-TotalWine.png
 legacyUrl: https://storesconsulting.com/project/total-wine/
 updatedDate: 2017-02-09T17:50:24
 sourceId: 28117

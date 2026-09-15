@@ -4,7 +4,7 @@ slug: best-buy
 route: /project/best-buy/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/2000px-Best_Buy_Logo.svg_.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/2000px-Best_Buy_Logo.svg_.png
 legacyUrl: https://storesconsulting.com/project/best-buy/
 updatedDate: 2017-01-25T02:16:28
 sourceId: 28059

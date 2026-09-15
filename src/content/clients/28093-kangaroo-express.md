@@ -4,7 +4,7 @@ slug: kangaroo-express
 route: /project/kangaroo-express/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/KangarooExpress_logo.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/KangarooExpress_logo.png
 legacyUrl: https://storesconsulting.com/project/kangaroo-express/
 updatedDate: 2017-02-09T17:55:48
 sourceId: 28093
