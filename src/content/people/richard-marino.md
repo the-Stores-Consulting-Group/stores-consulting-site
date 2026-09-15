@@ -5,6 +5,7 @@ tier: leadership
 order: 1
 image: null
 alt: null
+linkedin: https://www.linkedin.com/in/rick-marino-14354325/
 ---
 
 
