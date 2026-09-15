@@ -24,7 +24,10 @@ const args = [
   task === 'dev' ? 'dev' : 'build',
   ...(task === 'dev' ? [] : [cloudConfigured ? '--content=local' : '--local']),
   '--noTelemetry',
-  ...(task === 'dev' || cloudConfigured ? [] : ['--skip-cloud-checks']),
+  // Builds always read local content, so they never need TinaCloud's branch
+  // index/schema check; skipping it avoids hanging on branches TinaCloud
+  // hasn't indexed yet (e.g. new agent/preview branches).
+  ...(task === 'dev' ? [] : ['--skip-cloud-checks']),
   '-c',
   astroCommand,
 ];
