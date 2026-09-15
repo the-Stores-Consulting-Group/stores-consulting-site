@@ -13,10 +13,10 @@ logos:
   - name: Kroger
     href: /project/kroger/
     image:
-      src: /assets/editorial/assets/mockup/clients/kroger.webp
+      src: /assets/editorial/Client%20Logos/Kroger-Logo.png
       alt: Kroger logo
-      width: 150
-      height: 96
+      width: 500
+      height: 500
   - name: Whole Foods
     href: /project/whole-foods/
     image:
