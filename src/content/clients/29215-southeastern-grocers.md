@@ -4,7 +4,7 @@ slug: southeastern-grocers
 route: /project/southeastern-grocers/
 category: legacy-client
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/seg.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/seg.jpg
 legacyUrl: https://storesconsulting.com/project/southeastern-grocers/
 updatedDate: 2023-01-17T11:23:09
 sourceId: 29215

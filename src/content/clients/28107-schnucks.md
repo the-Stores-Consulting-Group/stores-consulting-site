@@ -4,7 +4,7 @@ slug: schnucks
 route: /project/schnucks/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/schnucks_logo.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/schnucks_logo.png
 legacyUrl: https://storesconsulting.com/project/schnucks/
 updatedDate: 2017-01-24T23:39:36
 sourceId: 28107

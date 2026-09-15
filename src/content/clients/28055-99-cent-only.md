@@ -4,7 +4,7 @@ slug: 99-cent-only
 route: /project/99-cent-only/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/99cent_logo.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/99cent_logo.png
 legacyUrl: https://storesconsulting.com/project/99-cent-only/
 updatedDate: 2017-01-24T23:05:53
 sourceId: 28055

@@ -4,7 +4,7 @@ slug: shane-company
 route: /project/shane-company/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/Shane-Co-Logo-2016.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Shane-Co-Logo-2016.png
 legacyUrl: https://storesconsulting.com/project/shane-company/
 updatedDate: 2017-02-09T17:52:36
 sourceId: 28111

@@ -4,7 +4,7 @@ slug: lowes-foods
 route: /project/lowes-foods/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/LowesFoods.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/LowesFoods.png
 legacyUrl: https://storesconsulting.com/project/lowes-foods/
 updatedDate: 2017-01-24T23:27:05
 sourceId: 28095

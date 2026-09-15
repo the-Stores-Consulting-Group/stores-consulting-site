@@ -4,7 +4,7 @@ slug: weis-markets
 route: /project/weis-markets/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/Weis.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/Weis.jpg
 legacyUrl: https://storesconsulting.com/project/weis-markets/
 updatedDate: 2023-01-16T11:33:57
 sourceId: 29134

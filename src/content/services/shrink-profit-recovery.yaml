@@ -30,13 +30,13 @@ relatedPaths:
   - /approach/
   - /results/
 heroMedia:
-  src: https://stores-consulting-site.vercel.app/wp-content/uploads/2016/09/iStock-506018790_02.jpg
+  src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/iStock-506018790_02.jpg
   alt: Rows of wine and spirits arranged on densely stocked retail shelves.
   width: 2048
   height: 1486
   position: center
 supportingMedia:
-  src: https://stores-consulting-site.vercel.app/wp-content/uploads/2016/10/iStock-506033946.jpg
+  src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/10/iStock-506033946.jpg
   alt: A retail aisle densely stocked with packaged household products.
   width: 2048
   height: 1365

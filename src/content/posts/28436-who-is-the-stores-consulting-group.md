@@ -8,7 +8,7 @@ updatedDate: 2020-04-11T23:08:45
 author: rochelle
 categories:
   - about
-featuredMedia: https://stores-consulting-site.vercel.app/wp-content/uploads/2016/09/iStock-509030151.jpg
+featuredMedia: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/iStock-509030151.jpg
 canonicalUrl: https://storesconsulting.com/who-is-the-stores-consulting-group/
 draft: false
 contentType: article

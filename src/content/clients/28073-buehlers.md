@@ -4,7 +4,7 @@ slug: buehlers
 route: /project/buehlers/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/Buehlers_Green.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Buehlers_Green.png
 legacyUrl: https://storesconsulting.com/project/buehlers/
 updatedDate: 2017-01-24T23:31:51
 sourceId: 28073

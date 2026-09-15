@@ -4,7 +4,7 @@ slug: crate-barrel
 route: /project/crate-barrel/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/crate_barrel.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/crate_barrel.png
 legacyUrl: https://storesconsulting.com/project/crate-barrel/
 updatedDate: 2017-01-25T02:26:31
 sourceId: 28075
