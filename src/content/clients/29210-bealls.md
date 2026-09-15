@@ -4,11 +4,12 @@ slug: bealls
 route: /project/bealls/
 category: legacy-client
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/bealls.jpg
-legacyUrl: https://storesconsulting.com/project/bealls/
-updatedDate: 2023-01-17T11:20:52
+logo: /assets/editorial/Client%20Logos/Bealls-Logo.png
+legacyUrl: 'https://storesconsulting.com/project/bealls/'
+updatedDate: 2026-09-15T21:11:52.800Z
 sourceId: 29210
 ---
+
 
 <img src="/wp-content/uploads/2023/01/bealls.jpg" alt="Bealls" width="720" height="720" loading="lazy">
 
