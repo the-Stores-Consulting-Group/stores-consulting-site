@@ -20,14 +20,14 @@ logos:
   - name: Whole Foods Market
     href: /project/whole-foods/
     image:
-      src: /assets/editorial/assets/mockup/clients/whole-foods.webp
+      src: /assets/mockup/clients/whole-foods.webp
       alt: Whole Foods logo
       width: 199
       height: 67
   - name: Ahold Delhaize
     href: /project/ahold/
     image:
-      src: /assets/editorial/assets/mockup/clients/ahold-delhaize.webp
+      src: /assets/mockup/clients/ahold-delhaize.webp
       alt: Ahold Delhaize logo
       width: 204
       height: 99
@@ -41,28 +41,28 @@ logos:
   - name: Schnucks
     href: /project/schnucks/
     image:
-      src: /assets/editorial/assets/mockup/clients/schnucks.webp
+      src: /assets/mockup/clients/schnucks.webp
       alt: Schnucks logo
       width: 226
       height: 42
   - name: Macy’s
     href: /project/macys/
     image:
-      src: /assets/editorial/assets/mockup/clients/macys.webp
+      src: /assets/mockup/clients/macys.webp
       alt: Macy’s logo
       width: 166
       height: 67
   - name: Bloomingdale’s
     href: /project/bloomingdales/
     image:
-      src: /assets/editorial/assets/mockup/clients/bloomingdales.webp
+      src: /assets/mockup/clients/bloomingdales.webp
       alt: Bloomingdale’s logo
       width: 207
       height: 50
   - name: Best Buy
     href: /project/best-buy/
     image:
-      src: /assets/editorial/assets/mockup/clients/best-buy.webp
+      src: /assets/mockup/clients/best-buy.webp
       alt: Best Buy logo
       width: 170
       height: 123
@@ -76,7 +76,7 @@ logos:
   - name: Pilot Company
     href: /project/pilot-flying-j/
     image:
-      src: /assets/editorial/assets/mockup/clients/pilot-flying-j.webp
+      src: /assets/mockup/clients/pilot-flying-j.webp
       alt: Pilot Flying J logo
       width: 148
       height: 69
@@ -90,28 +90,28 @@ logos:
   - name: Kangaroo Express
     href: /project/kangaroo-express/
     image:
-      src: /assets/editorial/assets/mockup/clients/kangaroo-express.webp
+      src: /assets/mockup/clients/kangaroo-express.webp
       alt: Kangaroo Express logo
       width: 190
       height: 70
   - name: Family Dollar
     href: /project/family-dollar/
     image:
-      src: /assets/editorial/assets/mockup/clients/family-dollar.webp
+      src: /assets/mockup/clients/family-dollar.webp
       alt: Family Dollar logo
       width: 230
       height: 49
   - name: At Home
     href: /project/at-home/
     image:
-      src: /assets/editorial/assets/mockup/clients/at-home.webp
+      src: /assets/mockup/clients/at-home.webp
       alt: At Home logo
       width: 165
       height: 89
   - name: Bargain Hunt
     href: /project/bargain-hunt/
     image:
-      src: /assets/editorial/assets/mockup/clients/bargain-hunt.webp
+      src: /assets/mockup/clients/bargain-hunt.webp
       alt: Bargain Hunt logo
       width: 199
       height: 71
