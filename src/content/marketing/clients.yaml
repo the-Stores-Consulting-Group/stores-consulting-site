@@ -2,116 +2,116 @@ copy:
   title1: Clients
   description2: A representative sample of national and regional retailers served by the Stores Consulting Group.
   title3: 100+ retailers since 2009. A few who've let us say so.
-  description4: We don't publish a client list — most engagements stay confidential, and we honor that by default. What follows is a representative sample of organizations who've specifically given us permission to use their name.
-  title5: $12B in profit created, across every kind of store there is.
+  description4: 'We don''t publish a client list — most engagements stay confidential, and we honor that by default. What follows is a representative sample of organizations who''ve specifically given us permission to use their name.'
+  title5: '$12B in profit created, across every kind of store there is.'
   description6: That's not luck. That's a portable standard.
-  text7: A sample, not a roster — dozens more across grocery, specialty, convenience, and value retail, under the confidentiality every engagement starts with by default.
+  text7: 'A sample, not a roster — dozens more across grocery, specialty, convenience, and value retail, under the confidentiality every engagement starts with by default.'
   text8: Client directory
   text9: More clients we’ve worked with.
-  text10: Explore retailer profiles across grocery, specialty, convenience, and value retail.
+  text10: 'Explore retailer profiles across grocery, specialty, convenience, and value retail.'
 logos:
   - name: Kroger
     href: /project/kroger/
     image:
-      src: /assets/mockup/clients/kroger.webp
+      src: /assets/editorial/assets/mockup/clients/kroger.webp
       alt: Kroger logo
       width: 150
       height: 96
   - name: Whole Foods
     href: /project/whole-foods/
     image:
-      src: /assets/mockup/clients/whole-foods.webp
+      src: /assets/editorial/assets/mockup/clients/whole-foods.webp
       alt: Whole Foods logo
       width: 199
       height: 67
   - name: Ahold Delhaize
     href: /project/ahold/
     image:
-      src: /assets/mockup/clients/ahold-delhaize.webp
+      src: /assets/editorial/assets/mockup/clients/ahold-delhaize.webp
       alt: Ahold Delhaize logo
       width: 204
       height: 99
   - name: Giant Eagle
     href: /project/giant-eagle/
     image:
-      src: /assets/mockup/clients/giant-eagle.webp
+      src: /assets/editorial/assets/mockup/clients/giant-eagle.webp
       alt: Giant Eagle logo
       width: 201
       height: 74
   - name: Schnucks
     href: /project/schnucks/
     image:
-      src: /assets/mockup/clients/schnucks.webp
+      src: /assets/editorial/assets/mockup/clients/schnucks.webp
       alt: Schnucks logo
       width: 226
       height: 42
   - name: Macy’s
     href: /project/macys/
     image:
-      src: /assets/mockup/clients/macys.webp
+      src: /assets/editorial/assets/mockup/clients/macys.webp
       alt: Macy’s logo
       width: 166
       height: 67
   - name: Bloomingdale’s
     href: /project/bloomingdales/
     image:
-      src: /assets/mockup/clients/bloomingdales.webp
+      src: /assets/editorial/assets/mockup/clients/bloomingdales.webp
       alt: Bloomingdale’s logo
       width: 207
       height: 50
   - name: Best Buy
     href: /project/best-buy/
     image:
-      src: /assets/mockup/clients/best-buy.webp
+      src: /assets/editorial/assets/mockup/clients/best-buy.webp
       alt: Best Buy logo
       width: 170
       height: 123
   - name: Bealls
     href: /project/bealls/
     image:
-      src: /assets/mockup/clients/bealls.webp
+      src: /assets/editorial/assets/mockup/clients/bealls.webp
       alt: Bealls logo
       width: 198
       height: 52
   - name: Pilot Flying J
     href: /project/pilot-flying-j/
     image:
-      src: /assets/mockup/clients/pilot-flying-j.webp
+      src: /assets/editorial/assets/mockup/clients/pilot-flying-j.webp
       alt: Pilot Flying J logo
       width: 148
       height: 69
   - name: getGo
     href: /project/getgo/
     image:
-      src: /assets/mockup/clients/getgo.webp
+      src: /assets/editorial/Client%20Logos/getGo-Logo.png
       alt: getGo logo
       width: 180
       height: 81
   - name: Kangaroo Express
     href: /project/kangaroo-express/
     image:
-      src: /assets/mockup/clients/kangaroo-express.webp
+      src: /assets/editorial/assets/mockup/clients/kangaroo-express.webp
       alt: Kangaroo Express logo
       width: 190
       height: 70
   - name: Family Dollar
     href: /project/family-dollar/
     image:
-      src: /assets/mockup/clients/family-dollar.webp
+      src: /assets/editorial/assets/mockup/clients/family-dollar.webp
       alt: Family Dollar logo
       width: 230
       height: 49
   - name: At Home
     href: /project/at-home/
     image:
-      src: /assets/mockup/clients/at-home.webp
+      src: /assets/editorial/assets/mockup/clients/at-home.webp
       alt: At Home logo
       width: 165
       height: 89
   - name: Bargain Hunt
     href: /project/bargain-hunt/
     image:
-      src: /assets/mockup/clients/bargain-hunt.webp
+      src: /assets/editorial/assets/mockup/clients/bargain-hunt.webp
       alt: Bargain Hunt logo
       width: 199
       height: 71
