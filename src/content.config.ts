@@ -60,6 +60,7 @@ const people = defineCollection({
     order: z.number().int().positive(),
     image: nullablePath,
     alt: z.string().nullish(),
+    linkedin: z.string().refine((value) => /^https:\/\/(www\.)?linkedin\.com\//.test(value), 'Use a full linkedin.com profile URL').nullish(),
   }),
 });
 

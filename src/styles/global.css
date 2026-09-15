@@ -1310,6 +1310,30 @@
     font-size: var(--type-subheading);
   }
 
+  .person-card__linkedin {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: var(--space-3);
+    font-family: var(--font-display);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--signal);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+
+  .person-card__linkedin:hover,
+  .person-card__linkedin:focus-visible {
+    border-bottom-color: var(--signal);
+  }
+
+  .person-card__linkedin svg {
+    width: 1rem;
+    height: 1rem;
+    flex: none;
+  }
+
   .person-card__role,
   .blog-meta {
     color: var(--muted);
