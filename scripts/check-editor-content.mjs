@@ -18,7 +18,7 @@ async function checkImages(value, file) {
   if (['src','image','featuredMedia','logo','avatar'].includes(key) && typeof item === 'string') {
    let path = item;
    if (path.startsWith('https://stores-consulting-site-dusky.vercel.app/')) path = new URL(path).pathname;
-   if (path.startsWith('/')) {try{await access('public'+path);}catch{errors.push(`${file}: missing image ${path}`);}}
+   if (path.startsWith('/')) {try{await access('public'+decodeURIComponent(path));}catch{errors.push(`${file}: missing image ${path}`);}}
   } else if (item && typeof item === 'object') await checkImages(item,file);
  }
 }
@@ -61,7 +61,7 @@ for(const {file,data,body} of documents.posts){
  if(data.resource?.url){
   const url=new URL(data.resource.url,'https://storesconsulting.com');
   if(url.protocol!=='https:' || !url.pathname.toLowerCase().endsWith('.pdf'))errors.push(`${file}: report URL must point to a PDF over HTTPS or a local path`);
-  if(data.resource.url.startsWith('/')){try{await access('public'+url.pathname);}catch{errors.push(`${file}: PDF file is missing`);}}
+  if(data.resource.url.startsWith('/')){try{await access('public'+decodeURIComponent(url.pathname));}catch{errors.push(`${file}: PDF file is missing`);}}
  }
 
  if(!authors.has(data.author))errors.push(`${file}: unknown author ${data.author}`);
