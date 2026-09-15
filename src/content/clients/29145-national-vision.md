@@ -4,7 +4,7 @@ slug: national-vision
 route: /project/national-vision/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/NV.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/NV.jpg
 legacyUrl: https://storesconsulting.com/project/national-vision/
 updatedDate: 2023-01-17T10:34:49
 sourceId: 29145

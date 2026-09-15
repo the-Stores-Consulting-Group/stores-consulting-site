@@ -4,7 +4,7 @@ slug: american-thrift-stores
 route: /project/american-thrift-stores/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/AmericanThrift.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/AmericanThrift.png
 legacyUrl: https://storesconsulting.com/project/american-thrift-stores/
 updatedDate: 2017-01-25T02:17:50
 sourceId: 28065

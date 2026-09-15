@@ -4,7 +4,7 @@ slug: giant-eagle
 route: /project/giant-eagle/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/GiantEagle.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/GiantEagle.png
 legacyUrl: https://storesconsulting.com/project/giant-eagle/
 updatedDate: 2017-01-24T23:04:28
 sourceId: 28085

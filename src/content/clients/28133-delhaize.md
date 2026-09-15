@@ -4,7 +4,7 @@ slug: delhaize
 route: /project/delhaize/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/ahold.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/ahold.jpg
 legacyUrl: https://storesconsulting.com/project/delhaize/
 updatedDate: 2023-01-17T11:01:36
 sourceId: 28133

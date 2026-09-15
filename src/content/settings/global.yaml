@@ -50,8 +50,8 @@ labels:
 
 business:
   description: Retail execution, operations, and technology adoption consulting.
-  logo: https://stores-consulting-site.vercel.app/assets/brand/organization-logo.png
+  logo: https://stores-consulting-site-dusky.vercel.app/assets/brand/organization-logo.png
   sameAs: []
 sharing:
-  image: https://stores-consulting-site.vercel.app/assets/brand/social-card.png
+  image: https://stores-consulting-site-dusky.vercel.app/assets/brand/social-card.png
   alt: the Stores Consulting Group

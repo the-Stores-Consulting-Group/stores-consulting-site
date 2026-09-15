@@ -4,7 +4,7 @@ slug: lazy-days
 route: /project/lazy-days/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/lazy-days-21.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/lazy-days-21.png
 legacyUrl: https://storesconsulting.com/project/lazy-days/
 updatedDate: 2023-01-17T11:03:04
 sourceId: 28131

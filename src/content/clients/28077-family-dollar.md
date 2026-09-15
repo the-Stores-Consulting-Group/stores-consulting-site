@@ -4,7 +4,7 @@ slug: family-dollar
 route: /project/family-dollar/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/family-dollar-logo_final.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/family-dollar-logo_final.png
 legacyUrl: https://storesconsulting.com/project/family-dollar/
 updatedDate: 2017-01-24T23:40:35
 sourceId: 28077

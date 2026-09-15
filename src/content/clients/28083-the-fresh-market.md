@@ -4,7 +4,7 @@ slug: the-fresh-market
 route: /project/the-fresh-market/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/Freshmarket.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Freshmarket.png
 legacyUrl: https://storesconsulting.com/project/the-fresh-market/
 updatedDate: 2017-02-09T17:58:35
 sourceId: 28083

@@ -35,8 +35,8 @@ The living `/styleguide/` renders production tokens and shared components. Its s
 
 ## Publishing
 
-- Live review site: https://stores-consulting-site.vercel.app/
-- Hosted editor: https://stores-consulting-site.vercel.app/admin/index.html
+- Live review site: https://stores-consulting-site-dusky.vercel.app/
+- Hosted editor: https://stores-consulting-site-dusky.vercel.app/admin/index.html
 - Repository: https://github.com/hmpsn/stores-consulting-site
 - Deployments: https://vercel.com/josh-hampsons-projects/stores-consulting-site/deployments
 

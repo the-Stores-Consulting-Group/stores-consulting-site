@@ -4,7 +4,7 @@ slug: supervalu
 route: /project/supervalu/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2017/01/1000px-Supervalu-logo.svg_.png
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/1000px-Supervalu-logo.svg_.png
 legacyUrl: https://storesconsulting.com/project/supervalu/
 updatedDate: 2017-01-24T23:42:57
 sourceId: 28057

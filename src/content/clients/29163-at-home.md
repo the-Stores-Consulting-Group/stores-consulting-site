@@ -4,7 +4,7 @@ slug: at-home
 route: /project/at-home/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site.vercel.app/wp-content/uploads/2023/01/arhome.jpg
+logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/arhome.jpg
 legacyUrl: https://storesconsulting.com/project/at-home/
 updatedDate: 2023-01-17T10:57:39
 sourceId: 29163
