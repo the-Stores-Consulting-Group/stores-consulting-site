@@ -5,6 +5,8 @@ route: /project/kroger/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Kroger-Logo.png
+logoWidth: 400
+logoHeight: 400
 legacyUrl: 'https://storesconsulting.com/project/kroger/'
 updatedDate: 2026-09-15T21:10:46.057Z
 sourceId: 28097

@@ -5,6 +5,8 @@ route: /project/giant-eagle/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Giant-Eagle-Logo.webp
+logoWidth: 1280
+logoHeight: 1220
 legacyUrl: 'https://storesconsulting.com/project/giant-eagle/'
 updatedDate: 2026-09-15T21:10:29.599Z
 sourceId: 28085

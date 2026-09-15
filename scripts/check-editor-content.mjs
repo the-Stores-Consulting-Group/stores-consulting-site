@@ -18,7 +18,7 @@ async function checkImages(value, file) {
   if (['src','image','featuredMedia','logo','avatar'].includes(key) && typeof item === 'string') {
    let path = item;
    if (path.startsWith('https://stores-consulting-site-dusky.vercel.app/')) path = new URL(path).pathname;
-   if (path.startsWith('/')) {try{await access('public'+path);}catch{errors.push(`${file}: missing image ${path}`);}}
+   if (path.startsWith('/')) {try{await access('public'+decodeURIComponent(path));}catch{errors.push(`${file}: missing image ${path}`);}}
   } else if (item && typeof item === 'object') await checkImages(item,file);
  }
 }

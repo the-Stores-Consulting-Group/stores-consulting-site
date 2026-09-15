@@ -5,6 +5,8 @@ route: /project/bealls/
 category: legacy-client
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Bealls-Logo.png
+logoHeight: 75
+logoWidth: 248
 legacyUrl: 'https://storesconsulting.com/project/bealls/'
 updatedDate: 2026-09-15T21:11:52.800Z
 sourceId: 29210
