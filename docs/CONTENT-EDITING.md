@@ -7,7 +7,7 @@ Content is validated at build time. A malformed field, duplicate route, or broke
 | Collection | Location | Format | Primary fields |
 |---|---|---|---|
 | Services | `src/content/services/` | YAML | `title`, `slug`, `order`, `summary`, `thesis`, six `workstreams`, `metrics`, `relatedPaths`; optional `heroMedia`, `supportingMedia` |
-| People | `src/content/people/` | Markdown | `name`, `role`, `tier`, `order`, `image`, `alt`; biography in the body |
+| People | `src/content/people/` | Markdown | `name`, `role`, `tier`, `order`, `image`, `alt`, `linkedin`; biography in the body |
 | Clients/projects | `src/content/clients/` | Markdown | `name`, `slug`, `route`, `category`, `tier`, `logo`, `legacyUrl`; profile in the body |
 | Posts | `src/content/posts/` | Markdown | `title`, `slug`, `route`, dates, `author`, `categories`, `featuredMedia`, `draft`; article body and optional structured `contentBlocks` |
 | Additional pages | `src/content/legacy-pages/` | Markdown | `title`, `slug`, `route`, `description`, `originalUrl`, `updatedDate`; page copy in the body |

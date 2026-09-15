@@ -5,6 +5,7 @@ tier: senior-consultant
 order: 11
 image: null
 alt: ""
+linkedin: https://www.linkedin.com/in/michael-little-30931945/
 ---
 
 Michael Little is a Senior Consultant at the Stores Consulting Group (tSCG) with deep expertise in retail operations, store leadership, and enterprise transformation. Leveraging extensive hands-on experience in store execution and perishable department management. He specializes in rapid operational diagnostics, process standardization, and labor optimization models. Michael Partners closely with client leadership to eliminate operational friction, enhance productivity, and deliver sustainable, measurable profit improvements.
