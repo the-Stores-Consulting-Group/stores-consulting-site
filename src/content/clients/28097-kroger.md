@@ -4,11 +4,12 @@ slug: kroger
 route: /project/kroger/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Kroger.png
-legacyUrl: https://storesconsulting.com/project/kroger/
-updatedDate: 2017-01-19T15:00:20
+logo: /assets/editorial/Client%20Logos/Kroger-Logo.png
+legacyUrl: 'https://storesconsulting.com/project/kroger/'
+updatedDate: 2026-09-15T21:10:46.057Z
 sourceId: 28097
 ---
+
 
 <img src="/wp-content/uploads/2017/01/Kroger.png" alt="Kroger" width="600" height="600" loading="lazy">
 
