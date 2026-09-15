@@ -13,7 +13,7 @@ hero:
     label: Talk to Us
     href: /contact-us/
   image:
-    src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/iStock-543570406_2.jpg
+    src: /assets/editorial/Home-Screen-1.jpg
     alt: A contemporary clothing store with merchandise arranged across display tables and racks.
     width: 2048
     height: 1365
@@ -50,7 +50,7 @@ proof:
     label: See how we measure results →
     href: /results/
   image:
-    src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/convenience.jpg
+    src: 'https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/convenience.jpg'
     alt: A store associate at a checkout while a customer stands beside the counter.
     width: 2048
     height: 1407
