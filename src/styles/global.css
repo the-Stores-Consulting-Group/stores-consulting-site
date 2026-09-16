@@ -1300,9 +1300,20 @@
   .person-card {
     display: grid;
     grid-template-columns: minmax(12rem, 0.75fr) minmax(0, 1.25fr);
+    grid-template-rows: auto auto;
     gap: var(--space-5);
     padding-block: var(--space-5);
     border-bottom: 1px solid var(--line-soft);
+  }
+
+  .person-card__role {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .person-card__content {
+    grid-column: 2;
+    grid-row: 1 / span 2;
   }
 
   .person-card__content h3 {
@@ -2160,6 +2171,13 @@
     gap: var(--space-2);
   }
 
+  .person-card__role,
+  .person-card__portrait,
+  .person-card__content {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
   .article-navigation__adjacent {
     grid-template-columns: 1fr;
   }
@@ -2248,7 +2266,16 @@
 /* Editor wrappers must not contain the sticky header in a header-height box. */
 .tina-chrome { display: contents; }
 
-.person-card__portrait { width: 7.5rem; height: 7.5rem; object-fit: cover; margin-block: var(--space-3); }
+.person-card__portrait {
+  grid-column: 1;
+  grid-row: 2;
+  align-self: start;
+  width: 12.5rem;
+  height: 12.5rem;
+  object-fit: cover;
+  object-position: top;
+  margin-block: var(--space-3);
+}
 
 /* PDF resource: full-width document preview with a persistent direct link. */
 @layer components {
