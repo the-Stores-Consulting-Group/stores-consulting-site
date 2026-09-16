@@ -3,10 +3,11 @@ name: Richard Marino
 role: Managing Director
 tier: leadership
 order: 1
-image: /assets/editorial/Headshots/1.R_Marino.jpg
-alt: "Richard Marino"
-linkedin: https://www.linkedin.com/in/rick-marino-14354325/
+image: ''
+alt: Richard Marino
+linkedin: 'https://www.linkedin.com/in/rick-marino-14354325/'
 ---
+
 
 
 
