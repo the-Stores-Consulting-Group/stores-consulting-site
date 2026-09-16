@@ -2270,8 +2270,8 @@
   grid-column: 1;
   grid-row: 2;
   align-self: start;
-  width: 7.5rem;
-  height: 7.5rem;
+  width: 12.5rem;
+  height: 12.5rem;
   object-fit: cover;
   object-position: top;
   margin-block: var(--space-3);
