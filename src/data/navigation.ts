@@ -9,7 +9,7 @@ export interface NavigationLink {
 export const serviceLinks = [
   { href: '/services/', label: 'Services Overview' },
   { href: '/services/shrink-profit-recovery/', label: 'Shrink & Profit Recovery' },
-  { href: '/services/fresh-inventory-operations/', label: 'Fresh & Inventory Operations' },
+  { href: '/services/fresh-inventory-operations/', label: 'Inventory & On-Shelf Availability' },
   { href: '/services/workforce-store-execution/', label: 'Workforce & Store Execution' },
   { href: '/services/technology-adoption-change-management/', label: 'Technology Adoption & Change Management' },
 ] as const;
