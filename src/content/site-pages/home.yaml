@@ -3,9 +3,9 @@ metadata:
   title: the Stores Consulting Group
   description: Retail execution consulting that closes the gap between what technology promises and what stores actually deliver.
 hero:
-  headline: Retailers have the AI. Most aren't capturing
-  emphasis: the return
-  description: 'the Stores Consulting Group closes the gap between what your technology promises and what your stores actually deliver — foundational retail execution, built for the AI era.'
+  headline: Foundational store execution for the
+  emphasis: AI era
+  description: 'We close the gap between what the technology promises and what the store actually does — that is where your return shows up.'
   primaryAction:
     label: See How We Work
     href: /approach/
