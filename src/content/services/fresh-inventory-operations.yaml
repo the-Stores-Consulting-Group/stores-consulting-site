@@ -1,8 +1,8 @@
-title: Fresh & Inventory Operations
+title: Inventory & On-Shelf Availability
 slug: fresh-inventory-operations
 order: 2
 eyebrow: AISLE 02 · What We Do
-summary: Close the gap between ordering, production, and what's actually on the shelf.
+summary: 'Get the item on the shelf and shoppable. That is sales. That is the trip.'
 thesisLabel: Why Technology Alone Hasn't Solved This
 thesis: Production-planning and CAO/CGO tools can tell a store what to order. They can't enforce the schematic compliance, PLU discipline, and shelf-life standards that determine whether that order ever becomes margin. That's the execution layer — and it's ours.
 workstreams:
