@@ -19,8 +19,8 @@ hero:
     height: 1365
     position: center
 problem:
-  heading: The hardware wave has crested. The execution gap is the only gap left.
-  description: 'ESLs, shelf robots, and AI platforms are deployed across tens of thousands of stores. The technology is in. The adoption isn''t. Three structural gaps compound one another every day that technology goes underutilized — and tSCG exists to close them.'
+  heading: The technology is in. The store still has to run it.
+  description: 'ESLs, robots, workforce systems, AI — they are already on the floor. The alert fires. The order sits. The schedule dies at 6 a.m. That is the execution gap. That is the work.'
   cards:
     - label: The Adoption Gap
       title: The alert fires. Nobody acts.
