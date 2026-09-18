@@ -3,7 +3,7 @@ name: Greg Paris
 role: Director
 tier: director
 order: 3
-image: ''
+image: null
 alt: ''
 linkedin: 'https://www.linkedin.com/in/greg-paris-1807b44/'
 ---
