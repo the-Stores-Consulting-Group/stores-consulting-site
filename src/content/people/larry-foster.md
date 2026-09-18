@@ -3,7 +3,7 @@ name: Larry Foster
 role: Director
 tier: director
 order: 4
-image: ''
+image: null
 alt: ''
 linkedin: 'https://www.linkedin.com/in/lmfosterjr/'
 ---
