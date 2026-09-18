@@ -1195,6 +1195,10 @@
     border-block: 1px solid var(--line);
   }
 
+  .metrics--team-proof .metrics__grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   .metrics__item {
     padding: var(--space-5);
   }
@@ -2100,6 +2104,7 @@
   .service-grid,
   .approach-grid,
   .metrics__grid,
+  .metrics--team-proof .metrics__grid,
   .path-grid,
   .workstream-grid,
   .principle-grid,

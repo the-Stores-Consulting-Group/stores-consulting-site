@@ -121,7 +121,7 @@ const proofImage = proof.image ? { ...proof.image, position: proof.image.positio
     <h2 data-tina-field={tinaField(teamProof, 'heading')}>{teamProof.heading}</h2>
     <p data-tina-field={tinaField(teamProof, 'description')}>{teamProof.description}</p>
   </div>
-  <div data-tina-field={tinaField(teamProof, 'metrics')}><Metrics items={proofMetrics} /></div>
+  <div class="metrics--team-proof" data-tina-field={tinaField(teamProof, 'metrics')}><Metrics items={proofMetrics} /></div>
 </div></section>
 
 <CtaBand />

@@ -209,7 +209,7 @@ const homepage = z.object({
   teamProof: z.object({
     heading: z.string(),
     description: z.string(),
-    metrics: z.array(metric).length(3),
+    metrics: z.array(metric).length(4),
   }),
 });
 
