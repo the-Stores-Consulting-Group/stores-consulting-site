@@ -81,7 +81,7 @@ approach:
       copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
     - number: '02'
       title: Prove the standard
-      copy: Build ownership with store and district leaders in a lighthouse or model-store environment.
+      copy: 'In a lighthouse store if one exists. In a model store if one does not. Leaders have to be able to run it without us.'
     - number: '03'
       title: Scale through the field
       copy: 'Transfer capability through dashboards, escalation paths, and peer mentorship.'
