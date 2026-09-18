@@ -5,7 +5,7 @@ metadata:
 hero:
   headline: Foundational store execution for the
   emphasis: AI era
-  description: 'We close the gap between what the technology promises and what the store actually does — that is where your return shows up.'
+  description: We close the gap between what the technology promises and what the store actually does — that is where your return shows up.
   primaryAction:
     label: See How We Work
     href: /approach/
@@ -13,7 +13,7 @@ hero:
     label: Talk to Us
     href: /contact-us/
   image:
-    src: /assets/editorial/produce_photo_logo_removed-(1).png
+    src: /assets/editorial/Home-Page-1.jpg
     alt: A contemporary clothing store with merchandise arranged across display tables and racks.
     width: 2048
     height: 1365
@@ -24,13 +24,13 @@ problem:
   cards:
     - label: The Adoption Gap
       title: The alert fires. Nobody acts.
-      copy: 'The platform did its job. No one owned the next hour. The workflow was never installed.'
+      copy: The platform did its job. No one owned the next hour. The workflow was never installed.
     - label: The Attention Gap
       title: Too much data. No framework.
-      copy: 'The store gets more flags than it can run. So people do what they did yesterday.'
+      copy: The store gets more flags than it can run. So people do what they did yesterday.
     - label: The ROI Gap
       title: The promise never shows up on the floor.
-      copy: 'The ROI was modeled in the deck. Margin is still leaking in the aisle. That is not a software miss.'
+      copy: The ROI was modeled in the deck. Margin is still leaking in the aisle. That is not a software miss.
 ratio:
   items:
     - value: 70%
