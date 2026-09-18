@@ -5,13 +5,15 @@ copy:
   description4: Every retailer we work with is facing one of two problems — not a spectrum, two different starting conditions. We triage which one you're in during our first conversation, and the path follows from there.
   title5: Not sure which path fits?
   description6: That's exactly what the first conversation is for. Tell us where things stand, and we'll tell you which path — and why.
-  text27: Path Two · The Foundations Path
-  text28: Assessment. Model Store. Learning Centers. Fleet.
+  text27: The Foundations Path
+  text28: Assessment. Quick Wins. Model Store. Learning Centers. Fleet.
   text29: For retailers where no store has proven the standard yet — technology aside. Build it, prove it in one store, refine it in a few more, then scale it across the fleet.
   text30: Not every engagement needs every stage. We scope to where you actually are.
 foundations:
   - title: Assessment
     description: 1–3 weeks on the floor across a representative sample of stores. Full benchmark data pulled, gaps categorized fleet-wide.
+  - title: Quick Wins
+    description: High-impact improvements that can be implemented quickly with minimal cost, effort, or risk. They deliver visible results early and often generate enough savings to pay for the assessment itself.
   - title: Model Store
     description: Build and prove the standard in one store, hands-on, with a dedicated team — not a recommendation on paper.
   - title: Learning Centers
