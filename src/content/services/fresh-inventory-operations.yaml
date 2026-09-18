@@ -3,8 +3,8 @@ slug: fresh-inventory-operations
 order: 2
 eyebrow: AISLE 02 · What We Do
 summary: 'Get the item on the shelf and shoppable. That is sales. That is the trip.'
-thesisLabel: Why Technology Alone Hasn't Solved This
-thesis: Production-planning and CAO/CGO tools can tell a store what to order. They can't enforce the schematic compliance, PLU discipline, and shelf-life standards that determine whether that order ever becomes margin. That's the execution layer — and it's ours.
+thesisLabel: The system can recommend the order. It cannot make the item show up right.
+thesis: Planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday's product from sitting in front of today's. That last stretch is sales and the trip. That is the execution layer.
 workstreams:
   - title: Production Planning
     description: Software-agnostic production planning using store-specific historical POS data; central forecast administrator development; ingredient and recipe management.
