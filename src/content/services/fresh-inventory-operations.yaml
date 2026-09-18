@@ -6,18 +6,18 @@ summary: 'Get the item on the shelf and shoppable. That is sales. That is the tr
 thesisLabel: Why Technology Alone Hasn't Solved This
 thesis: Production-planning and CAO/CGO tools can tell a store what to order. They can't enforce the schematic compliance, PLU discipline, and shelf-life standards that determine whether that order ever becomes margin. That's the execution layer — and it's ours.
 workstreams:
-  - title: Production Planning
-    description: Software-agnostic production planning using store-specific historical POS data; central forecast administrator development; ingredient and recipe management.
-  - title: Merchandise Strategy & Standards
-    description: Space-to-sales analysis and planograms, activity-based costing and product profitability, core item selection by store cluster.
-  - title: Ordering & Inventory Management
-    description: Informed-ordering best practices, order-to-delivery cycle time and frequency, lean inventory and sell-through.
-  - title: Operational Readiness & Simplification
-    description: Workflow analysis for culling, cleaning, and production; elimination of non-value-added tasks; opening and closing procedures.
-  - title: Selling Opportunities & Effectiveness
-    description: Display standards for fresher product and longer shelf life, space-to-sales fit for selling patterns, traffic-flow-informed display placement.
-  - title: Shrink, Other Loss & Risk Controls
-    description: Known-loss capture and markdown controls, scale tare-weight accuracy, product ID accuracy at POS.
+  - title: On-Hand & In-Stock
+    description: What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the shelf.
+  - title: Ordering and Replenishment
+    description: How the store brings product in — cycle, frequency, min/max, what to do when the suggested order is wrong.
+  - title: Fresh and Prepared Production
+    description: Where the banner has it — production planning, recipes, yield, and what has to be made before the rush. Grocery-heavy. Not the whole aisle.
+  - title: Presentation and Shopability
+    description: Set, facing, price integrity, display. This is top-line and the trip — the item is there, it looks right, they can find it.
+  - title: Store Work That Gets in the Way
+    description: Open, close, cull, clean, extra touches that steal hours from the set. Cut the work that does not move availability or sales.
+  - title: Waste, Markdowns, and Known Loss on the Set
+    description: Spoilage, late markdowns, bad codes, scale and PLU errors. Leave theft and door controls in Aisle 01.
 metrics:
   - value: Up to 7%
     label: Typical total store sales gains from fresh and inventory execution programs
