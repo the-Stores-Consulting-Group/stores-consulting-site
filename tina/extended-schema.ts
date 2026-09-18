@@ -617,7 +617,7 @@ const newRecord = (kind: 'post' | 'client' | 'person'): NonNullable<Collection['
  },
 });
 export const editorialCollections: Collection[] = [
- {name:'person',label:'People & bios',path:'src/content/people',format:'md',ui:{...newRecord('person'),router:()=>'/about/'},defaultItem:{tier:'senior-consultant',order:999,image:null,alt:''},fields:[
+ {name:'person',label:'People & bios',path:'src/content/people',format:'md',ui:{...newRecord('person'),router:()=>'/about/',beforeSubmit:async({values}:any)=>({...values,image:values.image||null})},defaultItem:{tier:'senior-consultant',order:999,image:null,alt:''},fields:[
  {...text('name','Name'),isTitle:true},text('role','Role'),{name:'tier',label:'Team group',type:'string',required:true,options:['leadership','director','managing-consultant','senior-consultant']},hidden('order','number'),{name:'image',type:'image',label:'Portrait'},text('alt','Portrait alternative text',false),{...text('linkedin','LinkedIn URL',false),ui:{validate:(value:unknown)=>value&&!/^https:\/\/(www\.)?linkedin\.com\//.test(String(value))?'Enter a full linkedin.com profile URL.':undefined}},body,
  ]},
  {name:'post',label:'Blog posts',path:'src/content/posts',format:'md',ui:{...newRecord('post'),router:({document}:any)=>(document.draft || (editorOptions.drafts as string[]).includes(document._sys.filename)) ? undefined : document.route || (editorOptions.routes.post as Record<string,string>)[document._sys.filename] || `/${document._sys.filename}/`},defaultItem:()=>({draft:true,contentType:'article',author:'admin',categories:['uncategorized'],publishedDate:new Date().toISOString(),updatedDate:new Date().toISOString()}),fields:[
