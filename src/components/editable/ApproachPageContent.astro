@@ -7,18 +7,11 @@ interface Props { data: ApproachPageQuery['approachPage']; related?: any; }
 const { data } = Astro.props;
 const copy = data.copy!;
 import WorkstreamGrid from '../WorkstreamGrid.astro';
-const lighthouse = data.lighthouse!;
 const foundations = data.foundations!;
 ---
 <div>
 
   <PageIntro title={copy.title3} description={copy.description4} measure="wide" editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4')}} />
-  <section class="section section--soft"><div class="shell path-grid">
-    <article class="path-card" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text7')}>{copy.text7}</p><h2 data-tina-field={tinaField(copy, 'text8')}>{copy.text8}</h2><p data-tina-field={tinaField(copy, 'text9')}>{copy.text9}</p></article>
-    <article class="path-card" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text10')}>{copy.text10}</p><h2 data-tina-field={tinaField(copy, 'text11')}>{copy.text11}</h2><p data-tina-field={tinaField(copy, 'text12')}>{copy.text12}</p></article>
-  </div></section>
-  <section class="section section--paper"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text13')}>{copy.text13}</p><h2 data-tina-field={tinaField(copy, 'text14')}>{copy.text14}</h2><p data-tina-field={tinaField(copy, 'text15')}>{copy.text15}</p><p data-tina-field={tinaField(copy, 'text16')}>{copy.text16}</p></div><WorkstreamGrid items={lighthouse} /></div></section>
-  <section class="section"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text17')}>{copy.text17}</p><h2 data-tina-field={tinaField(copy, 'text18')}>{copy.text18}</h2></div><div class="principle-grid"><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text19')}>{copy.text19}</h3><p data-tina-field={tinaField(copy, 'text20')}>{copy.text20}</p></article><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text21')}>{copy.text21}</h3><p data-tina-field={tinaField(copy, 'text22')}>{copy.text22}</p></article><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text23')}>{copy.text23}</h3><p data-tina-field={tinaField(copy, 'text24')}>{copy.text24}</p></article><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text25')}>{copy.text25}</h3><p data-tina-field={tinaField(copy, 'text26')}>{copy.text26}</p></article></div></div></section>
   <section class="section section--paper"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text27')}>{copy.text27}</p><h2 data-tina-field={tinaField(copy, 'text28')}>{copy.text28}</h2><p data-tina-field={tinaField(copy, 'text29')}>{copy.text29}</p><p data-tina-field={tinaField(copy, 'text30')}>{copy.text30}</p></div><WorkstreamGrid items={foundations} /></div></section>
   <CtaBand title={copy.title5} description={copy.description6} editFields={{title: tinaField(copy, 'title5'), description: tinaField(copy, 'description6')}} />
 

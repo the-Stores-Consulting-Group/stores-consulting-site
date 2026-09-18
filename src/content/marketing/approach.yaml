@@ -5,39 +5,10 @@ copy:
   description4: Every retailer we work with is facing one of two problems — not a spectrum, two different starting conditions. We triage which one you're in during our first conversation, and the path follows from there.
   title5: Not sure which path fits?
   description6: That's exactly what the first conversation is for. Tell us where things stand, and we'll tell you which path — and why.
-  text7: Path One
-  text8: The Lighthouse Path
-  text9: You've deployed the AI. Some stores are already acting on it. The gap is spreading what already works — fast, without adding headcount.
-  text10: Path Two
-  text11: The Foundations Path
-  text12: No store has cracked it yet — technology aside. We build the standard from the floor up, prove it, and scale it at the pace that's right for you.
-  text13: Path One · The Lighthouse Path
-  text14: The 72-Hour Diagnostic.
-  text15: For retailers with the technology already live. Fast, decisive, ownership-first — built from real deployments, not a framework borrowed off a shelf.
-  text16: "Five critical questions frame the diagnostic: accountability, training, authority, supply chain, resources. The answer determines the intervention."
-  text17: The Lighthouse Cascade
-  text18: Capability moves store to store.
-  text19: Identify your Lighthouses
-  text20: Elevate elite stores into teaching hubs. They transfer ground-level knowledge no corporate memo ever could.
-  text21: Stop top-down mandates
-  text22: District mandates create compliance. Peer mentorship creates capability.
-  text23: Build the cascade
-  text24: Performance-driven mentorship from Lighthouses to apprentice stores — a network that scales without adding headcount.
-  text25: Graduate and repeat
-  text26: Apprentices become Lighthouses. The network grows. Field specialist dependency shrinks to zero.
   text27: Path Two · The Foundations Path
   text28: Assessment. Model Store. Learning Centers. Fleet.
   text29: For retailers where no store has proven the standard yet — technology aside. Build it, prove it in one store, refine it in a few more, then scale it across the fleet.
   text30: Not every engagement needs every stage. We scope to where you actually are.
-lighthouse:
-  - title: Day 1 · On-Site Diagnostic
-    description: 6–8 hours on the store floor observing real morning workflows. We categorize the execution gap on the spot.
-  - title: Day 2 · Virtual Solutioning
-    description: Align with the District Manager. Benchmark against Lighthouse stores. Finalize a plan anchored in DM accountability — not dependence on us.
-  - title: Day 3 · Ownership Transfer
-    description: "Train leadership and execute quick wins together on-site. Install three sustainability mechanisms: dashboards, DM escalation, peer mentorship."
-  - title: Ongoing · Validate & Graduate
-    description: Daily dashboards and red-flag escalation keep results holding. The store earns Lighthouse status — autonomous, peer-mentoring, self-sustaining.
 foundations:
   - title: Assessment
     description: 1–3 weeks on the floor across a representative sample of stores. Full benchmark data pulled, gaps categorized fleet-wide.
