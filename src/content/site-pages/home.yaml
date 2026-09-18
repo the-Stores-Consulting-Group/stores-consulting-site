@@ -78,7 +78,7 @@ approach:
   steps:
     - number: '01'
       title: Diagnose the real gap
-      copy: 'Observe the store floor, quantify friction, and establish which intervention is actually required.'
+      copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
     - number: '02'
       title: Prove the standard
       copy: Build ownership with store and district leaders in a lighthouse or model-store environment.
