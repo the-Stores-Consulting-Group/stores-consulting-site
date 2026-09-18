@@ -84,7 +84,7 @@ approach:
       copy: 'In a lighthouse store if one exists. In a model store if one does not. Leaders have to be able to run it without us.'
     - number: '03'
       title: Scale through the field
-      copy: 'Transfer capability through dashboards, escalation paths, and peer mentorship.'
+      copy: 'Peer to peer, district-owned. Dashboards and escalation so it holds after the visit.'
 technology:
   eyebrow: Technology Philosophy
   heading: We work with any platform — on purpose.
