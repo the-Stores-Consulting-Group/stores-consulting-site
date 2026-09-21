@@ -115,3 +115,10 @@ logos:
       alt: Bargain Hunt logo
       width: 199
       height: 71
+  - name: Goodyear
+    href: /project/goodyear/
+    image:
+      src: /assets/editorial/Client%20Logos/Goodyear-Logo.png
+      alt: Goodyear logo
+      width: 600
+      height: 600
