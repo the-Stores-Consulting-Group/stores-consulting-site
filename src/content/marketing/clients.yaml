@@ -108,13 +108,13 @@ logos:
       alt: At Home logo
       width: 165
       height: 89
-  - name: Bargain Hunt
-    href: /project/bargain-hunt/
+  - name: Tops
+    href: /project/tops/
     image:
-      src: /assets/mockup/clients/bargain-hunt.webp
-      alt: Bargain Hunt logo
-      width: 199
-      height: 71
+      src: /assets/mockup/clients/client.webp
+      alt: Tops logo
+      width: 265
+      height: 265
   - name: Goodyear
     href: /project/goodyear/
     image:
