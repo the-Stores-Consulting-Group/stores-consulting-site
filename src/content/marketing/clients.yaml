@@ -87,13 +87,13 @@ logos:
       alt: getGo logo
       width: 180
       height: 81
-  - name: Kangaroo Express
-    href: /project/kangaroo-express/
+  - name: Southeastern Grocers
+    href: /project/southeastern-grocers/
     image:
-      src: /assets/mockup/clients/kangaroo-express.webp
-      alt: Kangaroo Express logo
-      width: 190
-      height: 70
+      src: /assets/editorial/Client%20Logos/Southeastern-Grocers-Logo.jpg
+      alt: Southeastern Grocers logo
+      width: 720
+      height: 720
   - name: Family Dollar
     href: /project/family-dollar/
     image:
