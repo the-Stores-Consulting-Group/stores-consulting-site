@@ -73,6 +73,14 @@ const proofImage = proof.image ? { ...proof.image, position: proof.image.positio
   <blockquote id="execution-thesis" data-reveal data-tina-field={tinaField(ratio, 'quote')}>{ratio.quote}</blockquote>
 </div></section>
 
+<section class="section section--paper"><div class="shell">
+  <div class="section__heading" data-reveal>
+    <h2 data-tina-field={tinaField(teamProof, 'heading')}>{teamProof.heading}</h2>
+    <p data-tina-field={tinaField(teamProof, 'description')}>{teamProof.description}</p>
+  </div>
+  <div class="metrics--team-proof" data-tina-field={tinaField(teamProof, 'metrics')}><Metrics items={proofMetrics} /></div>
+</div></section>
+
 <section class="section"><div class="shell fm-proof-layout">
   <div data-reveal>
     <p class="eyebrow" data-tina-field={tinaField(proof, 'eyebrow')}>{proof.eyebrow}</p>
@@ -114,14 +122,6 @@ const proofImage = proof.image ? { ...proof.image, position: proof.image.positio
   <h2 data-tina-field={tinaField(technology, 'heading')}>{technology.heading}</h2>
   <p data-tina-field={tinaField(technology, 'description')}>{technology.description}</p>
   <ul class="pill-list">{technology.pills.map((pill,index) => <li data-tina-field={tinaField(technology, 'pills',index)}>{pill}</li>)}</ul>
-</div></section>
-
-<section class="section section--paper"><div class="shell">
-  <div class="section__heading" data-reveal>
-    <h2 data-tina-field={tinaField(teamProof, 'heading')}>{teamProof.heading}</h2>
-    <p data-tina-field={tinaField(teamProof, 'description')}>{teamProof.description}</p>
-  </div>
-  <div class="metrics--team-proof" data-tina-field={tinaField(teamProof, 'metrics')}><Metrics items={proofMetrics} /></div>
 </div></section>
 
 <CtaBand />
