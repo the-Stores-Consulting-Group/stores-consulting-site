@@ -366,7 +366,7 @@
       "value": "/out-of-stocks-in-the-fresh-departments-solving-the-last-100-feet/"
     },
     {
-      "label": "Pilot Flying J",
+      "label": "Pilot Company",
       "value": "/project/pilot-flying-j/"
     },
     {
@@ -384,10 +384,6 @@
     {
       "label": "Sobeys",
       "value": "/project/sobeys/"
-    },
-    {
-      "label": "Southeastern Grocers",
-      "value": "/project/southeastern-grocers/"
     },
     {
       "label": "Superior Grocers",
@@ -412,6 +408,10 @@
     {
       "label": "the Stores Consulting Group designs new cash stand and reduces transaction time by over 15%",
       "value": "/tscg-designs-new-cash-stand-layout-for-department-store-and-reduces-transaction-time-by-over-15/"
+    },
+    {
+      "label": "The Winn-Dixie Company",
+      "value": "/project/southeastern-grocers/"
     },
     {
       "label": "There is Always a Better Way",

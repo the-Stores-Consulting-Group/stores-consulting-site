@@ -1,5 +1,5 @@
 ---
-name: Southeastern Grocers
+name: The Winn-Dixie Company
 slug: southeastern-grocers
 route: /project/southeastern-grocers/
 category: legacy-client
@@ -10,7 +10,7 @@ updatedDate: 2023-01-17T11:23:09
 sourceId: 29215
 ---
 
-<img src="/wp-content/uploads/2023/01/seg.jpg" alt="Southeastern Grocers" width="720" height="720" loading="lazy">
+<img src="/wp-content/uploads/2023/01/seg.jpg" alt="The Winn-Dixie Company" width="720" height="720" loading="lazy">
 
 [Return to Clients](/clients/)
 
