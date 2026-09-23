@@ -1151,15 +1151,24 @@
     line-height: var(--leading-lead);
   }
 
+  .section--paper .philosophy > p:not(.eyebrow) {
+    color: var(--muted);
+  }
+
   .pill-list {
+    --pill-line: var(--line-dark-soft);
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 0;
     margin: var(--space-5) 0 0;
     padding: 0;
-    border-top: 1px solid var(--line-dark-soft);
-    border-bottom: 1px solid var(--line-dark-soft);
+    border-top: 1px solid var(--pill-line);
+    border-bottom: 1px solid var(--pill-line);
     list-style: none;
+  }
+
+  .section--paper .pill-list {
+    --pill-line: var(--line-soft);
   }
 
   .pill-list li {
@@ -1168,7 +1177,7 @@
     align-items: center;
     gap: 0.75rem;
     padding: 1rem 1.35rem;
-    border-left: 1px solid var(--line-dark-soft);
+    border-left: 1px solid var(--pill-line);
     font-family: var(--font-display);
     font-size: clamp(1rem, 1.25vw, 1.125rem);
     font-weight: 650;
@@ -2167,7 +2176,7 @@
   }
 
   .pill-list li:nth-child(n + 3) {
-    border-top: 1px solid var(--line-dark-soft);
+    border-top: 1px solid var(--pill-line);
   }
 
   .person-card,
@@ -2244,7 +2253,7 @@
   .pill-list li:nth-child(odd) {
     min-height: 0;
     padding: 0.9rem 0;
-    border-top: 1px solid var(--line-dark-soft);
+    border-top: 1px solid var(--pill-line);
     border-left: 0;
   }
 
