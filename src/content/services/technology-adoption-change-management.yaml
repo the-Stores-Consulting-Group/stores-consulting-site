@@ -1,40 +1,44 @@
+workstreamsTitle: 'Six workstreams, applied to your specific gap.'
+resultsTitle: Results
+ctaTitle: Delivered through either path.
+ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
+ctaHref: /approach/
+ctaLabel: See Our Approach
 title: Technology Adoption & Change Management
 slug: technology-adoption-change-management
 order: 4
 eyebrow: AISLE 04 · What We Do
-summary: Turn the platform you already bought into the results you were promised — through workflow, training, and accountability, not another rollout.
+summary: 'Turn the platform you already bought into the results you were promised — through workflow, training, and accountability, not another rollout.'
 thesisLabel: The Thesis This Pillar Is Built On
-thesis: This is the 70% of the equation from our own Approach — the platform surfaces the problem, but accountability, workflow redesign, and daily discipline are what actually capture the return. This pillar is the connective tissue between the Lighthouse Path and every other practice area.
+thesis: 'This is the 70% of the equation from our own Approach — the platform surfaces the problem, but accountability, workflow redesign, and daily discipline are what actually capture the return. This pillar is the connective tissue between the Lighthouse Path and every other practice area.'
 workstreams:
   - title: Change Management Strategy
-    description: Structured plans for introducing new practices to stores, tailored to the scale of the technology change and the organization's readiness.
+    description: 'Structured plans for introducing new practices to stores, tailored to the scale of the technology change and the organization''s readiness.'
   - title: Workflow Redesign
-    description: Rebuilding the store-level process around the tool, not just training on the tool's screens — the difference between adoption and a login count.
+    description: 'Rebuilding the store-level process around the tool, not just training on the tool''s screens — the difference between adoption and a login count.'
   - title: Accountability Systems
-    description: Dashboards, DM escalation paths, and certification standards that keep new behavior in place after the project team leaves.
+    description: 'Dashboards, DM escalation paths, and certification standards that keep new behavior in place after the project team leaves.'
   - title: Training & Certification
-    description: Role-specific training and certification programs, built for retail turnover realities, not a one-time rollout event.
+    description: 'Role-specific training and certification programs, built for retail turnover realities, not a one-time rollout event.'
   - title: Leadership Enablement
     description: Equipping store and district leadership to own the standard going forward — not depend on outside consultants indefinitely.
   - title: Peer Mentorship Infrastructure
     description: The Lighthouse cascade mechanism — identifying stores that already do it right and building the system that spreads it.
 metrics:
   - value: 70/30
-    label: The split between human execution and platform capability, per our own Approach thesis
+    label: 'The split between human execution and platform capability, per our own Approach thesis'
   - value: Zero
-    label: The long-term goal for field-specialist dependency, once the cascade is installed
+    label: 'The long-term goal for field-specialist dependency, once the cascade is installed'
   - value: Vendor-agnostic
     label: Works with any AI or technology platform already deployed
-metricsNote: This pillar is the newest and most directly tied to the Lighthouse Path. A fully sourced, engagement-specific proof point is in development.
+metricsNote: 'This pillar is the newest and most directly tied to the Lighthouse Path. A fully sourced, engagement-specific proof point is in development.'
 relatedPaths:
   - /approach/
   - /results/
-workstreamsTitle: Six workstreams, applied to your specific gap.
-resultsTitle: Results
-ctaTitle: Delivered through either path.
-ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
-ctaHref: /approach/
-ctaLabel: See Our Approach
-
 relatedContent:
   - /the-digital-age-of-retail/
+heroMedia:
+  src: /assets/editorial/Aisles/4.-Tech-and-Change-2.avif
+  alt: Person presenting to a group of people in a conference room
+  width: 2048
+  height: 1486
