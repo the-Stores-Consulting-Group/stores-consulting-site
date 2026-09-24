@@ -1,23 +1,29 @@
+workstreamsTitle: 'Six workstreams, applied to your specific gap.'
+resultsTitle: Results
+ctaTitle: Delivered through either path.
+ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
+ctaHref: /approach/
+ctaLabel: See Our Approach
 title: Shrink & Profit Recovery
 slug: shrink-profit-recovery
 order: 1
 eyebrow: AISLE 01 · What We Do
 summary: Find where margin leaks and build the accountability structure to stop it for good.
 thesisLabel: Why Technology Alone Hasn't Solved This
-thesis: Transaction-monitoring and video-AI platforms are very good at surfacing an exception. They're not built to install the daily habits — front-end controls, vendor accountability, associate awareness — that actually stop the loss. That's the layer we build.
+thesis: 'Transaction-monitoring and video-AI platforms are very good at surfacing an exception. They''re not built to install the daily habits — front-end controls, vendor accountability, associate awareness — that actually stop the loss. That''s the layer we build.'
 workstreams:
   - title: Foundational
-    description: Shrink measurement methods and integrity, physical inventory process and post-audit, shelf price accuracy and markdown controls.
+    description: 'Shrink measurement methods and integrity, physical inventory process and post-audit, shelf price accuracy and markdown controls.'
   - title: Inventory Management
-    description: Product allocation and ordering effectiveness, backroom organization and physical product security, DSD vendor performance tracking.
+    description: 'Product allocation and ordering effectiveness, backroom organization and physical product security, DSD vendor performance tracking.'
   - title: Shrink Analytics & Transaction Monitoring
-    description: POS, DSD, and inventory transaction monitoring; store risk assessment and predictive shrink analysis; proactive shrink response.
+    description: 'POS, DSD, and inventory transaction monitoring; store risk assessment and predictive shrink analysis; proactive shrink response.'
   - title: Front-End Controls & Theft Deterrence
-    description: POS parameters and manager intervention, self-checkout and BOB traffic flow, cashier awareness and scorecard performance.
+    description: 'POS parameters and manager intervention, self-checkout and BOB traffic flow, cashier awareness and scorecard performance.'
   - title: People Strategies
-    description: New-hire and progressive screening for promotions, shrink awareness and communication strategy, training and certification for key positions.
+    description: 'New-hire and progressive screening for promotions, shrink awareness and communication strategy, training and certification for key positions.'
   - title: Door Controls & Physical Security
-    description: Door and trash-handling controls, authorized key handling and traffic flow, organized retail crime and physical asset strategy.
+    description: 'Door and trash-handling controls, authorized key handling and traffic flow, organized retail crime and physical asset strategy.'
 metrics:
   - value: 20–60%
     label: Typical reduction in shrink and waste across engagement history
@@ -25,29 +31,22 @@ metrics:
     label: Reduction in cash-handling hours through front-end re-engineering
   - value: Platform-agnostic
     label: Works alongside any transaction-monitoring or video-AI system already in place
-metricsNote: Ranges reflect typical results across tSCG's engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.
+metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.'
 relatedPaths:
   - /approach/
   - /results/
+relatedContent:
+  - /improving-loss-prevention-strategies/
+  - /transaction-monitoring-with-tscg/
 heroMedia:
-  src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/09/iStock-506018790_02.jpg
+  src: /assets/editorial/Aisles/Aisle-1_Shrink.jpeg
   alt: Rows of wine and spirits arranged on densely stocked retail shelves.
   width: 2048
   height: 1486
-  position: center
+  position: right
 supportingMedia:
-  src: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/10/iStock-506033946.jpg
+  src: 'https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/10/iStock-506033946.jpg'
   alt: A retail aisle densely stocked with packaged household products.
   width: 2048
   height: 1365
   position: center
-workstreamsTitle: Six workstreams, applied to your specific gap.
-resultsTitle: Results
-ctaTitle: Delivered through either path.
-ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
-ctaHref: /approach/
-ctaLabel: See Our Approach
-
-relatedContent:
-  - /improving-loss-prevention-strategies/
-  - /transaction-monitoring-with-tscg/
