@@ -1,40 +1,44 @@
-title: Inventory & On-Shelf Availability
-slug: fresh-inventory-operations
-order: 2
-eyebrow: AISLE 02 · What We Do
-summary: 'Get the item on the shelf and shoppable. That is sales. That is the trip.'
-thesisLabel: The system can recommend the order. It cannot make the item show up right.
-thesis: Planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday's product from sitting in front of today's. That last stretch is sales and the trip. That is the execution layer.
-workstreams:
-  - title: On-Hand & In-Stock
-    description: What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the shelf.
-  - title: Ordering and Replenishment
-    description: How the store brings product in — cycle, frequency, min/max, what to do when the suggested order is wrong.
-  - title: Fresh and Prepared Production
-    description: Where the banner has it — production planning, recipes, yield, and what has to be made before the rush. Grocery-heavy. Not the whole aisle.
-  - title: Presentation and Shopability
-    description: Set, facing, price integrity, display. This is top-line and the trip — the item is there, it looks right, they can find it.
-  - title: Store Work That Gets in the Way
-    description: Open, close, cull, clean, extra touches that steal hours from the set. Cut the work that does not move availability or sales.
-  - title: Waste, Markdowns, and Known Loss on the Set
-    description: Spoilage, late markdowns, bad codes, scale and PLU errors. Leave theft and door controls in Aisle 01.
-metrics:
-  - value: Up to 7%
-    label: Typical total store sales gains from fresh and inventory execution programs
-  - value: 5–15%
-    label: Warehouse and replenishment productivity improvement, typical range
-  - value: Significant
-    label: Storewide in-stock improvement, consistently observed across engagements
-metricsNote: Ranges reflect typical results across tSCG's engagement history, not a single client.
-relatedPaths:
-  - /approach/
-  - /results/
-workstreamsTitle: Six workstreams, applied to your specific gap.
+workstreamsTitle: 'Six workstreams, applied to your specific gap.'
 resultsTitle: Results
 ctaTitle: Delivered through either path.
 ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
 ctaHref: /approach/
 ctaLabel: See Our Approach
-
+title: Inventory & On-Shelf Availability
+slug: fresh-inventory-operations
+order: 2
+eyebrow: AISLE 02 · What We Do
+summary: Get the item on the shelf and shoppable. That is sales. That is the trip.
+thesisLabel: The system can recommend the order. It cannot make the item show up right.
+thesis: 'Planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday''s product from sitting in front of today''s. That last stretch is sales and the trip. That is the execution layer.'
+workstreams:
+  - title: On-Hand & In-Stock
+    description: 'What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the shelf.'
+  - title: Ordering and Replenishment
+    description: 'How the store brings product in — cycle, frequency, min/max, what to do when the suggested order is wrong.'
+  - title: Fresh and Prepared Production
+    description: 'Where the banner has it — production planning, recipes, yield, and what has to be made before the rush. Grocery-heavy. Not the whole aisle.'
+  - title: Presentation and Shopability
+    description: 'Set, facing, price integrity, display. This is top-line and the trip — the item is there, it looks right, they can find it.'
+  - title: Store Work That Gets in the Way
+    description: 'Open, close, cull, clean, extra touches that steal hours from the set. Cut the work that does not move availability or sales.'
+  - title: 'Waste, Markdowns, and Known Loss on the Set'
+    description: 'Spoilage, late markdowns, bad codes, scale and PLU errors. Leave theft and door controls in Aisle 01.'
+metrics:
+  - value: Up to 7%
+    label: Typical total store sales gains from fresh and inventory execution programs
+  - value: 5–15%
+    label: 'Warehouse and replenishment productivity improvement, typical range'
+  - value: Significant
+    label: 'Storewide in-stock improvement, consistently observed across engagements'
+metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client.'
+relatedPaths:
+  - /approach/
+  - /results/
 relatedContent:
   - /out-of-stocks-in-the-fresh-departments-solving-the-last-100-feet/
+heroMedia:
+  src: /assets/editorial/Aisles/Aisle-2_On-Shelf-Availability.jpeg
+  alt: Person placing note on shelf.
+  width: 2048
+  height: 1486
