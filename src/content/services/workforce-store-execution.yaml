@@ -1,23 +1,29 @@
+workstreamsTitle: 'Six workstreams, applied to your specific gap.'
+resultsTitle: Results
+ctaTitle: Delivered through either path.
+ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
+ctaHref: /approach/
+ctaLabel: See Our Approach
 title: Workforce & Store Execution
 slug: workforce-store-execution
 order: 3
 eyebrow: AISLE 03 · What We Do
-summary: Turn labor hours and manager attention into consistent, measurable performance.
+summary: 'Turn labor hours and manager attention into consistent, measurable performance.'
 thesisLabel: Why Technology Alone Hasn't Solved This
-thesis: A scheduling or labor-standards platform can generate an optimal schedule. It can't redesign the manager's day, retrain the habits underneath it, or make the schedule survive contact with a real Saturday morning. That gap is where execution actually lives.
+thesis: 'A scheduling or labor-standards platform can generate an optimal schedule. It can''t redesign the manager''s day, retrain the habits underneath it, or make the schedule survive contact with a real Saturday morning. That gap is where execution actually lives.'
 workstreams:
   - title: Next-Generation Workforce Management
-    description: Scheduling automation and integration with HR systems, centralized scheduling feasibility, virtual/multi-store management technology.
+    description: 'Scheduling automation and integration with HR systems, centralized scheduling feasibility, virtual/multi-store management technology.'
   - title: Store Ecommerce
-    description: Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.
+    description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
   - title: Leadership Design & Management Effectiveness
-    description: Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work.
+    description: 'Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work.'
   - title: Upstream Activity
-    description: Delivery frequency and load conditions, pallet stacking for high-velocity items, touchpoint reduction from vendor to shelf.
-  - title: Front End, Fresh & Center Store
-    description: Checkout layout and technology, front-end management and bookkeeping, replenishment productivity and DSD conditioning.
+    description: 'Delivery frequency and load conditions, pallet stacking for high-velocity items, touchpoint reduction from vendor to shelf.'
+  - title: 'Front End, Fresh & Center Store'
+    description: 'Checkout layout and technology, front-end management and bookkeeping, replenishment productivity and DSD conditioning.'
   - title: Total Store
-    description: Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage and off-hour staffing performance.
+    description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage and off-hour staffing performance.'
 metrics:
   - value: 5–15%
     label: Typical labor productivity improvement across engagement history
@@ -25,17 +31,15 @@ metrics:
     label: Typical reduction in non-sell task time
   - value: 30–80%
     label: Reduction in cash-handling hours through process re-engineering
-metricsNote: Ranges reflect typical results across tSCG's engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.
+metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.'
 relatedPaths:
   - /approach/
   - /results/
-workstreamsTitle: Six workstreams, applied to your specific gap.
-resultsTitle: Results
-ctaTitle: Delivered through either path.
-ctaDescription: Whether this starts as a 72-Hour Diagnostic or a full Foundations build depends on where you're starting — not this pillar specifically.
-ctaHref: /approach/
-ctaLabel: See Our Approach
-
 relatedContent:
   - /why-arent-retail-managers-managing/
   - /training-makes-the-difference/
+heroMedia:
+  src: /assets/editorial/Aisles/Aisle-3_WFM.jpeg
+  alt: 'Split image, people working in a clothing store (left). Person in a warehouse (right)'
+  width: 2048
+  height: 1486
