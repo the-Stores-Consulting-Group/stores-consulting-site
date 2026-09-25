@@ -203,6 +203,26 @@ export const marketingCollections: Collection[] = [
         ]
       },
       {
+        "name": "media",
+        "label": "Section image",
+        "type": "image"
+      },
+      {
+        "name": "mediaAlt",
+        "label": "Image alternative text",
+        "type": "string"
+      },
+      {
+        "name": "mediaWidth",
+        "label": "Image width",
+        "type": "number"
+      },
+      {
+        "name": "mediaHeight",
+        "label": "Image height",
+        "type": "number"
+      },
+      {
         "name": "foundations",
         "label": "Foundations",
         "type": "object",
