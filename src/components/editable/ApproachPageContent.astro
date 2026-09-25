@@ -8,10 +8,11 @@ const { data } = Astro.props;
 const copy = data.copy!;
 import WorkstreamGrid from '../WorkstreamGrid.astro';
 const foundations = data.foundations!;
+const media = data.media ? {src: data.media, alt: data.mediaAlt || '', width: data.mediaWidth || 1200, height: data.mediaHeight || 900} : undefined;
 ---
 <div>
 
-  <PageIntro title={copy.title3} description={copy.description4} measure="wide" editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4')}} />
+  <PageIntro title={copy.title3} description={copy.description4} measure="wide" media={media} editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4'), media: tinaField(data, 'media')}} />
   <section class="section section--paper"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text27')}>{copy.text27}</p><h2 data-tina-field={tinaField(copy, 'text28')}>{copy.text28}</h2><p data-tina-field={tinaField(copy, 'text29')}>{copy.text29}</p><p data-tina-field={tinaField(copy, 'text30')}>{copy.text30}</p></div><WorkstreamGrid items={foundations} /></div></section>
   <CtaBand title={copy.title5} description={copy.description6} editFields={{title: tinaField(copy, 'title5'), description: tinaField(copy, 'description6')}} />
 
