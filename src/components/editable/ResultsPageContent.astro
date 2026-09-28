@@ -1,16 +1,24 @@
 ---
-import PageIntro from '../PageIntro.astro';
 import CtaBand from '../CtaBand.astro';
+import FieldImage from '../FieldImage.astro';
 import { tinaField } from '@tinacms/astro/tina-field';
 import type { ResultsPageQuery } from '../../../tina/__generated__/types';
 interface Props { data: ResultsPageQuery['resultsPage']; related?: any; }
 const { data } = Astro.props;
 const copy = data.copy!;
 const resultGroups = data.resultGroups!;
+const media = data.media ? {src: data.media, alt: data.mediaAlt || '', width: data.mediaWidth || 1200, height: data.mediaHeight || 900, position: data.mediaPosition || undefined} : undefined;
 ---
 <div>
 
-  <PageIntro eyebrow={copy.eyebrow3} title={copy.title4} description={copy.description5} measure="wide" editFields={{eyebrow: tinaField(copy, 'eyebrow3'), title: tinaField(copy, 'title4'), description: tinaField(copy, 'description5')}} />
+  <section class:list={['service-hero', { 'service-hero--with-media': media }]}>
+    <div class="service-hero__copy" data-reveal>
+      <p class="eyebrow" data-tina-field={tinaField(copy, 'eyebrow3')}>{copy.eyebrow3}</p>
+      <h1 data-tina-field={tinaField(copy, 'title4')}>{copy.title4}</h1>
+      <p class="service-hero__summary" data-tina-field={tinaField(copy, 'description5')}>{copy.description5}</p>
+    </div>
+    {media && <FieldImage {...media} eager dataReveal editField={tinaField(data, 'media')} />}
+  </section>
   <section class="section"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text8')}>{copy.text8}</p><h2 data-tina-field={tinaField(copy, 'text9')}>{copy.text9}</h2><p data-tina-field={tinaField(copy, 'text10')}>{copy.text10}</p></div><div class="path-grid">{resultGroups.map((group) => <article class="path-card" data-reveal><h3 data-tina-field={tinaField(group,'title')}>{group.title}</h3><ul>{group.items.map((item, index) => <li data-tina-field={tinaField(group,'items',index)}>{item}</li>)}</ul></article>)}</div></div></section>
   <section class="section section--soft"><div class="shell"><div class="section__heading section__heading--label-only" data-reveal><h2 class="eyebrow" data-tina-field={tinaField(copy, 'text11')}>{copy.text11}</h2></div><div class="principle-grid"><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text12')}>{copy.text12}</h3><p data-tina-field={tinaField(copy, 'text13')}>{copy.text13}</p></article><article class="principle-card" data-reveal><h3 data-tina-field={tinaField(copy, 'text14')}>{copy.text14}</h3><p data-tina-field={tinaField(copy, 'text15')}>{copy.text15}</p></article></div></div></section>
   <CtaBand title={copy.title6} description={copy.description7} editFields={{title: tinaField(copy, 'title6'), description: tinaField(copy, 'description7')}} />

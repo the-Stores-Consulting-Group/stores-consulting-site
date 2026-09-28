@@ -203,6 +203,38 @@ export const marketingCollections: Collection[] = [
         ]
       },
       {
+        "name": "media",
+        "label": "Section image",
+        "type": "image"
+      },
+      {
+        "name": "mediaAlt",
+        "label": "Image alternative text",
+        "type": "string"
+      },
+      {
+        "name": "mediaWidth",
+        "label": "Image width",
+        "type": "number"
+      },
+      {
+        "name": "mediaHeight",
+        "label": "Image height",
+        "type": "number"
+      },
+      {
+        "name": "mediaPosition",
+        "label": "Crop position",
+        "type": "string",
+        "options": [
+          { "label": "Center", "value": "center" },
+          { "label": "Top", "value": "top" },
+          { "label": "Bottom", "value": "bottom" },
+          { "label": "Left", "value": "left" },
+          { "label": "Right", "value": "right" }
+        ]
+      },
+      {
         "name": "foundations",
         "label": "Foundations",
         "type": "object",
@@ -352,6 +384,38 @@ export const marketingCollections: Collection[] = [
               "component": "textarea"
             }
           }
+        ]
+      },
+      {
+        "name": "media",
+        "label": "Section image",
+        "type": "image"
+      },
+      {
+        "name": "mediaAlt",
+        "label": "Image alternative text",
+        "type": "string"
+      },
+      {
+        "name": "mediaWidth",
+        "label": "Image width",
+        "type": "number"
+      },
+      {
+        "name": "mediaHeight",
+        "label": "Image height",
+        "type": "number"
+      },
+      {
+        "name": "mediaPosition",
+        "label": "Crop position",
+        "type": "string",
+        "options": [
+          { "label": "Center", "value": "center" },
+          { "label": "Top", "value": "top" },
+          { "label": "Bottom", "value": "bottom" },
+          { "label": "Left", "value": "left" },
+          { "label": "Right", "value": "right" }
         ]
       },
       {

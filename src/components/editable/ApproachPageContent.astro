@@ -1,6 +1,6 @@
 ---
-import PageIntro from '../PageIntro.astro';
 import CtaBand from '../CtaBand.astro';
+import FieldImage from '../FieldImage.astro';
 import { tinaField } from '@tinacms/astro/tina-field';
 import type { ApproachPageQuery } from '../../../tina/__generated__/types';
 interface Props { data: ApproachPageQuery['approachPage']; related?: any; }
@@ -8,10 +8,17 @@ const { data } = Astro.props;
 const copy = data.copy!;
 import WorkstreamGrid from '../WorkstreamGrid.astro';
 const foundations = data.foundations!;
+const media = data.media ? {src: data.media, alt: data.mediaAlt || '', width: data.mediaWidth || 1200, height: data.mediaHeight || 900, position: data.mediaPosition || undefined} : undefined;
 ---
 <div>
 
-  <PageIntro title={copy.title3} description={copy.description4} measure="wide" editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4')}} />
+  <section class:list={['service-hero', { 'service-hero--with-media': media }]}>
+    <div class="service-hero__copy" data-reveal>
+      <h1 data-tina-field={tinaField(copy, 'title3')}>{copy.title3}</h1>
+      <p class="service-hero__summary" data-tina-field={tinaField(copy, 'description4')}>{copy.description4}</p>
+    </div>
+    {media && <FieldImage {...media} eager dataReveal editField={tinaField(data, 'media')} />}
+  </section>
   <section class="section section--paper"><div class="shell"><div class="section__heading" data-reveal><p class="eyebrow" data-tina-field={tinaField(copy, 'text27')}>{copy.text27}</p><h2 data-tina-field={tinaField(copy, 'text28')}>{copy.text28}</h2><p data-tina-field={tinaField(copy, 'text29')}>{copy.text29}</p><p data-tina-field={tinaField(copy, 'text30')}>{copy.text30}</p></div><WorkstreamGrid items={foundations} /></div></section>
   <CtaBand title={copy.title5} description={copy.description6} editFields={{title: tinaField(copy, 'title5'), description: tinaField(copy, 'description6')}} />
 
