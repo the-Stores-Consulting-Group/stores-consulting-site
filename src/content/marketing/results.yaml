@@ -1,19 +1,21 @@
 copy:
   title1: Results
   description2: Typical ranges and outcomes delivered across tSCG retail execution engagements.
-  eyebrow3: Proof, Not Promises
+  eyebrow3: 'Proof, Not Promises'
   title4: We measure results the way your finance team would.
   description5: Every range on this page reflects what's actually been delivered across our engagement history — not a best-case scenario or an industry average borrowed from somewhere else.
   title6: These ranges reflect decades of engagements.
-  description7: Yours starts with a diagnostic, not a number pulled from a page.
+  description7: 'Yours starts with a diagnostic, not a number pulled from a page.'
   text8: Typical Results
-  text9: Delivering consistent, proven results that impact the bottom line.
+  text9: 'Delivering consistent, proven results that impact the bottom line.'
   text10: Every engagement is scoped to the specific gap in front of it.
   text11: How We Guard Against Overstating It
-  text12: Ranges, not best-case numbers
-  text13: Every figure on this page is a range pulled from actual engagement outcomes, not the single best result we've ever delivered.
-  text14: Scoped to the real gap, every time
+  text12: 'Ranges, not best-case numbers'
+  text13: 'Every figure on this page is a range pulled from actual engagement outcomes, not the single best result we''ve ever delivered.'
+  text14: 'Scoped to the real gap, every time'
   text15: A diagnostic determines which of these drivers actually applies before any number gets attached to a proposal.
+media: /assets/editorial/How-We-Measure-Page1.jpeg
+mediaAlt: Exterior shot of gas station
 resultGroups:
   - title: Labor Performance
     items:
