@@ -223,6 +223,18 @@ export const marketingCollections: Collection[] = [
         "type": "number"
       },
       {
+        "name": "mediaPosition",
+        "label": "Crop position",
+        "type": "string",
+        "options": [
+          { "label": "Center", "value": "center" },
+          { "label": "Top", "value": "top" },
+          { "label": "Bottom", "value": "bottom" },
+          { "label": "Left", "value": "left" },
+          { "label": "Right", "value": "right" }
+        ]
+      },
+      {
         "name": "foundations",
         "label": "Foundations",
         "type": "object",
