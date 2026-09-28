@@ -14,6 +14,6 @@ sourceId: 29168
 
 [Return to Clients](/clients/)
 
-Pilot Company is the largest operator of travel centers in North America with more than 750 locations in 44 states and six Canadian provinces. Headquartered in Knoxville, Tennessee, the company employs more than 28,000 people. CEO Jimmy Haslam has embraced technology and moved Pilot Company in new directions, leading the company’s growth from 1.1 billion fuel gallons sold in 1996 to more than 7 billion sold annually today. Pilot Company serves more than 1.6 million guests a day and is committed to connecting people and places with comfort, care and a smile at every stop.
+Pilot Flying J, now doing business as Pilot Company, is a travel center and truck stop chain founded in 1958 when Jim Haslam Sr. purchased a single gas station in Weber City, Virginia. Headquartered in Knoxville, Tennessee, the company operates more than 900 travel centers across 44 U.S. states and several Canadian provinces under the Pilot, Flying J, and One9 Fuel Network banners, serving over a million guests daily. Pilot Company has been a wholly owned subsidiary of Berkshire Hathaway since January 2024.
 
-Source: https://pilotflyingj.com/history
+(Source: pilotcompany.com)

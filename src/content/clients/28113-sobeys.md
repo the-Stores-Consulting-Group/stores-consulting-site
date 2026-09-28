@@ -14,10 +14,6 @@ sourceId: 28113
 
 [Return to Clients](/clients/)
 
-As one of only two national grocery retailers in Canada, Sobeys Inc. serves the food shopping needs of Canadians with approximately 1,500 stores in all 10 provinces under retail banners that include Sobeys, Safeway, IGA, Foodland, FreshCo, Price Chopper, Thrifty Foods and Lawtons Drugs, as well as more than 380 retail fuel locations.
+Sobeys is a Canadian supermarket chain founded in 1907 in Stellarton, Nova Scotia, by John W. Sobey. The company operates more than 1,500 stores across Canada under numerous banners, including Sobeys, Safeway, IGA, Foodland, FreshCo, Thrifty Foods, and Farm Boy. Sobeys is a wholly owned subsidiary of publicly traded Empire Company Limited and remains headquartered in Stellarton, Nova Scotia.
 
-Their five core retail food formats are designed to ensure that they have the right offering in the right-sized stores for each individual market they serve – from full service format to the convenience format, each tailored to satisfy the unique occasion-based food shopping needs of their customers.
-
-Sobeys and its franchisees and affiliates employ more than 125,000 people from coast-to-coast.
-
-(Source:  sobeys.com)
+(Source: sobeys.com)

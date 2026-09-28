@@ -14,6 +14,6 @@ sourceId: 28115
 
 [Return to Clients](/clients/)
 
-Superior Grocers opened its first store in Covina, California in 1981. Since then, Superior has grown to over 45 stores throughout Southern California, and they are now one of the largest independently-owned chains of grocery stores in Southern California.
+Superior Grocers is a discount supermarket chain founded in 1981 in Covina, California, by Mimi Song. The company operates more than 70 stores across Southern California, the Central Valley, and Nevada under a single banner, serving a largely Latino customer base. Superior Grocers remains one of the largest independently owned grocery chains in Southern California.
 
-(Source:  superiorgrocers.com)
+(Source: superiorgrocers.com)

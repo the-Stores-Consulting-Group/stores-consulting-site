@@ -14,10 +14,6 @@ sourceId: 28117
 
 [Return to Clients](/clients/)
 
-Started in 1991, Total Wine has grown to 148 locations in 20 states, becoming the country‘s largest independent retailer of fine wine.
+Total Wine & More is a specialty retailer of wine, beer, and spirits founded in 1991. The company operates roughly 280 to 300 superstores across more than two dozen U.S. states under a single banner. Total Wine remains privately held by its founders, brothers David and Robert Trone.
 
-Their typical store carries more than 8,000 different wines from every wine-producing region in the world, including more than 2,000 wines not available in any other store. They also carry more than 2,500 beers, from America‘s most popular brands to hard-to-find microbrews and imports, and more than 3,000 different spirits in every style and price range.
-
-Total Wine & More employs more than 4,000 people.
-
-(Source:  totalwine.com)
+(Source: totalwine.com)

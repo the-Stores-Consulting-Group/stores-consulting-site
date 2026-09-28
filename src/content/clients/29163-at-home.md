@@ -14,12 +14,6 @@ sourceId: 29163
 
 [Return to Clients](/clients/)
 
-## Wow! Selection
+At Home is a home décor and furnishings superstore chain founded in 1979 in Schertz, Texas, originally as Garden Ridge before being rebranded At Home in 2014. The company operates 229 large-format stores across 39 states under a single banner. It is now privately owned by a group of former lenders, including Redwood Capital Management, Farallon Capital Management, and Anchorage Capital Advisors, and is headquartered in Plano, Texas.
 
-A warehouse-worth of space in our stores makes it easy to browse comfortably with more room to yourself and improved safety for our customers and team members. And with 1000’s of new arrivals every month, you will find aisle after aisle of endless possibilities!
-
-No Way! Prices
-
-So long sticker shock. Our prices are so low – you’ll do a double take. That’s because we take all of the unnecessary frills out of our home décor superstore and pass all those savings on to you. And the best part? You don’t need to wait for a sale. Our everyday low prices are backed by a Best Price Promise and a Hassle Free Returns Policy.
-
-Source: https://www.athome.com/about-us.html
+(Source: athome.com)

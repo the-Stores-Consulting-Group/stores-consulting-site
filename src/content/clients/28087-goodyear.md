@@ -14,10 +14,6 @@ sourceId: 28087
 
 [Return to Clients](/clients/)
 
-Goodyear is one of the world’s leading tire companies with operations in most regions of the world and one of the most recognized brand names.  Together with its U.S. and international subsidiaries and joint ventures, Goodyear develops, manufactures, markets, and distributes tires for most applications.  It also manufactures and markets rubber-related chemicals for various applications.
+Goodyear Tire & Rubber Company is a tire manufacturer and automotive retailer founded in 1898 in Akron, Ohio, by Frank Seiberling. Beyond its manufacturing business, Goodyear operates roughly 505 company-owned consumer retail and service outlets under the Goodyear and Just Tires names, plus about 180 commercial truck tire and service centers. Goodyear is publicly traded on the Nasdaq (GT) and remains headquartered in Akron, Ohio.
 
-Goodyear is one of the world’s largest operators of commercial truck service and tire retreading centers.  In addition, it operates approximately 1,240 tire and auto service center outlets where it offers its products for retail sale and provides automotive repair and other services.  Goodyear manufactures its products in 48 facilities in 21 countries.  It has marketing operations in almost every country around the world.
-
-Goodyear’s annual sales exceeded $16 billion in fiscal year 2015.
-
-(Source:  goodyear.com)
+(Source: goodyear.com)

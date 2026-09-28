@@ -17,6 +17,6 @@ sourceId: 29210
 
 [Return to Clients](/clients/)
 
-Bealls Inc. is a privately held company, rich in tradition, still owned by the founding family. Founded in 1915, Bealls includes over 500 stores and BeallsFlorida.com. Bealls is the destination of choice for casual lifestyle and priced-right apparel and home merchandise. Bealls Stores and BeallsFlorida.com, are owned and operated by Beall’s Stores, Inc. and Beall’s Westgate Corporation. Bealls Inc. is not affiliated with Stage Stores.
+Bealls Inc. is a privately held, family-owned off-price and value retailer founded in 1915 in Bradenton, Florida. The company operates more than 650 stores across 22 states under several banners, including Bealls Florida (~68 stores), the off-price “bealls” banner formed from the 2023 merger of Bealls Outlet and Burkes Outlet (~600 stores), and the home décor banner Home Centric. Bealls Inc. is unrelated to the former Texas-based Bealls department store chain, whose name and intellectual property it purchased in 2020 after that company's parent, Stage Stores, liquidated.
 
-Source: https://www.beallsflorida.com/online/about-us
+(Source: beallsinc.com)

@@ -14,8 +14,6 @@ sourceId: 28107
 
 [Return to Clients](/clients/)
 
-Schnuck Markets, Inc. has been serving customers a unique combination of quality food, variety and value for more than seven decades. Founded in north St. Louis in 1939, the family-owned grocery company has grown to include nearly 100 stores in five states: Missouri, Illinois, Indiana, Wisconsin and Iowa.
+Schnucks (Schnuck Markets, Inc.) is a regional supermarket chain founded in 1939 as a single store in north St. Louis, Missouri. The Schnucks banner operates 113 stores across Missouri, Illinois, and Indiana. In October 2025, Schnuck Markets joined with sister banners Festival Foods (42 stores in Wisconsin) and Hometown Grocers (9 stores in Wisconsin) under a new family holding company, 1939 Group, Inc., bringing the combined total to 164 stores across three banners. The company remains privately held and family-owned.
 
-Schnuck Markets Inc. employs nearly 15,000 teammates in their office, stores, warehouses and production facilities, generating annual sales in excess of $2.1 billion.
-
-(Source:  schnucks.com)
+(Source: schnucks.com)

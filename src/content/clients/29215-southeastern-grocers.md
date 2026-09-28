@@ -14,6 +14,6 @@ sourceId: 29215
 
 [Return to Clients](/clients/)
 
-Southeastern Grocers, Inc. (SEG), parent company and home of Fresco y Más, Harveys Supermarket and Winn-Dixie grocery stores, is one of the largest conventional supermarket companies in the U.S. SEG grocery stores, liquor stores and in-store pharmacies serve communities throughout the five southeastern states of Alabama, Florida, Georgia, Louisiana and Mississippi. Fresco y Más, Harveys Supermarket and Winn-Dixie are well-known and well-respected regional brands with deep heritages, strong neighborhood ties, proud histories of giving back, talented and caring associates and strong commitments to providing the best possible quality and value to customers. For more information, visit [frescoymas.com](https://www.frescoymas.com/), [harveyssupermarkets.com](https://www.harveyssupermarkets.com/) and [winndixie.com](https://www.winndixie.com/).
+Southeastern Grocers, now rebranding as The Winn-Dixie Company, is a supermarket operator whose flagship Winn-Dixie banner traces back to 1925 in Miami, Florida. The company operates roughly 130 Winn-Dixie grocery stores and about 140 Winn-Dixie Liquor Stores across Florida and southern Georgia. The company is privately held and headquartered in Jacksonville, Florida.
 
-Source: https://www.segrocers.com/aboutus
+(Source: winndixie.com)

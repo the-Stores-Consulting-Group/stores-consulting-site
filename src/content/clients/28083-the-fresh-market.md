@@ -14,6 +14,6 @@ sourceId: 28083
 
 [Return to Clients](/clients/)
 
-The Fresh Market, Inc. is a specialty grocery retailer focused on creating an extraordinary food shopping experience for its customers. Since opening its first store in 1982, The Fresh Market has offered high-quality food products, with an emphasis on fresh, premium perishables and an uncompromising commitment to customer service. The Fresh Market currently operates over 170 stores in 24 states across the United States.
+The Fresh Market is a specialty grocery retailer founded in 1982 in Greensboro, North Carolina, by Ray and Beverly Berry. The company operates more than 170 stores across 22 states under a single banner. The Fresh Market is privately held, with Chilean retailer Cencosud as its sole owner.
 
-(Source:  thefreshmarket.com)
+(Source: thefreshmarket.com)

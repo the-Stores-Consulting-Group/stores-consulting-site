@@ -14,6 +14,6 @@ sourceId: 28073
 
 [Return to Clients](/clients/)
 
-Buehler’s Fresh Foods grocery store was founded in 1929. The store is still run by the Buehler family, and has grown to 13 stores – all in northeast Ohio
+Buehler's Fresh Foods is a regional supermarket chain founded in 1929 in New Philadelphia, Ohio, by Ed and Helen Buehler. The company operates 13 stores across northeast Ohio under a single banner. Buehler's has been 100% employee-owned through an employee stock ownership plan since 2017 and is headquartered in Wooster, Ohio.
 
-(Source:  buehlers.com)
+(Source: buehlers.com)

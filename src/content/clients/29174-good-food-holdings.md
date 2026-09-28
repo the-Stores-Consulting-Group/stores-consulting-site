@@ -14,6 +14,6 @@ sourceId: 29174
 
 [Return to Clients](/clients/)
 
-Good Food Holdings is the holding company for five preeminent and enduring food retailing brands: Bristol Farms, Lazy Acres Natural Market, Metropolitan Market, New Seasons Market, and New Leaf Community Markets. Each brand has its own leadership team, company culture, operating philosophy, and go-to market strategy. Each brand is deeply rooted in community and is the leader in their respective market in offering the most unique item assortments, highest quality meat, seafood, and bakery items, as well as the broadest assortment of quality and organic produce available. Each brand also has a broad and high quality offering of prepared foods.
+Good Food Holdings is a specialty grocery holding company that operates five upscale regional banners: New Seasons Market, Bristol Farms, Metropolitan Market, New Leaf Community Markets, and Lazy Acres. Together, these banners run roughly 50 stores across the West Coast. Good Food Holdings is owned by Emart, a South Korean retail company.
 
-Source: http://goodfoodholdings.com
+(Source: goodfoodholdings.com)

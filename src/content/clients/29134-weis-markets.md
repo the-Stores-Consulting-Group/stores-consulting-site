@@ -14,24 +14,6 @@ sourceId: 29134
 
 [Return to Clients](/clients/)
 
-### Mission:
+Weis Markets is a supermarket chain founded in 1912 in Sunbury, Pennsylvania, by brothers Harry and Sigmund Weis. The company operates 202 stores across seven Mid-Atlantic and Northeastern states under a single banner. Weis Markets is publicly traded on the NYSE (WMK), though the founding Weis family retains majority ownership, and the company remains headquartered in Sunbury, Pennsylvania.
 
-To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.
-
-### Vision:
-
-Become the #1 supermarket in our communities by offering the most inviting buying environment in the industry while saving our customer time and money and building our brand to premier status.
-
-### Values:
-
-**Teamwork** – meeting our challenges and opportunities as one team, focused on common goals.
-
-**Respect** – treating our colleagues, customers, suppliers, and vendors with respect and dignity.
-
-**Excellence** – striving for excellence and working to improve every day.
-
-**Accountability** – holding ourselves accountable for delivering results and always doing the right thing.
-
-**Passion** – offering our customers the best shopping experience by exceeding their expectations.
-
-Source: https://www.weismarkets.com/mission-vision-and-values
+(Source: weismarkets.com)

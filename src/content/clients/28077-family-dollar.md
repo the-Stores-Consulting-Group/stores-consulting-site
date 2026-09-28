@@ -14,10 +14,6 @@ sourceId: 28077
 
 [Return to Clients](/clients/)
 
-One of the nation’s fastest growing retailers, Family Dollar offers a compelling assortment of merchandise for the whole family ranging from household cleaners to name brand foods, from health and beauty aids to toys, from apparel for every age to home fashions, all for everyday low prices. While shoppers can find many items at $1 or less, most items in the store are priced below $10.
+Family Dollar is a discount variety store chain founded in 1959 in Charlotte, North Carolina, by Leon Levine. The company operates roughly 7,300 stores across the United States under a single banner, selling household essentials, food, and general merchandise at low price points. Long owned by Dollar Tree, Family Dollar was sold in July 2025 to private equity firms Brigade Capital Management and Macellum Capital Management for a $1.01 billion base purchase price, and now operates as an independent company headquartered in Chesapeake, Virginia.
 
-Family Dollar employs more 147,000 people in 13,000 locations.  Their annual sales exceed $20 billion.
-
-The average size of a Family Dollar store is approximately 7,000 square feet, and most stores are operated in leased facilities. This relatively small footprint allows the company to open new stores in rural areas and small town, as well as in large urban neighborhoods.
-
-(Source:  familydollar.com)
+(Source: familydollar.com)

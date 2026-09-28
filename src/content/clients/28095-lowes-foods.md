@@ -14,10 +14,6 @@ sourceId: 28095
 
 [Return to Clients](/clients/)
 
-Lowes Foods began in 1954 as a single store in North Wilkesboro, NC, and has grown to become a major supermarket chain operating in North Carolina, South Carolina and Virginia
+Lowes Foods is a supermarket chain founded in 1954 and headquartered in Winston-Salem, North Carolina. The company operates roughly 80 stores across North Carolina, South Carolina, and Georgia under a single banner. Lowes Foods is a subsidiary of the privately held Alex Lee, Inc.
 
-In 1997, Lowes Foods acquired Byrds Food Stores, located in eastern North Carolina. It continued its growth in 2000 with the purchase of 13 Hannaford stores
-
-Today Lowes Foods operates more than 100 stores and continues to open new stores throughout North and South Carolina
-
-(Source:  lowesfoods.com)
+(Source: lowesfoods.com)

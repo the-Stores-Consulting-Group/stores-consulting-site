@@ -14,10 +14,6 @@ sourceId: 28057
 
 [Return to Clients](/clients/)
 
-SUPERVALU operates a complete range of grocery formats and merchandising programs that address the unique preferences of the communities we serve and allow us to satisfy differing regional tastes.
+Supervalu is a wholesale grocery distributor founded in 1926 in Minneapolis, Minnesota. Once a major independent supermarket operator, the company sold off its retail store banners in the mid-2010s and today focuses on grocery distribution and supply chain services for independent retailers. Supervalu has operated as a wholly owned subsidiary of United Natural Foods, Inc. (UNFI) since 2018.
 
-Today, SUPERVALU and its 30,000 employees serve customers across the United States through a network of 2,012 stores composed of 1,815 stores operated by wholesale customers serviced primarily by the Company’s food distribution business and 197 traditional retail grocery stores operated under five retail banners (store counts as of September 10, 2016).
-
-In addition, the Company operates 22 stores under the Shop ‘N Save name in Maryland, Pennsylvania, Virginia and West Virginia. Annual sales total approximately $13 billion.
-
-(Source:  supervalu.com)
+(Source: supervalu.com)
