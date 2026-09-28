@@ -14,6 +14,6 @@ sourceId: 28111
 
 [Return to Clients](/clients/)
 
-Founded in 1971, Shane Co. has established itself as one of the country’s premier independent jewelers.  Today, they have expanded to 20 stores across the country.
+Shane Co. is a fine jewelry retailer founded in 1971 and based in the Denver, Colorado area. The company operates 22 stores across 13 states under a single banner, specializing in diamonds, engagement rings, and other fine jewelry. Shane Co. describes itself as the largest privately and family-owned jeweler in the United States.
 
-(Source:  shaneco.com)
+(Source: shaneco.com)

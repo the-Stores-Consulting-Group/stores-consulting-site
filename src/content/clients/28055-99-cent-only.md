@@ -14,9 +14,6 @@ sourceId: 28055
 
 [Return to Clients](/clients/)
 
-99 Cents Only Stores is a premier deep-discount retailer that primarily carries name-brand consumable and general merchandise
+99 Cents Only Stores was an extreme-value discount retailer founded in 1982 in Inglewood, California, by Dave Gold. At its peak, the chain operated 371 stores across California, Texas, Arizona, and Nevada, selling deeply discounted general merchandise and grocery items. The company closed all of its stores in mid-2024, ending more than four decades of operation.
 
--   99 Cents Only offers customers significant value on a wide selection of quality products from everyday household items to fresh produce to an exciting assortment of seasonal and party merchandise including decorations, costumes and gifts
--   Merchandise encompasses name-brand closeouts and regularly available food and beverage products such as produce, deli, and other basic grocery items
-
-From the first store opening in 1982, 99 Cents Only Stores has expanded to more than 350 extreme value retail stores in California, Texas, Arizona, and Nevada
+(Source: 99only.com)

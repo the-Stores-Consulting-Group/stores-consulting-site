@@ -14,10 +14,6 @@ sourceId: 28131
 
 [Return to Clients](/clients/)
 
-## Providing customers with the best RV purchase, service and ownership experience.
+Lazydays was a recreational vehicle (RV) dealership chain founded in 1976 in Tampa, Florida. In recent years the company operated more than a dozen dealerships nationwide offering RV sales, service, and rentals. In 2025, Lazydays' dealership locations were acquired by Campers Inn RV and the original publicly traded company was dissolved; a number of former locations, including its flagship Tampa store, continue to operate today under Campers Inn RV ownership.
 
-As an iconic brand in the RV industry, Lazydays, The RV Authority, consistently provides the best RV sales, service, and ownership experience, which is why RVers and their families become Customers for Life. Lazydays continues to add locations at a rapid pace as it executes its geographic expansion strategy that includes both acquisitions and greenfields.
-
-Since 1976, Lazydays RV has built a reputation for providing an outstanding customer experience with exceptional service excellence and unparalleled product expertise, along with being a preferred place to rest and recharge with other RVers. By offering the top selection of RV brands from the nation’s leading manufacturers, state-of-the-art service facilities, and thousands of accessories and hard-to-find parts, Lazydays RV provides everything RVers need and want
-
-Source:  lazydays.com
+(Source: lazydays.com)

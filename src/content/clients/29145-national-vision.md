@@ -14,8 +14,6 @@ sourceId: 29145
 
 [Return to Clients](/clients/)
 
-National Vision is the second largest and one of the fastest growing optical retail companies in the U.S. with over 1,300 stores in 44 states and Puerto Rico.
+National Vision Holdings is an optical retailer that operates roughly 1,281 stores under several banners, including America's Best Contacts & Eyeglasses, Eyeglass World, Vista Optical, and the e-commerce brand Discount Contacts. The company's largest banner, America's Best, has its roots in the 1990s. National Vision is publicly traded on the Nasdaq (EYE) and is headquartered in Duluth, Georgia.
 
-We help people see their best to live their best through our optical products and services. For more than 30 years, we have been improving lives by providing eye care for value-seeking and lower-income consumers.
-
-Source: https://www.nationalvision.com/company/
+(Source: nationalvision.com)

@@ -14,10 +14,6 @@ sourceId: 29200
 
 [Return to Clients](/clients/)
 
-Leadership, community, and retail have long been a tradition of the Coborn Family. For decades, the Coborns’ have been recognized as pioneers. In 1921 Chester R. Coborn opened a one-room produce store in Sauk Rapids, MN. During its first two decades, the grocer would expand in size and selection, changes that were driven by economic necessity and Coborn’s commitment to ingenuity. 100 years and five generations later, that tradition continues.
+Coborn's is a regional grocery company founded in 1921 in Sauk Rapids, Minnesota. The company operates 77 grocery stores under several banners, including Coborn's, Cash Wise Foods, and Marketplace Foods, alongside additional convenience and liquor store formats. Coborn's is 100% employee-owned through an employee stock ownership plan and is headquartered in St. Cloud, Minnesota.
 
-Our growing retail company is in the business of people serving people – our employees and our guests! Our employee-owned company strives to live out our vision to be remarkable by inspiring happiness, healthy living and simplicity, one guest at a time.
-
-Our company has grown, and we are proud to serve in the communities who represent us.What started as one store has grown into an employee-owned grocery retailer with nearly 10,000 employees and 200 stores across Minnesota, North Dakota, South Dakota, Wisconsin, and Michigan that includes fuel, liquor, and pharmacy locations.
-
-Source: https://www.cobornsinc.com/about-us/
+(Source: coborns.com)

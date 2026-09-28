@@ -14,43 +14,6 @@ sourceId: 29220
 
 [Return to Clients](/clients/)
 
-### We’re a purpose-driven company that  
-aims to set the standards of excellence  
-for food retailers.
+Whole Foods Market is a grocery retailer specializing in natural and organic foods, founded in 1980 in Austin, Texas. The company operates more than 500 stores across the United States, Canada, and the United Kingdom under a single banner. Whole Foods has been a wholly owned subsidiary of Amazon since 2017, when Amazon acquired the chain for roughly $13.7 billion.
 
-### Read our 2021 Social Impact Update [here](https://media.wholefoodsmarket.com/wp-content/uploads/2022/02/2021_WFM_Mission_in_Action_H.pdf).
-
-#### CEO
-
-Jason Buechel
-
-#### Founders
-
-John Mackey, Rene Lawson Hardy, Craig Weller and Mark Skiles
-
-#### First Store
-
-Austin, Texas, opened Sept. 20,1980, with a staff of 19 team members
-
-#### Headquarters
-
-550 Bowie St. Austin, TX 78703 (above flagship store at 525 N. Lamar Blvd.)
-
-### Our stores
-
-**513**  
-U.S. stores
-
-**14**  
-Canada stores
-
-**7**  
-U.K. stores
-
-**105,000+**  
-Team members
-
-**11**  
-Regions
-
-Source: https://media.wholefoodsmarket.com/about/
+(Source: wholefoodsmarket.com)

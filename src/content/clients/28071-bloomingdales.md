@@ -14,8 +14,6 @@ sourceId: 28071
 
 [Return to Clients](/clients/)
 
-Bloomingdale’s is America’s only nationwide, full-line, upscale department store and a division of Macy’s Inc.
+Bloomingdale's is an upscale department store chain founded in 1872 on Manhattan's Lower East Side by brothers Joseph and Lyman Bloomingdale. The banner operates 61 locations, made up of 32 full-line department stores, 4 small-format “Bloomie's” stores, and 25 Bloomingdale's Outlet stores. Bloomingdale's is a wholly owned nameplate of publicly traded Macy's, Inc. and, unlike the core Macy's banner, is currently one of the parent company's growth brands.
 
-Currently Bloomingdale’s operates 37 department stores and an ever growing number of “Bloomingdale’s The Outlet” stores in 13 states as well as the always open and fashionable Bloomingdales.com.  Bloomingdale’s also has an international presence in Dubai.
-
-(Source:  bloomingdales.com)
+(Source: bloomingdales.com)

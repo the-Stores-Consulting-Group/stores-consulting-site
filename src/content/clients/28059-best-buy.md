@@ -14,10 +14,6 @@ sourceId: 28059
 
 [Return to Clients](/clients/)
 
-Best Buy is a leading provider of technology products, services and solutions. The company offers expert service at an unbeatable price more than 1.5 billion times a year to the consumers, small business owners and educators who visit our stores, engage with Geek Squad Agents or use BestBuy.com or the Best Buy app. The company has operations in the U.S. where more than 70 percent of the population lives within 15 minutes of a Best Buy store, as well as in Canada and Mexico, where Best Buy has a physical and online presence.
+Best Buy is a leading consumer electronics retailer, incorporated in Minnesota in 1966 and rebranded from its original name, Sound of Music, in 1983. The company operates 1,068 stores across its domestic and international segments under a single banner, with in-store tech support provided through its Geek Squad service. Best Buy is publicly traded on the NYSE (BBY) and reported fiscal year 2026 revenue of approximately $41.7 billion.
 
-The company was founded by Richard Schulze in 1966 and called Sound of Music before the name changed to Best Buy in 1983.  They now operate more than 1,500 stores in North America, including large-format and Best Buy Mobile stores, and employ more than 125,000 people.
-
-Best Buy generates nearly $40 billion annually.
-
-(Source:  bestbuy.com)
+(Source: bestbuy.com)

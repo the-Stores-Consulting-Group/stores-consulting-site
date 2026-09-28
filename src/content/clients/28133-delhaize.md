@@ -14,8 +14,6 @@ sourceId: 28133
 
 [Return to Clients](/clients/)
 
-Ahold Delhaize was formed in July 2016 from the merger of Ahold and Delhaize Group, retail innovators for almost 150 years. Our local brands employ around 413,000 associates in around 7,452 local grocery, small format and specialty stores. Ahold Delhaize brands are dedicated to helping customers eat well, save time and live better.
+Ahold Delhaize is a multinational grocery retail and wholesale group formed in 2016 through the merger of Dutch company Ahold (founded 1887) and Belgian company Delhaize (founded 1867). The company operates more than 9,500 stores across nine countries in North America and Europe under 17 banners, including Stop & Shop, Food Lion, Hannaford, and Giant Food in the U.S., and Albert Heijn and Delhaize in Europe. Headquartered in Zaandam, Netherlands, and publicly traded, Ahold Delhaize reported net sales of €92.4 billion in fiscal year 2025.
 
-In addition to our stores, our brands include the top online retailer in the Benelux and the number one online grocers in the Benelux and the United States. Our local brands are also among the most prominent providers of fresh food and locally tailored own-brand products, including a diverse selection of affordable natural and organic goods.
-
-Source: https://www.aholddelhaize.com/about/
+(Source: aholddelhaize.com)

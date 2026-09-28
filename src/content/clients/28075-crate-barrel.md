@@ -14,10 +14,6 @@ sourceId: 28075
 
 [Return to Clients](/clients/)
 
-Crate and Barrel is an industry-leading home furnishings specialty retailer, known for its exclusive designs, excellent value and superb customer service.
+Crate & Barrel is a home furnishings and housewares retailer founded in 1962 in Chicago, Illinois, by Gordon and Carole Segal. The company operates roughly 90 stores plus outlet locations across the United States and Canada, along with international franchise locations, and its parent company also owns the CB2 and Hudson Grace banners. Crate & Barrel is privately held by Germany's Otto Group and is headquartered in Northbrook, Illinois.
 
-Founded in 1962, the company has expanded to over 90 locations across the nation.
-
-The Crate and Barrel family of brands includes Crate and Barrel, CB2, and The Land of Nod.
-
-(Source:  crateandbarrel.com)
+(Source: crateandbarrel.com)

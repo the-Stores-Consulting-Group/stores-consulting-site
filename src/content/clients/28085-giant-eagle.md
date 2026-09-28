@@ -17,19 +17,6 @@ sourceId: 28085
 
 [Return to Clients](/clients/)
 
-Giant Eagle was founded in 1931 and now serves more than five million customers annually through nearly 400 retail locations in Pennsylvania, Ohio, West Virginia and Maryland.
+Giant Eagle is a privately held supermarket chain founded in 1931 and headquartered in the Pittsburgh, Pennsylvania area. The company operates approximately 200 supermarkets and pharmacy locations across Pennsylvania, Ohio, West Virginia, Maryland, and Indiana under banners including Giant Eagle and Market District, and generates roughly $9 billion in annual sales.
 
--   Annual sales of approximately $9.3 billion
--   One of the largest, privately owned and family-operated companies in the nation
--   Ranked #27 on Forbes magazine’s list of the top U.S. private companies
--   Number of supermarket locations:  218
--   Number of unique items carried in each supermarket: 20,000-60,000 — including more than 12,000 corporate and company-owned brand products
--   Number of team members employed: 36,000
--   Amount of material Giant Eagle recycled in one year: 141 million pounds
--   Giant Eagle banners include:
-    -   Giant Eagle
-    -   Market District
-    -   Market District Express
-    -   getGo Café + Market
-
-(Source:  gianteagle.com)
+(Source: gianteagle.com)

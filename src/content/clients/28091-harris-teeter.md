@@ -14,12 +14,6 @@ sourceId: 28091
 
 [Return to Clients](/clients/)
 
-Harris Teeter, a wholly-owned subsidiary of The Kroger Co. (NYSE: KR), was co-founded in 1960 by North Carolina grocers W.T. Harris and Willis Teeter
+Harris Teeter is a supermarket chain formed in 1960 through the merger of Harris Super Market and Teeter's Food Mart, both North Carolina grocers dating to the 1930s. The company operates roughly 260 stores across the Southeast and Mid-Atlantic under a single banner. Harris Teeter has been a subsidiary of Kroger since 2014 and remains headquartered in Matthews, North Carolina.
 
-Harris Teeter operates over 230 stores and seven fuel centers in seven states and the District of Columbia
-
-In addition to its retail stores, Harris Teeter also owns grocery, frozen food, and perishable distribution centers in Greensboro, NC and Indian Trail, NC, as well as a dairy in High Point, NC
-
-Harris Teeter is headquartered in Matthews, NC and has approximately 30,000 associates
-
-(Source:  harristeeter.com)
+(Source: harristeeter.com)
