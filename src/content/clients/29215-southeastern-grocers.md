@@ -14,6 +14,6 @@ sourceId: 29215
 
 [Return to Clients](/clients/)
 
-Southeastern Grocers, now rebranding as The Winn-Dixie Company, is a supermarket operator whose flagship Winn-Dixie banner traces back to 1925 in Miami, Florida. The company operates roughly 130 Winn-Dixie grocery stores and about 140 Winn-Dixie Liquor Stores across Florida and southern Georgia. The company is privately held and headquartered in Jacksonville, Florida.
+The Winn-Dixie Company is a supermarket operator whose flagship Winn-Dixie banner traces back to 1925 in Miami, Florida. The company operates roughly 130 Winn-Dixie grocery stores and about 140 Winn-Dixie Liquor Stores across Florida and southern Georgia. The company is privately held and headquartered in Jacksonville, Florida.
 
 (Source: winndixie.com)
