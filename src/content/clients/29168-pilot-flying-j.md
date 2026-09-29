@@ -14,6 +14,6 @@ sourceId: 29168
 
 [Return to Clients](/clients/)
 
-Pilot Flying J, now doing business as Pilot Company, is a travel center and truck stop chain founded in 1958 when Jim Haslam Sr. purchased a single gas station in Weber City, Virginia. Headquartered in Knoxville, Tennessee, the company operates more than 900 travel centers across 44 U.S. states and several Canadian provinces under the Pilot, Flying J, and One9 Fuel Network banners, serving over a million guests daily. Pilot Company has been a wholly owned subsidiary of Berkshire Hathaway since January 2024.
+Pilot Company is a travel center and truck stop chain founded in 1958 when Jim Haslam Sr. purchased a single gas station in Weber City, Virginia. Headquartered in Knoxville, Tennessee, the company operates more than 900 travel centers across 44 U.S. states and several Canadian provinces under the Pilot, Flying J, and One9 Fuel Network banners, serving over a million guests daily. Pilot Company has been a wholly owned subsidiary of Berkshire Hathaway since January 2024.
 
 (Source: pilotcompany.com)
