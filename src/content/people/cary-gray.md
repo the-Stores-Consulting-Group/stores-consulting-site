@@ -3,10 +3,11 @@ name: Cary Gray
 role: Senior Consultant
 tier: senior-consultant
 order: 9
-image: null
+image: /assets/editorial/Headshots/09_C_Gray.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/graycary/'
 ---
+
 
 
 
