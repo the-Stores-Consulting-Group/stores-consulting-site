@@ -17,13 +17,6 @@ logos:
       alt: Kroger logo
       width: 500
       height: 500
-  - name: Whole Foods Market
-    href: /project/whole-foods/
-    image:
-      src: /assets/mockup/clients/whole-foods.webp
-      alt: Whole Foods logo
-      width: 199
-      height: 67
   - name: Ahold Delhaize
     href: /project/ahold/
     image:
@@ -31,48 +24,6 @@ logos:
       alt: Ahold Delhaize logo
       width: 204
       height: 99
-  - name: Giant Eagle
-    href: /project/giant-eagle/
-    image:
-      src: /assets/editorial/Client%20Logos/Giant-Eagle-Logo-White.png
-      alt: Giant Eagle logo
-      width: 200
-      height: 150
-  - name: Schnucks
-    href: /project/schnucks/
-    image:
-      src: /assets/mockup/clients/schnucks.webp
-      alt: Schnucks logo
-      width: 226
-      height: 42
-  - name: Macy’s
-    href: /project/macys/
-    image:
-      src: /assets/mockup/clients/macys.webp
-      alt: Macy’s logo
-      width: 166
-      height: 67
-  - name: Bloomingdale’s
-    href: /project/bloomingdales/
-    image:
-      src: /assets/mockup/clients/bloomingdales.webp
-      alt: Bloomingdale’s logo
-      width: 207
-      height: 50
-  - name: Best Buy
-    href: /project/best-buy/
-    image:
-      src: /assets/mockup/clients/best-buy.webp
-      alt: Best Buy logo
-      width: 170
-      height: 123
-  - name: Bealls
-    href: /project/bealls/
-    image:
-      src: /assets/editorial/Client%20Logos/Bealls-Logo.png
-      alt: Bealls logo
-      width: 198
-      height: 52
   - name: Pilot Company
     href: /project/pilot-flying-j/
     image:
@@ -80,41 +31,27 @@ logos:
       alt: Pilot Flying J logo
       width: 148
       height: 69
-  - name: getGo
-    href: /project/getgo/
+  - name: Best Buy
+    href: /project/best-buy/
     image:
-      src: /assets/editorial/Client%20Logos/getGo-Logo.png
-      alt: getGo logo
-      width: 180
-      height: 81
-  - name: The Winn-Dixie Company
-    href: /project/southeastern-grocers/
+      src: /assets/mockup/clients/best-buy.webp
+      alt: Best Buy logo
+      width: 170
+      height: 123
+  - name: Macy’s
+    href: /project/macys/
     image:
-      src: /assets/editorial/Client%20Logos/Southeastern-Grocers-Logo.jpg
-      alt: The Winn-Dixie Company logo
-      width: 720
-      height: 720
-  - name: Family Dollar
-    href: /project/family-dollar/
+      src: /assets/mockup/clients/macys.webp
+      alt: Macy’s logo
+      width: 166
+      height: 67
+  - name: Whole Foods Market
+    href: /project/whole-foods/
     image:
-      src: /assets/mockup/clients/family-dollar.webp
-      alt: Family Dollar logo
-      width: 230
-      height: 49
-  - name: At Home
-    href: /project/at-home/
-    image:
-      src: /assets/mockup/clients/at-home.webp
-      alt: At Home logo
-      width: 165
-      height: 89
-  - name: Bargain Hunt
-    href: /project/bargain-hunt/
-    image:
-      src: /assets/mockup/clients/bargain-hunt.webp
-      alt: Bargain Hunt logo
+      src: /assets/mockup/clients/whole-foods.webp
+      alt: Whole Foods logo
       width: 199
-      height: 71
+      height: 67
   - name: Goodyear
     href: /project/goodyear/
     image:
@@ -122,3 +59,66 @@ logos:
       alt: Goodyear logo
       width: 600
       height: 600
+  - name: Family Dollar
+    href: /project/family-dollar/
+    image:
+      src: /assets/mockup/clients/family-dollar.webp
+      alt: Family Dollar logo
+      width: 230
+      height: 49
+  - name: Giant Eagle
+    href: /project/giant-eagle/
+    image:
+      src: /assets/editorial/Client%20Logos/Giant-Eagle-Logo-White.png
+      alt: Giant Eagle logo
+      width: 200
+      height: 150
+  - name: Michaels
+    href: /project/michaels/
+    image:
+      src: /assets/editorial/Client%20Logos/Michaels-Logo.jpg
+      alt: Michaels logo
+      width: 960
+      height: 238
+  - name: Total Wine
+    href: /project/total-wine/
+    image:
+      src: /assets/editorial/Client%20Logos/Total-Wine-Logo.png
+      alt: Total Wine logo
+      width: 430
+      height: 108
+  - name: The Winn-Dixie Company
+    href: /project/southeastern-grocers/
+    image:
+      src: /assets/editorial/Client%20Logos/Southeastern-Grocers-Logo.jpg
+      alt: The Winn-Dixie Company logo
+      width: 720
+      height: 720
+  - name: Bloomingdale’s
+    href: /project/bloomingdales/
+    image:
+      src: /assets/mockup/clients/bloomingdales.webp
+      alt: Bloomingdale’s logo
+      width: 207
+      height: 50
+  - name: Schnucks
+    href: /project/schnucks/
+    image:
+      src: /assets/mockup/clients/schnucks.webp
+      alt: Schnucks logo
+      width: 226
+      height: 42
+  - name: getGo
+    href: /project/getgo/
+    image:
+      src: /assets/editorial/Client%20Logos/getGo-Logo.png
+      alt: getGo logo
+      width: 180
+      height: 81
+  - name: Bealls
+    href: /project/bealls/
+    image:
+      src: /assets/editorial/Client%20Logos/Bealls-Logo.png
+      alt: Bealls logo
+      width: 198
+      height: 52
