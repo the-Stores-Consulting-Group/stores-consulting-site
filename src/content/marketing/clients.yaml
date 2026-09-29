@@ -87,11 +87,11 @@ logos:
       alt: getGo logo
       width: 180
       height: 81
-  - name: Southeastern Grocers
+  - name: The Winn-Dixie Company
     href: /project/southeastern-grocers/
     image:
       src: /assets/editorial/Client%20Logos/Southeastern-Grocers-Logo.jpg
-      alt: Southeastern Grocers logo
+      alt: The Winn-Dixie Company logo
       width: 720
       height: 720
   - name: Family Dollar
