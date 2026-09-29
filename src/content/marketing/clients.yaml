@@ -101,20 +101,20 @@ logos:
       alt: Family Dollar logo
       width: 230
       height: 49
-  - name: At Home
-    href: /project/at-home/
+  - name: Michaels
+    href: /project/michaels/
     image:
-      src: /assets/mockup/clients/at-home.webp
-      alt: At Home logo
-      width: 165
-      height: 89
-  - name: Bargain Hunt
-    href: /project/bargain-hunt/
+      src: /wp-content/uploads/2023/01/Michaels-1.jpg
+      alt: Michaels logo
+      width: 720
+      height: 720
+  - name: Total Wine
+    href: /project/total-wine/
     image:
-      src: /assets/mockup/clients/bargain-hunt.webp
-      alt: Bargain Hunt logo
-      width: 199
-      height: 71
+      src: /wp-content/uploads/2017/01/SponsorPage-TotalWine.png
+      alt: Total Wine logo
+      width: 300
+      height: 300
   - name: Goodyear
     href: /project/goodyear/
     image:
