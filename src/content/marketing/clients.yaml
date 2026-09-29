@@ -76,17 +76,17 @@ logos:
   - name: Michaels
     href: /project/michaels/
     image:
-      src: /wp-content/uploads/2023/01/Michaels-1.jpg
+      src: /assets/editorial/Client%20Logos/Michaels-Logo.jpg
       alt: Michaels logo
-      width: 720
-      height: 720
+      width: 960
+      height: 238
   - name: Total Wine
     href: /project/total-wine/
     image:
-      src: /wp-content/uploads/2017/01/SponsorPage-TotalWine.png
+      src: /assets/editorial/Client%20Logos/Total-Wine-Logo.png
       alt: Total Wine logo
-      width: 300
-      height: 300
+      width: 430
+      height: 108
   - name: The Winn-Dixie Company
     href: /project/southeastern-grocers/
     image:
