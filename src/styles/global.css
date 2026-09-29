@@ -85,6 +85,7 @@
     --space-6: 3rem;
     --space-7: 4.5rem;
     --space-8: 6rem;
+    --person-portrait-max: 16rem;
     --section-space: clamp(4rem, 7vw, 6rem);
     --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
   }
@@ -1313,8 +1314,8 @@
   .person-card {
     display: grid;
     grid-template-columns: minmax(12rem, 0.75fr) minmax(0, 1.25fr);
-    grid-template-rows: auto auto;
-    gap: var(--space-5);
+    grid-template-rows: auto 1fr;
+    gap: var(--space-3) var(--space-5);
     padding-block: var(--space-5);
     border-bottom: 1px solid var(--line-soft);
   }
@@ -2284,11 +2285,12 @@
   grid-column: 1;
   grid-row: 2;
   align-self: start;
-  width: 12.5rem;
-  height: 12.5rem;
+  width: 100%;
+  max-width: var(--person-portrait-max);
+  height: auto;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: top;
-  margin-block: var(--space-3);
 }
 
 /* PDF resource: full-width document preview with a persistent direct link. */
