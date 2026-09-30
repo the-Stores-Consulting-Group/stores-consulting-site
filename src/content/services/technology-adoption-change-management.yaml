@@ -31,7 +31,7 @@ metrics:
     label: 'The long-term goal for field-specialist dependency, once the cascade is installed'
   - value: Vendor-agnostic
     label: Works with any AI or technology platform already deployed
-metricsNote: 'This pillar is the newest and most directly tied to the Lighthouse Path. A fully sourced, engagement-specific proof point is in development.'
+metricsNote: A fully sourced, engagement-specific proof point for this pillar is in development.
 relatedPaths:
   - /approach/
   - /results/
