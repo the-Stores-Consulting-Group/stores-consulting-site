@@ -2,13 +2,14 @@
 name: Total Wine
 slug: total-wine
 route: /project/total-wine/
-category: clients, tscg-clients
+category: 'clients, tscg-clients'
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/SponsorPage-TotalWine.png
-legacyUrl: https://storesconsulting.com/project/total-wine/
-updatedDate: 2017-02-09T17:50:24
+logo: /assets/editorial/Client%20Logos/Total-Wine.png
+legacyUrl: 'https://storesconsulting.com/project/total-wine/'
+updatedDate: 2026-09-30T22:05:37.123Z
 sourceId: 28117
 ---
+
 
 <img src="/wp-content/uploads/2017/01/SponsorPage-TotalWine.png" alt="Total Wine" width="300" height="300" loading="lazy">
 
