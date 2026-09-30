@@ -23,7 +23,7 @@ workstreams:
   - title: Leadership Enablement
     description: Equipping store and district leadership to own the standard going forward — not depend on outside consultants indefinitely.
   - title: Peer Mentorship Infrastructure
-    description: The Lighthouse cascade mechanism — identifying stores that already do it right and building the system that spreads it.
+    description: Build the structures, tools, and time that make it easy for colleagues to learn from one another, so knowledge-sharing becomes part of how we work instead of something left to chance.
 metrics:
   - value: 70/30
     label: 'The split between human execution and platform capability, per our own Approach thesis'
