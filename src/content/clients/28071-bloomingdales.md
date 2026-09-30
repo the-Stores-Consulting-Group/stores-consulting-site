@@ -4,11 +4,12 @@ slug: bloomingdales
 route: /project/bloomingdales/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Bloomingdales_Logo.png
-legacyUrl: https://storesconsulting.com/project/bloomingdales/
-updatedDate: 2017-01-25T02:24:04
+logo: /assets/editorial/Client%20Logos/Bloomingdales.svg
+legacyUrl: 'https://storesconsulting.com/project/bloomingdales/'
+updatedDate: 2026-09-30T22:09:08.486Z
 sourceId: 28071
 ---
+
 
 <img src="/wp-content/uploads/2017/01/Bloomingdales_Logo.png" alt="Bloomingdale’s" width="600" height="600" loading="lazy">
 
