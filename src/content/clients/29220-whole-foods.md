@@ -4,11 +4,12 @@ slug: whole-foods
 route: /project/whole-foods/
 category: legacy-client
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/wf.jpg
-legacyUrl: https://storesconsulting.com/project/whole-foods/
-updatedDate: 2023-01-17T11:28:00
+logo: /assets/editorial/Client%20Logos/WFM-Logo2.webp
+legacyUrl: 'https://storesconsulting.com/project/whole-foods/'
+updatedDate: 2026-09-30T21:58:01.830Z
 sourceId: 29220
 ---
+
 
 <img src="/wp-content/uploads/2023/01/wf.jpg" alt="Whole Foods" width="720" height="720" loading="lazy">
 
