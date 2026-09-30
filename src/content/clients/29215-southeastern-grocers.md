@@ -4,11 +4,12 @@ slug: southeastern-grocers
 route: /project/southeastern-grocers/
 category: legacy-client
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/seg.jpg
-legacyUrl: https://storesconsulting.com/project/southeastern-grocers/
-updatedDate: 2023-01-17T11:23:09
+logo: /assets/editorial/Client%20Logos/Winn-Dixie-Company.webp
+legacyUrl: 'https://storesconsulting.com/project/southeastern-grocers/'
+updatedDate: 2026-09-30T22:08:07.781Z
 sourceId: 29215
 ---
+
 
 <img src="/wp-content/uploads/2023/01/seg.jpg" alt="The Winn-Dixie Company" width="720" height="720" loading="lazy">
 
