@@ -92,8 +92,8 @@ logos:
     image:
       src: /assets/editorial/Client Logos/Winn-Dixie-Company.webp
       alt: The Winn-Dixie Company logo
-      width: 720
-      height: 720
+      width: 170
+      height: 123
   - name: Bloomingdale’s
     href: /project/bloomingdales/
     image:
