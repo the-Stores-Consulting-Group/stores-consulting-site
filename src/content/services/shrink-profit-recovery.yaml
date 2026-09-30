@@ -10,12 +10,12 @@ order: 1
 eyebrow: AISLE 01 · What We Do
 summary: Find where margin leaks and build the accountability structure to stop it for good.
 thesisLabel: Why Technology Alone Hasn't Solved This
-thesis: 'Transaction-monitoring and video-AI platforms are very good at surfacing an exception. They''re not built to install the daily habits — front-end controls, vendor accountability, associate awareness — that actually stop the loss. That''s the layer we build.'
+thesis: 'Production planning, transaction-monitoring, and video-AI platforms are very good at surfacing an exception. They''re not built to install the daily habits — front-end controls, vendor accountability, associate awareness — that actually stop the loss. That''s the layer we build.'
 workstreams:
   - title: Foundational
     description: 'Shrink measurement methods and integrity, physical inventory process and post-audit, shelf price accuracy and markdown controls.'
   - title: Inventory Management
-    description: 'Product allocation and ordering effectiveness, backroom organization and physical product security, DSD vendor performance tracking.'
+    description: 'Production planning, product allocation and ordering effectiveness, backroom organization and physical product security, DSD vendor performance tracking.'
   - title: Shrink Analytics & Transaction Monitoring
     description: 'POS, DSD, and inventory transaction monitoring; store risk assessment and predictive shrink analysis; proactive shrink response.'
   - title: Front-End Controls & Theft Deterrence
