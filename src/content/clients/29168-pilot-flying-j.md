@@ -4,11 +4,12 @@ slug: pilot-flying-j
 route: /project/pilot-flying-j/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/pilot.jpg
-legacyUrl: https://storesconsulting.com/project/pilot-flying-j/
-updatedDate: 2023-01-17T10:57:42
+logo: /assets/editorial/Client%20Logos/PilotLogo.svg
+legacyUrl: 'https://storesconsulting.com/project/pilot-flying-j/'
+updatedDate: 2026-09-30T21:36:28.917Z
 sourceId: 29168
 ---
+
 
 <img src="/wp-content/uploads/2023/01/pilot.jpg" alt="Pilot Company" width="720" height="720" loading="lazy">
 
