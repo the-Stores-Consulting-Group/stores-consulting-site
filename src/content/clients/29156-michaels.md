@@ -4,11 +4,12 @@ slug: michaels
 route: /project/michaels/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2023/01/Michaels-1.jpg
-legacyUrl: https://storesconsulting.com/project/michaels/
-updatedDate: 2023-01-17T10:40:54
+logo: /assets/editorial/Client%20Logos/Michaels.svg
+legacyUrl: 'https://storesconsulting.com/project/michaels/'
+updatedDate: 2026-09-30T22:01:53.473Z
 sourceId: 29156
 ---
+
 
 <img src="/wp-content/uploads/2023/01/Michaels.jpg" alt="Michaels" width="720" height="720" loading="lazy">
 
