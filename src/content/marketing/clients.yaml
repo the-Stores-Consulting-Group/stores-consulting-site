@@ -20,35 +20,35 @@ logos:
   - name: Ahold Delhaize
     href: /project/ahold/
     image:
-      src: /assets/mockup/clients/ahold-delhaize.webp
+      src: /assets/editorial/assets/mockup/clients/ahold-delhaize.webp
       alt: Ahold Delhaize logo
       width: 204
       height: 99
   - name: Pilot Company
     href: /project/pilot-flying-j/
     image:
-      src: /assets/mockup/clients/pilot-flying-j.webp
+      src: /assets/editorial/Client Logos/PilotLogo.svg
       alt: Pilot Flying J logo
       width: 148
       height: 69
   - name: Best Buy
     href: /project/best-buy/
     image:
-      src: /assets/mockup/clients/best-buy.webp
+      src: /assets/editorial/assets/mockup/clients/best-buy.webp
       alt: Best Buy logo
       width: 170
       height: 123
   - name: Macy’s
     href: /project/macys/
     image:
-      src: /assets/mockup/clients/macys.webp
+      src: /assets/editorial/assets/mockup/clients/macys.webp
       alt: Macy’s logo
       width: 166
       height: 67
   - name: Whole Foods Market
     href: /project/whole-foods/
     image:
-      src: /assets/mockup/clients/whole-foods.webp
+      src: /assets/editorial/assets/mockup/clients/whole-foods.webp
       alt: Whole Foods logo
       width: 199
       height: 67
@@ -62,7 +62,7 @@ logos:
   - name: Family Dollar
     href: /project/family-dollar/
     image:
-      src: /assets/mockup/clients/family-dollar.webp
+      src: /assets/editorial/assets/mockup/clients/family-dollar.webp
       alt: Family Dollar logo
       width: 230
       height: 49
@@ -97,14 +97,14 @@ logos:
   - name: Bloomingdale’s
     href: /project/bloomingdales/
     image:
-      src: /assets/mockup/clients/bloomingdales.webp
+      src: /assets/editorial/assets/mockup/clients/bloomingdales.webp
       alt: Bloomingdale’s logo
       width: 207
       height: 50
   - name: Schnucks
     href: /project/schnucks/
     image:
-      src: /assets/mockup/clients/schnucks.webp
+      src: /assets/editorial/assets/mockup/clients/schnucks.webp
       alt: Schnucks logo
       width: 226
       height: 42
