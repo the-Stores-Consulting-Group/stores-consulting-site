@@ -4,13 +4,14 @@ slug: bealls
 route: /project/bealls/
 category: legacy-client
 tier: unspecified
-logo: /assets/editorial/Client%20Logos/Bealls-Logo.png
+logo: /assets/editorial/Client%20Logos/Bealls.svg
 logoWidth: 248
 logoHeight: 75
 legacyUrl: 'https://storesconsulting.com/project/bealls/'
-updatedDate: 2026-09-15T21:11:52.800Z
+updatedDate: 2026-09-30T22:13:20.806Z
 sourceId: 29210
 ---
+
 
 
 <img src="/wp-content/uploads/2023/01/bealls.jpg" alt="Bealls" width="720" height="720" loading="lazy">
