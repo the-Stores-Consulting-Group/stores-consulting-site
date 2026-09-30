@@ -4,11 +4,12 @@ slug: goodyear
 route: /project/goodyear/
 category: clients
 tier: unspecified
-logo: https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2017/01/Goodyear_Tire__Rubber_Company_logo_blue.png
-legacyUrl: https://storesconsulting.com/project/goodyear/
-updatedDate: 2017-01-25T03:46:00
+logo: /assets/editorial/Client%20Logos/Goodyear.svg
+legacyUrl: 'https://storesconsulting.com/project/goodyear/'
+updatedDate: 2026-09-30T21:58:17.679Z
 sourceId: 28087
 ---
+
 
 <img src="/wp-content/uploads/2017/01/Goodyear_Tire__Rubber_Company_logo_blue.png" alt="Goodyear" width="600" height="600" loading="lazy">
 
