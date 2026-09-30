@@ -4,13 +4,14 @@ slug: giant-eagle
 route: /project/giant-eagle/
 category: clients
 tier: unspecified
-logo: /assets/editorial/Client%20Logos/Giant-Eagle-Logo.webp
+logo: /assets/editorial/Client%20Logos/GE.svg
 logoWidth: 1280
 logoHeight: 1220
 legacyUrl: 'https://storesconsulting.com/project/giant-eagle/'
-updatedDate: 2026-09-15T21:10:29.599Z
+updatedDate: 2026-09-30T22:00:44.060Z
 sourceId: 28085
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/GiantEagle.png" alt="Giant Eagle" width="600" height="600" loading="lazy">
