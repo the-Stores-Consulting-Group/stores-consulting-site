@@ -2305,3 +2305,20 @@ body.__tina-quick-editing-enabled [data-editor-controls] { display: block; }
 
 :root { --media-video-ratio: 16 / 9; }
 .prose iframe.article-video { aspect-ratio: var(--media-video-ratio); height: auto; }
+
+.brand__logo {
+  display: block;
+  width: auto;
+  height: 2.6rem;
+  max-width: 100%;
+}
+
+.brand--compact .brand__logo {
+  height: 2rem;
+}
+
+@media (max-width: 48rem) {
+  .brand__logo {
+    height: 2rem;
+  }
+}
