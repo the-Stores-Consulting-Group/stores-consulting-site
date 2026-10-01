@@ -7,14 +7,5 @@ const { compact = false } = Astro.props;
 ---
 
 <span class:list={['brand', { 'brand--compact': compact }]}>
-  <span class="brand__mark" aria-hidden="true">
-    <span class="brand__shelf brand__shelf--one"></span>
-    <span class="brand__shelf brand__shelf--two"></span>
-    <span class="brand__item"></span>
-    <span class="brand__shelf brand__shelf--three"></span>
-  </span>
-  <span class="brand__type">
-    <span class="brand__wordmark">the Stores</span>
-    <span class="brand__descriptor">Consulting Group</span>
-  </span>
+  <img class="brand__logo" src="/assets/brand/logo.png" alt="the Stores Consulting Group — $12 billion in profit created and counting" width="1610" height="233" />
 </span>
