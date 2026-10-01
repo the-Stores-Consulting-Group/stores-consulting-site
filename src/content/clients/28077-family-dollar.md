@@ -5,10 +5,13 @@ route: /project/family-dollar/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Family-Dollar.png
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/family-dollar/'
-updatedDate: 2026-09-30T21:58:33.876Z
+updatedDate: 2026-10-01T00:47:51.274Z
 sourceId: 28077
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/family-dollar-logo_final.png" alt="Family Dollar" width="600" height="600" loading="lazy">
