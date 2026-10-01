@@ -590,6 +590,12 @@ export const marketingCollections: Collection[] = [
             ]
           }
         ]
+      },
+      {
+        "name": "showDirectory",
+        "label": "Show client directory section",
+        "description": "Turn off and Save to hide the Client directory section (heading, introduction and profile links) from the Clients page. Content is kept.",
+        "type": "boolean"
       }
     ]
   },
