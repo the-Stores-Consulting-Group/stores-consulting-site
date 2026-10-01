@@ -5,10 +5,13 @@ route: /project/michaels/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Michaels.svg
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/michaels/'
-updatedDate: 2026-09-30T22:01:53.473Z
+updatedDate: 2026-10-01T00:48:52.430Z
 sourceId: 29156
 ---
+
 
 
 <img src="/wp-content/uploads/2023/01/Michaels.jpg" alt="Michaels" width="720" height="720" loading="lazy">
