@@ -2308,10 +2308,26 @@ body.__tina-quick-editing-enabled [data-editor-controls] { display: block; }
 
 .brand__logo {
   display: block;
-  width: clamp(11rem, 22vw, 16rem);
+  width: min(17rem, 66vw);
   height: auto;
 }
 
 .brand--compact .brand__logo {
-  width: clamp(10rem, 18vw, 13rem);
+  width: min(16rem, 80vw);
+}
+
+@media (min-width: 64rem) {
+  .brand__logo {
+    width: clamp(14rem, 23vw, 17rem);
+  }
+}
+
+@media (min-width: 75rem) {
+  .brand__logo {
+    width: 26rem;
+  }
+
+  .brand--compact .brand__logo {
+    width: 22rem;
+  }
 }
