@@ -1,6 +1,6 @@
 business:
   description: 'Retail execution, operations, and technology adoption consulting.'
-  logo: 'https://stores-consulting-site-dusky.vercel.app/assets/brand/organization-logo.png'
+  logo: /assets/editorial/tSCG_monogram.png
   sameAs: []
 sharing:
   image: /assets/editorial/tSCG-Logo.png
