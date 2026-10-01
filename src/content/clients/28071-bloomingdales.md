@@ -5,10 +5,13 @@ route: /project/bloomingdales/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Bloomingdales.svg
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/bloomingdales/'
-updatedDate: 2026-09-30T22:09:08.486Z
+updatedDate: 2026-10-01T00:47:37.873Z
 sourceId: 28071
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/Bloomingdales_Logo.png" alt="Bloomingdale’s" width="600" height="600" loading="lazy">
