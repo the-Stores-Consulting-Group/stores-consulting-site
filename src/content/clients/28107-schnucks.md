@@ -5,10 +5,13 @@ route: /project/schnucks/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Schnucks.svg
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/schnucks/'
-updatedDate: 2026-09-30T22:10:27.568Z
+updatedDate: 2026-10-01T00:48:29.942Z
 sourceId: 28107
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/schnucks_logo.png" alt="Schnucks" width="600" height="600" loading="lazy">
