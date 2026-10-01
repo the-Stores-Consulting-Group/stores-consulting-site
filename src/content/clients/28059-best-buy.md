@@ -5,10 +5,13 @@ route: /project/best-buy/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Best_Buy_logo_2018.svg.webp
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/best-buy/'
-updatedDate: 2026-09-30T21:46:09.955Z
+updatedDate: 2026-10-01T00:47:02.945Z
 sourceId: 28059
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/2000px-Best_Buy_Logo.svg_.png" alt="Best Buy" width="600" height="600" loading="lazy">
