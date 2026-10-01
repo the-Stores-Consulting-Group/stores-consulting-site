@@ -5,10 +5,13 @@ route: /project/pilot-flying-j/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/PilotLogo.svg
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/pilot-flying-j/'
-updatedDate: 2026-09-30T21:36:28.917Z
+updatedDate: 2026-10-01T00:49:04.537Z
 sourceId: 29168
 ---
+
 
 
 <img src="/wp-content/uploads/2023/01/pilot.jpg" alt="Pilot Company" width="720" height="720" loading="lazy">
