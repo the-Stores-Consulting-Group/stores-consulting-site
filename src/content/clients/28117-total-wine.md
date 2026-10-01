@@ -5,10 +5,13 @@ route: /project/total-wine/
 category: 'clients, tscg-clients'
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Total-Wine.png
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/total-wine/'
-updatedDate: 2026-09-30T22:05:37.123Z
+updatedDate: 2026-10-01T00:48:42.070Z
 sourceId: 28117
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/SponsorPage-TotalWine.png" alt="Total Wine" width="300" height="300" loading="lazy">
