@@ -5,10 +5,13 @@ route: /project/goodyear/
 category: clients
 tier: unspecified
 logo: /assets/editorial/Client%20Logos/Goodyear.svg
+logoWidth: 100
+logoHeight: 100
 legacyUrl: 'https://storesconsulting.com/project/goodyear/'
-updatedDate: 2026-09-30T21:58:17.679Z
+updatedDate: 2026-10-01T00:48:03.334Z
 sourceId: 28087
 ---
+
 
 
 <img src="/wp-content/uploads/2017/01/Goodyear_Tire__Rubber_Company_logo_blue.png" alt="Goodyear" width="600" height="600" loading="lazy">
