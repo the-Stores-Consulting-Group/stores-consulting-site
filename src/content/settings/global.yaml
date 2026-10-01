@@ -1,10 +1,39 @@
+business:
+  description: 'Retail execution, operations, and technology adoption consulting.'
+  logo: 'https://stores-consulting-site-dusky.vercel.app/assets/brand/organization-logo.png'
+  sameAs: []
+sharing:
+  image: /assets/editorial/tSCG-Logo.png
+  alt: the Stores Consulting Group
+labels:
+  aisle: Aisle
+  exploreService: Explore this aisle →
+  outcomesHeading: tSCG · Engagement Outcomes
+  relatedWork: Related insights & client work
+  relatedServices: How we can help
+  readArticle: Read article →
+  watchVideo: Watch video →
+  readReport: Read report →
+  openReport: Open report (PDF)
+  backToBlog: Back to Blog →
+  newerArticle: Newer Article
+  olderArticle: Older Article
+  challenge: The challenge
+  work: What we did
+  results: Results
+  postEyebrow: tSCG Blog
+  clientEyebrow: Client Profile
+  authorEyebrow: Author
+  categoryEyebrow: Blog Category
+  home: Home
+  clientDirectory: tSCG Clients
 navigation:
   services: What We Do
   servicesOverview: Services Overview
-  shrink: ""
-  fresh: ""
-  workforce: ""
-  technology: ""
+  shrink: ''
+  fresh: ''
+  workforce: ''
+  technology: ''
   approach: Our Approach
   results: Results
   about: About
@@ -18,40 +47,9 @@ footer:
   company: Company
   explore: Explore
   organization: the Stores Consulting Group
-  location: Wilmington, OH
+  location: 'Wilmington, OH'
 cta:
   title: If the technology is live and the ROI still isn't showing up — let's talk.
   description: That gap is exactly the conversation we are built for.
   href: /contact-us/
   label: Start the Conversation
-
-labels:
-  aisle: "Aisle"
-  exploreService: "Explore this aisle →"
-  outcomesHeading: "tSCG · Engagement Outcomes"
-  relatedWork: "Related insights & client work"
-  relatedServices: "How we can help"
-  readArticle: "Read article →"
-  watchVideo: "Watch video →"
-  readReport: "Read report →"
-  openReport: "Open report (PDF)"
-  backToBlog: "Back to Blog →"
-  newerArticle: "Newer Article"
-  olderArticle: "Older Article"
-  challenge: "The challenge"
-  work: "What we did"
-  results: "Results"
-  postEyebrow: "tSCG Blog"
-  clientEyebrow: "Client Profile"
-  authorEyebrow: "Author"
-  categoryEyebrow: "Blog Category"
-  home: "Home"
-  clientDirectory: "tSCG Clients"
-
-business:
-  description: Retail execution, operations, and technology adoption consulting.
-  logo: https://stores-consulting-site-dusky.vercel.app/assets/brand/organization-logo.png
-  sameAs: []
-sharing:
-  image: https://stores-consulting-site-dusky.vercel.app/assets/brand/social-card.png
-  alt: the Stores Consulting Group
