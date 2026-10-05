@@ -14,9 +14,8 @@ const Heading = `h${headingLevel}` as 'h2' | 'h3' | 'h4';
 ---
 
 <ol class="workstream-grid">
-  {items.map((item, index) => (
+  {items.map((item) => (
     <li data-reveal>
-      <span class="workstream-grid__number">{String(index + 1).padStart(2, '0')}</span>
       <Heading class="card-title" data-tina-field={tinaField(item,'title')}>{item.title}</Heading>
       <p data-tina-field={tinaField(item,'description')}>{item.description}</p>
     </li>

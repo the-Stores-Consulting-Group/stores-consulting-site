@@ -1031,7 +1031,6 @@
   }
 
   .flow-list__number,
-  .workstream-grid__number,
   .service-card__number {
     color: var(--signal);
     font-family: var(--font-display);
@@ -1269,7 +1268,7 @@
 
   .workstream-grid li {
     display: grid;
-    grid-template-columns: 3.5rem minmax(11rem, 0.55fr) minmax(0, 1fr);
+    grid-template-columns: minmax(11rem, 0.55fr) minmax(0, 1fr);
     align-items: start;
     gap: clamp(1.5rem, 4vw, 4rem);
     min-height: 0;
@@ -2208,13 +2207,9 @@
   }
 
   .workstream-grid li {
-    grid-template-columns: 2.5rem 1fr;
+    grid-template-columns: 1fr;
     min-height: auto;
     gap: var(--space-3);
-  }
-
-  .workstream-grid li p {
-    grid-column: 2;
   }
 
   .fm-proof-layout__visual .evidence-panel {
