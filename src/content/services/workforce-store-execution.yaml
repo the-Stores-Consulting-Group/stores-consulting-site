@@ -27,8 +27,8 @@ metrics:
     label: Typical labor productivity improvement across engagement history
   - value: 15–30%
     label: Typical reduction in non-sell task time
-  - value: 30–80%
-    label: Reduction in cash-handling hours through process re-engineering
+  - value: 30–50%
+    label: Reduction in non-customer facing activities such as cash handling.
 metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.'
 relatedPaths:
   - /approach/
