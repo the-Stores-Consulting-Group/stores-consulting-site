@@ -20,7 +20,7 @@ hero:
     position: center
 problem:
   heading: The technology is in. The store still has to run it.
-  description: 'ESLs, robots, workforce systems, AI — they are already on the floor. The alert fires. The order sits. The schedule dies at 6 a.m. That is the execution gap. That is the work.'
+  description: 'ESLs, Robots, Workforce Systems, AI — they are already on the floor. An alert fires. Nobody Acts. The order sits. The schedule dies at 6 a.m. That is the execution gap. That is the work.'
   cards:
     - label: The Adoption Gap
       title: The alert fires. Nobody acts.
@@ -81,7 +81,7 @@ approach:
       copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
     - number: '02'
       title: Prove the standard
-      copy: In a lighthouse store if one exists. In a model store if one does not. Leaders have to be able to run it without us.
+      copy: In a model store test environment. Then further more in learning center validation stores. Stores and leaders have to be able to run it without us.
     - number: '03'
       title: Scale through the field
       copy: 'Peer to peer, district-owned. Dashboards and escalation so it holds after the visit.'
@@ -102,7 +102,7 @@ teamProof:
       label: 'Practitioners across grocery, specialty, convenience and mass retail'
     - value: 7–10x
       label: Typical return generated relative to engagement investment
-    - value: Multi
-      label: 'Project engagements are the norm, not the exception, with our clients'
+    - value: Trust
+      label: 'Multi project engagements are the norm, not the exception, with our clients'
     - value: $12B
       label: in profit created and counting
