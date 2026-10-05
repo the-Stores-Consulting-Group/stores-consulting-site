@@ -13,13 +13,13 @@ thesisLabel: The system can recommend the order. It cannot make the item show up
 thesis: 'Production planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday''s product from sitting in front of today''s. That last stretch is sales and the trip. That is the execution layer.'
 workstreams:
   - title: On-Hand & In-Stock
-    description: 'What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the shelf.'
+    description: 'What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the assortment on the shelf.'
   - title: Ordering and Replenishment
     description: 'How the store brings product in — cycle, frequency, min/max, what to do when the suggested order is wrong.'
   - title: Fresh and Prepared Production
-    description: 'Where the banner has it — production planning, recipes, yield, and what has to be made before the rush. Grocery-heavy. Not the whole aisle.'
+    description: 'Where the banner has it — production planning, recipes, yield, assortments, and what has to be made before the rush. Grocery-heavy. Not the whole aisle.'
   - title: Presentation and Shopability
-    description: 'Set, facing, price integrity, display. This is top-line and the trip — the item is there, it looks right, they can find it.'
+    description: 'Set, assortment, facing, price integrity, display. This is top-line and the trip — the item is there, it looks right, they can find it.'
   - title: Store Work That Gets in the Way
     description: 'Open, close, cull, clean, extra touches that steal hours from the set. Cut the work that does not move availability or sales.'
   - title: 'Waste, Markdowns, and Known Loss on the Set'
