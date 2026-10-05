@@ -13,7 +13,7 @@ thesisLabel: Why Technology Alone Hasn't Solved This
 thesis: 'A scheduling or labor-standards platform can generate an optimal schedule. It can''t redesign the manager''s day, retrain the habits underneath it, or make the schedule survive contact with a real Saturday morning. That gap is where execution actually lives.'
 workstreams:
   - title: Next-Generation Workforce Management
-    description: 'Scheduling automation and integration with HR systems, centralized scheduling feasibility, virtual/multi-store management technology.'
+    description: 'Scheduling automation and integration with HR systems, labor standard development, centralized scheduling feasibility, virtual/multi-store management technology.'
   - title: Store Ecommerce
     description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
   - title: Leadership Design & Management Effectiveness
