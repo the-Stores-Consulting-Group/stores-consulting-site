@@ -40,7 +40,7 @@ const services = defineCollection({
     summary: z.string(),
     thesisLabel: z.string(),
     thesis: z.string(),
-    workstreams: z.array(workstream).length(6),
+    workstreams: z.array(workstream).min(5).max(6),
     metrics: z.array(metric).min(3),
     metricsNote: z.string(),
     relatedContent: z.array(z.string().startsWith('/')).nullish(),

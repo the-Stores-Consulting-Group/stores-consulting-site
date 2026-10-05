@@ -1,4 +1,4 @@
-workstreamsTitle: 'Six workstreams, applied to your specific gap.'
+workstreamsTitle: 'Five workstreams, applied to your specific gap.'
 resultsTitle: Results
 ctaTitle: Tailored to you.
 ctaDescription: Where you start begins with understanding where you are at — not this pillar specifically.
@@ -13,24 +13,22 @@ thesisLabel: Why Technology Alone Hasn't Solved This
 thesis: 'A scheduling or labor-standards platform can generate an optimal schedule. It can''t redesign the manager''s day, retrain the habits underneath it, or make the schedule survive contact with a real Saturday morning. That gap is where execution actually lives.'
 workstreams:
   - title: Next-Generation Workforce Management
-    description: 'Scheduling automation and integration with HR systems, centralized scheduling feasibility, virtual/multi-store management technology.'
-  - title: Store Ecommerce
-    description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
+    description: 'Scheduling automation and integration with HR systems, labor standards development, centralized scheduling feasibility, virtual/multi-store management technology.'
   - title: Leadership Design & Management Effectiveness
     description: 'Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work.'
+  - title: Labor Efficiency & Effectiveness
+    description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage, off-hour staffing performance, checkout layout, technology, management and bookkeeping, replenishment productivity, DSD conditioning.'
   - title: Upstream Activity
     description: 'Delivery frequency and load conditions, pallet stacking for high-velocity items, touchpoint reduction from vendor to shelf.'
-  - title: 'Front End, Fresh & Center Store'
-    description: 'Checkout layout and technology, front-end management and bookkeeping, replenishment productivity and DSD conditioning.'
-  - title: Total Store
-    description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage and off-hour staffing performance.'
+  - title: Store Ecommerce
+    description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
 metrics:
   - value: 5–15%
     label: Typical labor productivity improvement across engagement history
   - value: 15–30%
     label: Typical reduction in non-sell task time
-  - value: 30–80%
-    label: Reduction in cash-handling hours through process re-engineering
+  - value: 30–50%
+    label: Reduction in non-customer facing activities such as cash handling.
 metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.'
 relatedPaths:
   - /approach/
