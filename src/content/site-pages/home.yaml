@@ -5,7 +5,7 @@ metadata:
 hero:
   headline: Driving profitability in the
   emphasis: AI era
-  description: We bring process, people, and technology into one store rhythm. That is how the P&L moves.
+  description: 'We bring process, people, and technology into one store rhythm. That is how the P&L moves.'
   primaryAction:
     label: See How We Work
     href: /approach/
@@ -13,7 +13,7 @@ hero:
     label: Talk to Us
     href: /contact-us/
   image:
-    src: /assets/editorial/Home-Page-1.jpg
+    src: /assets/editorial/Main Pages/Home-Page-1_Crop.jpg
     alt: A contemporary clothing store with merchandise arranged across display tables and racks.
     width: 2048
     height: 1365
@@ -70,8 +70,8 @@ servicesIntro:
   heading: Four aisles. One discipline.
   description: 'Turning what your data already tells you into what your stores actually do — every shift, every store, every time.'
 approach:
-  heading: 'Diagnose It. Prove It. Then Spread It.'
-  description: 'Some stores already have the standard. Some do not. The first job is to see which is true — then install it in a store and teach the rest of the fleet. Not a fixed-hour product. Not one path for every banner.'
+  heading: Diagnose It. Prove It. Then Spread It.
+  description: Some stores already have the standard. Some do not. The first job is to see which is true — then install it in a store and teach the rest of the fleet. Not a fixed-hour product. Not one path for every banner.
   action:
     label: See Our Full Approach
     href: /approach/
@@ -81,7 +81,7 @@ approach:
       copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
     - number: '02'
       title: Prove the standard
-      copy: 'In a lighthouse store if one exists. In a model store if one does not. Leaders have to be able to run it without us.'
+      copy: In a lighthouse store if one exists. In a model store if one does not. Leaders have to be able to run it without us.
     - number: '03'
       title: Scale through the field
       copy: 'Peer to peer, district-owned. Dashboards and escalation so it holds after the visit.'
