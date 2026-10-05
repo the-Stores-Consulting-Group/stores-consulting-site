@@ -10,7 +10,7 @@ order: 2
 eyebrow: AISLE 02 · What We Do
 summary: Get the items customers want on the shelf and shoppable. That is sales. That is the trip.
 thesisLabel: The system can recommend the order. It cannot make the item show up right.
-thesis: 'Planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday''s product from sitting in front of today''s. That last stretch is sales and the trip. That is the execution layer.'
+thesis: 'Production planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday''s product from sitting in front of today''s. That last stretch is sales and the trip. That is the execution layer.'
 workstreams:
   - title: On-Hand & In-Stock
     description: 'What the customer can actually buy today. Counts, holes, and the gap between the system on-hand and the shelf.'
