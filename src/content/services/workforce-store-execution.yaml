@@ -14,16 +14,14 @@ thesis: 'A scheduling or labor-standards platform can generate an optimal schedu
 workstreams:
   - title: Next-Generation Workforce Management
     description: 'Scheduling automation and integration with HR systems, labor standards development, centralized scheduling feasibility, virtual/multi-store management technology.'
-  - title: Store Ecommerce
-    description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
   - title: Leadership Design & Management Effectiveness
     description: 'Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work.'
+  - title: Labor Efficiency & Effectiveness
+    description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage, off-hour staffing performance, checkout layout, technology, management and bookkeeping, replenishment productivity, DSD conditioning.'
   - title: Upstream Activity
     description: 'Delivery frequency and load conditions, pallet stacking for high-velocity items, touchpoint reduction from vendor to shelf.'
-  - title: 'Front End, Fresh & Center Store'
-    description: 'Checkout layout and technology, front-end management and bookkeeping, replenishment productivity and DSD conditioning.'
-  - title: Total Store
-    description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage and off-hour staffing performance.'
+  - title: Store Ecommerce
+    description: 'Pick-path optimization, productivity levels (IPH, orders per labor hour, fill rates), space and layout review for online order fulfillment.'
 metrics:
   - value: 5–15%
     label: Typical labor productivity improvement across engagement history
