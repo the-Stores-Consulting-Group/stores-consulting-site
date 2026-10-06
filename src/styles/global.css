@@ -798,7 +798,7 @@
 
   .fm-hero h1 strong,
   .fm-hero h1 em {
-    color: var(--signal);
+    color: #ab4838; /* matches the logo red */
     font-weight: inherit;
     font-style: normal;
   }
