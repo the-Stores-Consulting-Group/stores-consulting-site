@@ -2,7 +2,7 @@
 name: Michael Little
 role: Senior Consultant
 tier: senior-consultant
-order: 11
+order: 14
 image: /assets/editorial/Headshots/11_M_Little.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/michael-little-30931945/'

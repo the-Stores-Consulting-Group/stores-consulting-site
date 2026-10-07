@@ -2,7 +2,7 @@
 name: Martin Reeser
 role: Managing Consultant
 tier: managing-consultant
-order: 5
+order: 7
 image: /assets/editorial/Headshots/05_M_Reeser.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/marty-reeser/'

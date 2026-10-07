@@ -2,7 +2,7 @@
 name: Maiti Keen
 role: Senior Consultant
 tier: senior-consultant
-order: 12
+order: 13
 image: null
 alt: ""
 linkedin: https://www.linkedin.com/in/maiti-keen-098a79112/

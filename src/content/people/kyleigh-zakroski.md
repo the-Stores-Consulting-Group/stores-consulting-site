@@ -2,7 +2,7 @@
 name: Kyleigh Zakroski
 role: Senior Consultant
 tier: senior-consultant
-order: 13
+order: 15
 image: /assets/editorial/Headshots/13_K_Zakroski.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/kyleigh-zakroski-80aa622b2/'

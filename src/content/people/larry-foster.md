@@ -2,7 +2,7 @@
 name: Larry Foster
 role: Director
 tier: director
-order: 4
+order: 3
 image: /assets/editorial/Headshots/04_L_Foster.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/lmfosterjr/'
