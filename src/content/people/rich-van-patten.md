@@ -2,7 +2,7 @@
 name: Rich Van Patten
 role: Director
 tier: director
-order: 14
+order: 5
 image: /assets/editorial/Headshots/14_R_VanPatten.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/richard-van-patten-3292a25/'

@@ -2,7 +2,7 @@
 name: Ed Taylor
 role: Managing Consultant
 tier: managing-consultant
-order: 7
+order: 9
 image: /assets/editorial/Headshots/07_E_Taylor.jpg
 alt: ''
 linkedin: 'https://www.linkedin.com/in/ed-taylor-9559b62a/'

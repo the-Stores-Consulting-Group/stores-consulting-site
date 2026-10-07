@@ -2,7 +2,7 @@
 name: Jeanie Burningham
 role: Senior Consultant
 tier: senior-consultant
-order: 15
+order: 11
 alt: ''
 linkedin: 'https://www.linkedin.com/in/jeanie-burningham-389b4761/'
 ---
