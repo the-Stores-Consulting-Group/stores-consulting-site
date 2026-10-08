@@ -15,16 +15,16 @@ labels:
   watchVideo: Watch video →
   readReport: Read report →
   openReport: Open report (PDF)
-  backToBlog: Back to Blog →
+  backToBlog: Back to Insights →
   newerArticle: Newer Article
   olderArticle: Older Article
   challenge: The challenge
   work: What we did
   results: Results
-  postEyebrow: tSCG Blog
+  postEyebrow: tSCG Insights
   clientEyebrow: Client Profile
   authorEyebrow: Author
-  categoryEyebrow: Blog Category
+  categoryEyebrow: Insights Category
   home: Home
   clientDirectory: tSCG Clients
 navigation:
@@ -38,7 +38,7 @@ navigation:
   results: Results
   about: About
   clients: Clients
-  blog: Blog
+  blog: Insights
   contact: Contact
   contactAction: Talk to Us
   menu: Menu

@@ -1,7 +1,7 @@
 ---
 title: tSCG Blog
 slug: tscg-blog
-route: /tscg-blog/
+route: /insights/
 description: tSCG Blog Improving Loss Prevention Strategies Aug 23, 2020 Loss
   Prevention read more Video Series – Rich Van Patten – Labor Part 2 Jul 14,
   2020 Labor Part

@@ -44,7 +44,7 @@ for(const file of await readdir('src/content/services')) {
  for(const path of data.relatedContent||[]) if(!publicContent.has(path))errors.push(`${file}: related content is missing or a draft: ${path}`);
 }
 const routes=new Map();
-const explicit=new Set(['/','/about/','/approach/','/results/','/clients/','/services/','/contact-us/','/tscg-blog/','/styleguide/','/404/','/admin/','/feed/','/robots.txt','/api/contact']);
+const explicit=new Set(['/','/about/','/approach/','/results/','/clients/','/services/','/contact-us/','/insights/','/styleguide/','/404/','/admin/','/feed/','/robots.txt','/api/contact']);
 for(const file of await readdir('src/content/services')) { const data = parse(await readFile('src/content/services/'+file,'utf8')); explicit.add(`/services/${data.slug}/`); }
 for(const group of ['posts','clients','authors','categories','legacy-pages'])for(const {file,data} of documents[group]) {
  if(group==='legacy-pages'&&explicit.has(data.route))continue;

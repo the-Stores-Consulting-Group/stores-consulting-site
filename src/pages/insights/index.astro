@@ -6,7 +6,7 @@ import { getMarketingPage } from '../../lib/tina-extended-data';
 const { data, related } = await getMarketingPage('blog');
 const copy = data.copy;
 ---
-<BaseLayout seo={data.seo} title={copy.title1} description={copy.description2} canonicalPath="/tscg-blog/" navSection="blog">
+<BaseLayout seo={data.seo} title={copy.title1} description={copy.description2} canonicalPath="/insights/" navSection="blog">
 <TinaIsland name="blogPage" params={{}} primary wrapper={{tag:"div"}}>
 <BlogPageContent data={data} related={related} />
 </TinaIsland>

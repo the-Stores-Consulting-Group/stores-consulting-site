@@ -5,7 +5,7 @@ import TinaIsland from '@tinacms/astro/TinaIsland.astro';
 import EditorialPageContent from '../components/editable/EditorialPageContent.astro';
 import { getEditorialPage } from '../lib/tina-extended-data';
 export async function getStaticPaths() {
-  const explicitRoutes = new Set(['/', '/about/', '/approach/', '/results/', '/clients/', '/services/', '/contact-us/', '/tscg-blog/']);
+  const explicitRoutes = new Set(['/', '/about/', '/approach/', '/results/', '/clients/', '/services/', '/contact-us/', '/insights/']);
   const authors = (await getCollection('authors')).map((entry) => entry.data);
   const categories = (await getCollection('categories')).map((entry) => entry.data);
   const authorBySlug = new Map(authors.map((author) => [author.slug, author]));
