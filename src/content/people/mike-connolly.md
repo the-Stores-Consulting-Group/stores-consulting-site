@@ -3,7 +3,7 @@ name: Mike Connolly
 role: Managing Consultant
 tier: managing-consultant
 order: 6
-image: null
+image: /assets/editorial/Headshots/08_M_Connolly.jpg
 alt: ""
 linkedin: https://www.linkedin.com/in/mike-connolly-b3a54b2/
 ---
