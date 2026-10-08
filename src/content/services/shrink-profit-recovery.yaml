@@ -27,8 +27,8 @@ workstreams:
 metrics:
   - value: 20–60%
     label: Typical reduction in shrink and waste across engagement history
-  - value: 30–80%
-    label: Reduction in cash-handling hours through front-end re-engineering
+  - value: 30–50%
+    label: Reduction in non-customer facing activities such as cash-handling
   - value: Platform-agnostic
     label: Works alongside any transaction-monitoring or video-AI system already in place
 metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client. A fully sourced, engagement-specific proof point for this pillar is in development.'
