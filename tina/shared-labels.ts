@@ -56,7 +56,7 @@ export const sharedLabelFields: TinaField[] = [
   },
   {
     "name": "backToBlog",
-    "label": "Back to blog",
+    "label": "Back to insights",
     "type": "string",
     "required": true
   },

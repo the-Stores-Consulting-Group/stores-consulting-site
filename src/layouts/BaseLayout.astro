@@ -42,7 +42,7 @@ const canonical = new URL(canonicalPath, Astro.site || Astro.url.origin);
 const selectedImage=seo?.image || image || settings.sharing?.image || '/assets/brand/social-card.png';
 const socialAlt=seo?.image ? (seo.alt||title) : image ? (record?.featuredAlt||title) : (settings.sharing?.alt||siteName);
 const socialImage = new URL(selectedImage, Astro.site || Astro.url.origin);
-const parent=breadcrumbParent && breadcrumbParent!=='home' ? {name:settings.navigation[breadcrumbParent],path:breadcrumbParent==='blog'?'/tscg-blog/':`/${breadcrumbParent}/`} : undefined;
+const parent=breadcrumbParent && breadcrumbParent!=='home' ? {name:settings.navigation[breadcrumbParent],path:breadcrumbParent==='blog'?'/insights/':`/${breadcrumbParent}/`} : undefined;
 const breadcrumbs=breadcrumbParent ? [{name:settings.labels.home,path:'/'},...(parent?[parent]:[]),{name:title,path:canonicalPath}] : [];
 const structuredData=noindex ? undefined : buildStructuredData({origin:canonical.origin,path:canonicalPath,title,description,image:socialImage.href,organization:siteName,email:contact.details!.email,business:settings.business,kind:schemaKind,record,author,breadcrumbs});
 ---
@@ -79,7 +79,7 @@ const structuredData=noindex ? undefined : buildStructuredData({origin:canonical
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#ffffff" />
     <meta name="apple-mobile-web-app-title" content={siteName} />
-    <link rel="alternate" type="application/rss+xml" title="tSCG Blog" href="/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="tSCG Insights" href="/feed/" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />

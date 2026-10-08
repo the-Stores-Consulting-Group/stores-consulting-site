@@ -1,6 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
+  "redirects": [
+    { "source": "/tscg-blog/", "destination": "/insights/", "permanent": true },
+    { "source": "/tscg-blog", "destination": "/insights/", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/feed/", "destination": "/feed" }
   ],

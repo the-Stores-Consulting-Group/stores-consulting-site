@@ -63,7 +63,7 @@ const surfaces:[string,string,string][]=[
  ['approach/','.workstream-grid h3','approachPage.lighthouse.*title'],
  ['results/','.path-card h3','resultsPage.resultGroups.*title'],
  ['clients/','.client-logo-card span','clientsPage.logos.*name'],
- ['tscg-blog/','.blog-list h2 a','postConnection.*title'],
+ ['insights/','.blog-list h2 a','postConnection.*title'],
  ['big-data-big-deal/','.blog-meta time','post.publishedDate'],
  ['improving-loss-prevention-strategies/','.report-resource h2','post.resource.title'],
  ['video-series-rich-van-patten-labor-part-2/','.prose > div[data-tina-field]','post.body'],

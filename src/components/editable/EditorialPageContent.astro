@@ -29,7 +29,7 @@ const categories = isPost ? data.categories.map((slug:string)=>related.categorie
 const index = isPost ? related.posts.findIndex((p:any)=>p.route===data.route) : -1;
 const newer = index>0 ? related.posts[index-1] : undefined;
 const older = index>=0 ? related.posts[index+1] : undefined;
-const breadcrumbs = [{label:labels.home,href:'/',editField:tinaField(labels,'home')}, ...(isPost||isArchive ? [{label:settings.navigation.blog,href:'/tscg-blog/',editField:tinaField(settings.navigation,'blog')}] : isClient ? [{label:settings.navigation.clients,href:'/clients/',editField:tinaField(settings.navigation,'clients')}] : []),{label:title,editField:tinaField(data,data.title?'title':'name')}];
+const breadcrumbs = [{label:labels.home,href:'/',editField:tinaField(labels,'home')}, ...(isPost||isArchive ? [{label:settings.navigation.blog,href:'/insights/',editField:tinaField(settings.navigation,'blog')}] : isClient ? [{label:settings.navigation.clients,href:'/clients/',editField:tinaField(settings.navigation,'clients')}] : []),{label:title,editField:tinaField(data,data.title?'title':'name')}];
 ---
 <PageIntro title={title} description={description} eyebrow={isPost?labels.postEyebrow:isClient?labels.clientEyebrow:collection==='author'?labels.authorEyebrow:collection==='category'?labels.categoryEyebrow:undefined} media={image} breadcrumbs={breadcrumbs} compact editFields={{media:tinaField(data,'featuredMedia'),eyebrow:tinaField(labels,isPost?'postEyebrow':isClient?'clientEyebrow':collection==='author'?'authorEyebrow':'categoryEyebrow'),title:tinaField(data,data.title?'title':'name'),description:tinaField(data,isPost?'excerpt':'description')}}>
  {isClient&&data.logo&&<div class="project-logo" data-tina-field={tinaField(data,'logo')}><img src={data.logo} alt={`${data.name} logo`} width={data.logoWidth||logoRecord?.width||400} height={data.logoHeight||logoRecord?.height||400} loading="eager" /></div>}
@@ -43,7 +43,7 @@ const breadcrumbs = [{label:labels.home,href:'/',editField:tinaField(labels,'hom
    <p><a class="button" href={data.resource.url} data-tina-field={tinaField(data.resource,'url')}><span data-tina-field={tinaField(labels,'openReport')}>{labels.openReport}</span></a></p>
    <iframe class="report-resource__preview" src={data.resource.url} title={data.resource.title} loading="lazy"></iframe>
  </section>}
- {isPost&&<nav class="article-navigation" aria-label="Article navigation"><a class="text-link article-navigation__back" href="/tscg-blog/" data-tina-field={tinaField(labels,'backToBlog')}>{labels.backToBlog}</a><div class="article-navigation__adjacent">
+ {isPost&&<nav class="article-navigation" aria-label="Article navigation"><a class="text-link article-navigation__back" href="/insights/" data-tina-field={tinaField(labels,'backToBlog')}>{labels.backToBlog}</a><div class="article-navigation__adjacent">
  {newer&&<a href={newer.route} aria-label={`Newer article: ${newer.title}`}><span data-tina-field={tinaField(labels,'newerArticle')}>{labels.newerArticle}</span><strong data-tina-field={tinaField(newer,'title')}>{newer.title}</strong></a>}
  {older&&<a href={older.route} aria-label={`Older article: ${older.title}`}><span data-tina-field={tinaField(labels,'olderArticle')}>{labels.olderArticle}</span><strong data-tina-field={tinaField(older,'title')}>{older.title}</strong></a>}
  </div></nav>}

@@ -660,7 +660,7 @@ export const marketingCollections: Collection[] = [
   }
 ];
 
-marketingCollections.forEach((collection) => { const name = collection.name.replace(/Page$/, ''); collection.ui!.router = () => '/' + (name === 'blog' ? 'tscg-blog' : name) + '/'; });
+marketingCollections.forEach((collection) => { const name = collection.name.replace(/Page$/, ''); collection.ui!.router = () => '/' + (name === 'blog' ? 'insights' : name) + '/'; });
 
 const hidden = (name: string, type: 'string' | 'number' = 'string'): TinaField => (type === 'number' ? {name,type:'number',searchable:false,ui:{component:null}} : {name,type:'string',searchable:false,ui:{component:null}});
 const text = (name: string, label: string, required = true) => ({name, label, type: 'string' as const, required, ui:{validate:(value:unknown)=>required&&!String(value||'').trim()?`${label} is required.`:undefined}});

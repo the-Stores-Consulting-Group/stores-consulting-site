@@ -5,7 +5,7 @@ const coreRoutes = [
   '/', '/about/', '/approach/', '/results/', '/clients/', '/services/',
   '/services/shrink-profit-recovery/', '/services/fresh-inventory-operations/',
   '/services/workforce-store-execution/', '/services/technology-adoption-change-management/',
-  '/contact-us/', '/tscg-blog/', '/styleguide/',
+  '/contact-us/', '/insights/', '/styleguide/',
   '/category/blog/', '/author/admin/', '/project/kroger/', '/case-studies/', '/improving-loss-prevention-strategies/',
 ];
 
@@ -67,16 +67,16 @@ test.describe('production structure', () => {
     await expect(summary).toBeFocused();
   });
 
-  test('primary navigation exposes Blog and accurate route-family states', async ({ page }) => {
+  test('primary navigation exposes Insights and accurate route-family states', async ({ page }) => {
     test.skip(test.info().project.name !== 'chromium-1440', 'Primary navigation state regression runs once.');
     await page.goto('/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/tscg-blog/"]')).toBeVisible();
+    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toBeVisible();
     await expect(page.locator('.desktop-nav a[href="/#technology"]')).toHaveCount(0);
 
     await page.goto('/big-data-big-deal/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/tscg-blog/"]')).toHaveAttribute('aria-current', 'page');
+    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toHaveAttribute('aria-current', 'page');
     await page.goto('/category/fresh/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/tscg-blog/"]')).toHaveAttribute('aria-current', 'page');
+    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toHaveAttribute('aria-current', 'page');
     await page.goto('/project/kroger/');
     await expect(page.locator('.desktop-nav > ul > li > a[href="/clients/"]')).toHaveAttribute('aria-current', 'page');
     await page.goto('/services/shrink-profit-recovery/');
@@ -122,7 +122,7 @@ test.describe('production structure', () => {
     await expect(page.locator('.mobile-nav nav')).toBeVisible();
     await expect(page.locator('.mobile-nav a[href="/services/"]')).toBeVisible();
     await expect(page.locator('.mobile-nav__subnav a')).toHaveCount(5);
-    await expect(page.locator('.mobile-nav a[href="/tscg-blog/"]')).toBeVisible();
+    await expect(page.locator('.mobile-nav a[href="/insights/"]')).toBeVisible();
 
     if (isNoJavaScript) return;
 
@@ -158,7 +158,7 @@ test.describe('production structure', () => {
     await page.goto('/project/kroger/');
     await expect(page.getByRole('navigation', { name: 'Breadcrumb' }).getByRole('link', { name: 'Clients' })).toHaveAttribute('href', '/clients/');
     await page.goto('/big-data-big-deal/');
-    await expect(page.getByRole('navigation', { name: 'Breadcrumb' }).getByRole('link', { name: 'Blog' })).toHaveAttribute('href', '/tscg-blog/');
+    await expect(page.getByRole('navigation', { name: 'Breadcrumb' }).getByRole('link', { name: 'Insights' })).toHaveAttribute('href', '/insights/');
     await page.goto('/category/fresh/');
     await expect(page.getByRole('navigation', { name: 'Breadcrumb' })).toBeVisible();
     await page.goto('/author/scott/');
@@ -175,7 +175,7 @@ test.describe('production structure', () => {
     await page.goto('/video-series-rich-van-patten-labor-part-2/');
     await expect(page.locator('.blog-meta a[href^="/author/"]')).toHaveCount(1);
     await expect(page.locator('.blog-meta a[href^="/category/"]').first()).toBeVisible();
-    await expect(page.locator('.article-navigation__back')).toHaveAttribute('href', '/tscg-blog/');
+    await expect(page.locator('.article-navigation__back')).toHaveAttribute('href', '/insights/');
     await expect(page.getByRole('link', { name: /Newer article:/i })).toHaveAttribute('href', '/improving-loss-prevention-strategies/');
     await expect(page.getByRole('link', { name: /Older article:/i })).toHaveAttribute('href', '/video-series-rich-van-patten-labor/');
   });
@@ -186,7 +186,7 @@ test.describe('production structure', () => {
     await expect(page.locator('.site-footer__group')).toHaveCount(3);
     await expect(page.locator('.site-footer__group h2')).toHaveText(['Services', 'Company', 'Explore']);
     await expect(page.locator('.site-footer a[href="/services/shrink-profit-recovery/"]')).toBeVisible();
-    await expect(page.locator('.site-footer a[href="/tscg-blog/"]')).toBeVisible();
+    await expect(page.locator('.site-footer a[href="/insights/"]')).toBeVisible();
     await expect(page.locator('.site-footer a[href="/supply-chain/"]')).toHaveCount(0);
   });
 
@@ -584,7 +584,7 @@ test.describe('production structure', () => {
 
   test('blog retains real media and removes migration placeholders', async ({ page, request }) => {
     test.skip(test.info().project.name !== 'chromium-1440', 'Blog content audit runs once.');
-    await page.goto('/tscg-blog/');
+    await page.goto('/insights/');
     await expect(page.locator('.blog-list article')).toHaveCount(27);
     await expect(page.getByRole('link', { name: 'Read report →', exact: true })).toHaveCount(1);
     await expect(page.getByRole('link', { name: 'Watch video →', exact: true })).toHaveCount(4);

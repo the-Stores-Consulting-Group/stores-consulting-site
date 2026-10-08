@@ -54,7 +54,7 @@ while (queue.length) {
 }
 
 const required = new Set([
-  '/', '/about/', '/approach/', '/results/', '/clients/', '/contact-us/', '/services/', '/tscg-blog/',
+  '/', '/about/', '/approach/', '/results/', '/clients/', '/contact-us/', '/services/', '/insights/',
   '/services/shrink-profit-recovery/', '/services/fresh-inventory-operations/',
   '/services/workforce-store-execution/', '/services/technology-adoption-change-management/',
 ]);
@@ -78,7 +78,7 @@ for (const route of required) {
 
 const legacyPageRoutes = new Set(manifest.filter((entry) => entry.type === 'page').map((entry) => entry.targetPath));
 const promotedLegacyRoutes = [];
-const approvedGlobalPages = new Set(['/', '/about/', '/clients/', '/contact-us/', '/services/', '/tscg-blog/']);
+const approvedGlobalPages = new Set(['/', '/about/', '/clients/', '/contact-us/', '/services/', '/insights/']);
 const home = cheerio.load(await readFile(pages.get('/'), 'utf8'));
 for (const element of home('.site-header a[href], .site-footer a[href]').toArray()) {
   const href = home(element).attr('href');

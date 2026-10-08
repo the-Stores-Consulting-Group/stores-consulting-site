@@ -19,7 +19,7 @@ export const primaryLinks: NavigationLink[] = [
   { href: '/results/', label: 'Results', section: 'results' },
   { href: '/about/', label: 'About', section: 'about' },
   { href: '/clients/', label: 'Clients', section: 'clients' },
-  { href: '/tscg-blog/', label: 'Blog', section: 'blog' },
+  { href: '/insights/', label: 'Insights', section: 'blog' },
 ];
 
 export const footerGroups = [
@@ -46,7 +46,7 @@ export function inferNavSection(pathname: string): NavSection | undefined {
   if (pathname.startsWith('/results/')) return 'results';
   if (pathname.startsWith('/about/')) return 'about';
   if (pathname.startsWith('/clients/') || pathname.startsWith('/project/')) return 'clients';
-  if (pathname.startsWith('/tscg-blog/') || pathname.startsWith('/author/') || pathname.startsWith('/category/')) return 'blog';
+  if (pathname.startsWith('/insights/') || pathname.startsWith('/author/') || pathname.startsWith('/category/')) return 'blog';
   if (pathname.startsWith('/contact-us/')) return 'contact';
   return undefined;
 }
@@ -56,7 +56,7 @@ export const navigationLabelKeys: Record<string, string> = {
  '/services/':'servicesOverview', '/services/shrink-profit-recovery/':'shrink',
  '/services/fresh-inventory-operations/':'fresh', '/services/workforce-store-execution/':'workforce',
  '/services/technology-adoption-change-management/':'technology', '/approach/':'approach',
- '/results/':'results', '/about/':'about', '/clients/':'clients', '/tscg-blog/':'blog', '/contact-us/':'contact',
+ '/results/':'results', '/about/':'about', '/clients/':'clients', '/insights/':'blog', '/contact-us/':'contact',
 };
 export function navigationLabel(labels: Record<string,string>, href: string, fallback: string) {
  return labels[navigationLabelKeys[href]] || fallback;
