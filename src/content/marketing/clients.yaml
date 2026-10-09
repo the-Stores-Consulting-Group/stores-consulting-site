@@ -14,4 +14,4 @@ photo:
   alt: 'Logos of retailers we have worked with, including Kroger, Ahold Delhaize, Best Buy, Macy’s, Whole Foods Market, Goodyear, Giant Eagle and Schnucks'
   width: 1230
   height: 544
-showDirectory: true
+showDirectory: false
