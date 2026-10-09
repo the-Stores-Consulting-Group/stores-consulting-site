@@ -675,6 +675,10 @@
     font-family: var(--font-company-name);
   }
 
+  .company-name__initial {
+    color: var(--signal);
+  }
+
   .company-name__the {
     font-style: italic;
     text-decoration: underline;

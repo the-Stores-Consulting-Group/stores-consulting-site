@@ -37,7 +37,7 @@ const company = companyName ? splitCompanyName(title) : null;
       {eyebrow && <p class="eyebrow" data-tina-field={editFields?.eyebrow}>{eyebrow}</p>}
       <h1 data-tina-field={editFields?.title}>
         {company ? (
-          <>{company.before}<span class="company-name"><span class="company-name__the">{company.the}</span>{company.rest}</span>{company.after}</>
+          <>{company.before}<span class="company-name"><span class="company-name__the">{company.the}</span>{company.words.map((word) => <> <span class="company-name__initial">{word[0]}</span>{word.slice(1)}</>)}</span>{company.after}</>
         ) : title}
       </h1>
       {description && <p class="page-intro__description" data-tina-field={editFields?.description}>{description}</p>}
