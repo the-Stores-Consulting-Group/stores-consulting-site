@@ -10,8 +10,8 @@ copy:
   text9: More clients we’ve worked with.
   text10: 'Explore retailer profiles across grocery, specialty, convenience, and value retail.'
 photo:
-  src: /assets/editorial/Aisles/Aisle-4_Change-Management1.jpeg
-  alt: Store team gathered around a manager on the floor of a fresh market
-  width: 4615
-  height: 2597
+  src: /assets/editorial/Client Logos/Client-Logo-Sheet.png
+  alt: 'Logos of retailers we have worked with, including Kroger, Ahold Delhaize, Best Buy, Macy’s, Whole Foods Market, Goodyear, Giant Eagle and Schnucks'
+  width: 1230
+  height: 544
 showDirectory: true
