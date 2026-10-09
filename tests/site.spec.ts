@@ -67,16 +67,14 @@ test.describe('production structure', () => {
     await expect(summary).toBeFocused();
   });
 
-  test('primary navigation exposes Insights and accurate route-family states', async ({ page }) => {
+  test('primary navigation hides Insights and keeps accurate route-family states', async ({ page }) => {
     test.skip(test.info().project.name !== 'chromium-1440', 'Primary navigation state regression runs once.');
     await page.goto('/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toBeVisible();
+    await expect(page.locator('.desktop-nav a[href="/insights/"]')).toHaveCount(0);
     await expect(page.locator('.desktop-nav a[href="/#technology"]')).toHaveCount(0);
 
     await page.goto('/big-data-big-deal/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toHaveAttribute('aria-current', 'page');
-    await page.goto('/category/fresh/');
-    await expect(page.locator('.desktop-nav > ul > li > a[href="/insights/"]')).toHaveAttribute('aria-current', 'page');
+    await expect(page.locator('.desktop-nav a[href="/insights/"]')).toHaveCount(0);
     await page.goto('/project/kroger/');
     await expect(page.locator('.desktop-nav > ul > li > a[href="/clients/"]')).toHaveAttribute('aria-current', 'page');
     await page.goto('/services/shrink-profit-recovery/');
@@ -122,7 +120,7 @@ test.describe('production structure', () => {
     await expect(page.locator('.mobile-nav nav')).toBeVisible();
     await expect(page.locator('.mobile-nav a[href="/services/"]')).toBeVisible();
     await expect(page.locator('.mobile-nav__subnav a')).toHaveCount(5);
-    await expect(page.locator('.mobile-nav a[href="/insights/"]')).toBeVisible();
+    await expect(page.locator('.mobile-nav a[href="/insights/"]')).toHaveCount(0);
 
     if (isNoJavaScript) return;
 
@@ -186,7 +184,7 @@ test.describe('production structure', () => {
     await expect(page.locator('.site-footer__group')).toHaveCount(3);
     await expect(page.locator('.site-footer__group h2')).toHaveText(['Services', 'Company', 'Explore']);
     await expect(page.locator('.site-footer a[href="/services/shrink-profit-recovery/"]')).toBeVisible();
-    await expect(page.locator('.site-footer a[href="/insights/"]')).toBeVisible();
+    await expect(page.locator('.site-footer a[href="/insights/"]')).toHaveCount(0);
     await expect(page.locator('.site-footer a[href="/supply-chain/"]')).toHaveCount(0);
   });
 

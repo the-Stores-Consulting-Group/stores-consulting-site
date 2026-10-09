@@ -54,14 +54,15 @@ while (queue.length) {
 }
 
 const required = new Set([
-  '/', '/about/', '/approach/', '/results/', '/clients/', '/contact-us/', '/services/', '/insights/',
+  '/', '/about/', '/approach/', '/results/', '/clients/', '/contact-us/', '/services/',
   '/services/shrink-profit-recovery/', '/services/fresh-inventory-operations/',
   '/services/workforce-store-execution/', '/services/technology-adoption-change-management/',
 ]);
 
 for (const entry of manifest) {
   if (entry.status !== 200 || !entry.targetPath?.endsWith('/')) continue;
-  if (entry.type === 'post' || entry.type === 'project') required.add(entry.targetPath);
+  // Client profiles were reachable only through the Insights page, which is now hidden.
+  if (entry.type === 'post') required.add(entry.targetPath);
 }
 
 for (const [route, file] of pages) {
@@ -78,7 +79,7 @@ for (const route of required) {
 
 const legacyPageRoutes = new Set(manifest.filter((entry) => entry.type === 'page').map((entry) => entry.targetPath));
 const promotedLegacyRoutes = [];
-const approvedGlobalPages = new Set(['/', '/about/', '/clients/', '/contact-us/', '/services/', '/insights/']);
+const approvedGlobalPages = new Set(['/', '/about/', '/clients/', '/contact-us/', '/services/']);
 const home = cheerio.load(await readFile(pages.get('/'), 'utf8'));
 for (const element of home('.site-header a[href], .site-footer a[href]').toArray()) {
   const href = home(element).attr('href');

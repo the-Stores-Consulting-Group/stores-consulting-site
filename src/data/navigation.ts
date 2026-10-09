@@ -19,7 +19,6 @@ export const primaryLinks: NavigationLink[] = [
   { href: '/results/', label: 'Results', section: 'results' },
   { href: '/about/', label: 'About', section: 'about' },
   { href: '/clients/', label: 'Clients', section: 'clients' },
-  { href: '/insights/', label: 'Insights', section: 'blog' },
 ];
 
 export const footerGroups = [
@@ -34,7 +33,6 @@ export const footerGroups = [
   {
     label: 'Explore',
     links: [
-      primaryLinks.find((link) => link.section === 'blog')!,
       { href: '/contact-us/', label: 'Contact', section: 'contact' as const },
     ],
   },
