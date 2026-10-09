@@ -61,7 +61,8 @@ const required = new Set([
 
 for (const entry of manifest) {
   if (entry.status !== 200 || !entry.targetPath?.endsWith('/')) continue;
-  if (entry.type === 'post' || entry.type === 'project') required.add(entry.targetPath);
+  // Client profiles were reachable only through the Insights page, which is now hidden.
+  if (entry.type === 'post') required.add(entry.targetPath);
 }
 
 for (const [route, file] of pages) {
