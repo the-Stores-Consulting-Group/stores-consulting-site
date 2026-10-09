@@ -7,7 +7,7 @@ Tina edits the same Git-backed content records used by the Astro build. Their te
 | Collection | Coverage |
 |---|---|
 | Homepage | Copy, actions, evidence, metrics and images |
-| About, Approach, Results, Clients and Blog index | Page/search copy, existing section content, methodology steps, results lists and approved client-logo gallery |
+| About, Approach, Results, Clients and Blog index | Page/search copy, existing section content, methodology steps, results lists and the clients page photograph |
 | Services Index and Services | Introduction, all four service pages, workstreams, metrics, images and closing CTAs |
 | Contact Page | Public contact details, introduction, form labels and messages |
 | People & bios | Names, roles, team groups, bios, optional portraits; new people can be added |

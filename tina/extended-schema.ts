@@ -539,55 +539,34 @@ export const marketingCollections: Collection[] = [
         ]
       },
       {
-        "name": "logos",
-        "label": "Logos",
+        "name": "photo",
+        "label": "Photograph",
         "type": "object",
         "required": true,
-        "list": true,
         "fields": [
           {
-            "name": "name",
-            "label": "Name",
+            "name": "src",
+            "label": "Src",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "alt",
+            "label": "Alt",
             "type": "string",
             "required": true
           },
           {
-            "name": "href",
-            "label": "Button destination",
-            "type": "string",
+            "name": "width",
+            "label": "Width",
+            "type": "number",
             "required": true
           },
           {
-            "name": "image",
-            "label": "Image",
-            "type": "object",
-            "required": true,
-            "fields": [
-              {
-                "name": "src",
-                "label": "Src",
-                "type": "image",
-                "required": true
-              },
-              {
-                "name": "alt",
-                "label": "Alt",
-                "type": "string",
-                "required": true
-              },
-              {
-                "name": "width",
-                "label": "Width",
-                "type": "number",
-                "required": true
-              },
-              {
-                "name": "height",
-                "label": "Height",
-                "type": "number",
-                "required": true
-              }
-            ]
+            "name": "height",
+            "label": "Height",
+            "type": "number",
+            "required": true
           }
         ]
       },

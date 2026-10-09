@@ -450,14 +450,13 @@ test.describe('production structure', () => {
     expect(await page.locator('.ratio-band__grid').evaluate((grid) => getComputedStyle(grid).gridTemplateColumns.split(' ').length)).toBe(1);
 
     await page.goto('/clients/');
-    expect(await page.locator('.client-logo-grid').evaluate((grid) => getComputedStyle(grid).gridTemplateColumns.split(' ').length)).toBe(2);
-    await expect(page.locator('.client-logo-card img[alt="client logo"]')).toHaveCount(0);
+    await expect(page.locator('.client-logo-grid')).toHaveCount(0);
+    await expect(page.locator('.field-image img').first()).toBeVisible();
     const archive = page.locator('.link-archive-grid');
     expect(await archive.evaluate((grid) => getComputedStyle(grid).listStyleType)).toBe('none');
     expect(await archive.evaluate((grid) => Number.parseFloat(getComputedStyle(grid).paddingLeft))).toBeLessThanOrEqual(1);
 
     await page.setViewportSize({ width: 390, height: 844 });
-    expect(await page.locator('.client-logo-grid').evaluate((grid) => getComputedStyle(grid).gridTemplateColumns.split(' ').length)).toBe(2);
     expect(await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth)).toBeLessThanOrEqual(1);
   });
 
