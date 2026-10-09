@@ -13,7 +13,7 @@ const groups = data.groups!;
 <div>
 
 
-  <PageIntro title={copy.title3} description={copy.description4} measure="wide" editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4')}} />
+  <PageIntro title={copy.title3} description={copy.description4} measure="wide" companyName editFields={{title: tinaField(copy, 'title3'), description: tinaField(copy, 'description4')}} />
   <section class="section"><div class="shell">
     {groups.map((group) => {
       const members = people.filter((person: any) => person.tier === group.tier);
