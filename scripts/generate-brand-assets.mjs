@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 // Regenerate with `node scripts/generate-brand-assets.mjs` after a brand change.
 const ink = '#17242d';
 const mineral = '#2f5c66';
-const signal = '#b34929';
+const signal = '#ab4838';
 const paper = '#f3f0e8';
 const fontfile = fileURLToPath(new URL('./brand/Archivo.ttf', import.meta.url));
 const mark = `<g fill="${ink}"><rect y="1.28" width="39.2" height="3.52"/><rect y="14.56" width="22.344" height="3.52"/><rect y="28" width="31.752" height="3.52"/></g><rect x="25.92" y="12" width="7.2" height="9.28" fill="${signal}"/>`;
