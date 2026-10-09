@@ -62,7 +62,7 @@ const surfaces:[string,string,string][]=[
  ['about/','.person-card__role','personConnection.*role'],
  ['approach/','.workstream-grid h3','approachPage.lighthouse.*title'],
  ['results/','.path-card h3','resultsPage.resultGroups.*title'],
- ['clients/','.client-logo-card span','clientsPage.logos.*name'],
+ ['clients/','.metrics__note','clientsPage.copy.text7'],
  ['insights/','.blog-list h2 a','postConnection.*title'],
  ['big-data-big-deal/','.blog-meta time','post.publishedDate'],
  ['improving-loss-prevention-strategies/','.report-resource h2','post.resource.title'],

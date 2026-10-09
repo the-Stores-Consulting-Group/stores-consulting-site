@@ -827,8 +827,7 @@
   .principle-grid,
   .service-grid,
   .path-grid,
-  .approach-grid,
-  .client-logo-grid {
+  .approach-grid {
     display: grid;
   }
 
@@ -1382,29 +1381,6 @@
   .blog-meta a:hover {
     color: var(--signal);
     text-decoration-color: currentColor;
-  }
-
-  .client-logo-grid {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    border-top: 1px solid var(--line);
-    border-left: 1px solid var(--line);
-  }
-
-  .client-logo-card {
-    display: grid;
-    min-height: 10rem;
-    place-items: center;
-    padding: var(--space-4);
-    border-right: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-    background: var(--surface);
-    text-align: center;
-  }
-
-  .client-logo-card img {
-    width: auto;
-    max-height: 5.5rem;
-    object-fit: contain;
   }
 
   .link-archive-grid {
@@ -2004,10 +1980,6 @@
     padding-bottom: 0;
   }
 
-  .client-logo-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
   .link-archive-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -2031,10 +2003,6 @@
   .ratio-band__grid,
   .approach-grid {
     grid-template-columns: 1fr;
-  }
-
-  .client-logo-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .problem-card + .problem-card,
@@ -2121,10 +2089,6 @@
     grid-template-columns: 1fr;
   }
 
-  .client-logo-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
   .legacy-case-grid {
     grid-template-columns: 1fr;
   }
@@ -2154,10 +2118,6 @@
 
   .service-card {
     min-height: 0;
-  }
-
-  .client-logo-card {
-    min-height: 8.5rem;
   }
 
   .pill-list {
