@@ -39,10 +39,10 @@ relatedContent:
   - /improving-loss-prevention-strategies/
   - /transaction-monitoring-with-tscg/
 heroMedia:
-  src: /assets/editorial/Aisles/Aisle-1_Shrink.jpeg
-  alt: Person placing bread into a trash can
-  width: 2048
-  height: 1486
+  src: /assets/editorial/Aisles/Aisle-1_Shrink-Bread.jpeg
+  alt: Baker in a blue apron placing a loaf of bread into a trash bin already holding baguettes
+  width: 691
+  height: 542
   position: right
 supportingMedia:
   src: 'https://stores-consulting-site-dusky.vercel.app/wp-content/uploads/2016/10/iStock-506033946.jpg'
