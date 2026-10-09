@@ -1,5 +1,6 @@
 ---
 import FieldImage from './FieldImage.astro';
+import { splitCompanyName } from '../lib/company-name';
 import Breadcrumbs, { type BreadcrumbItem } from './Breadcrumbs.astro';
 
 interface Media {
@@ -15,6 +16,7 @@ interface Props {
   description?: string;
   compact?: boolean;
   measure?: 'standard' | 'wide';
+  companyName?: boolean;
   media?: Media;
   breadcrumbs?: BreadcrumbItem[];
   editFields?: {
@@ -24,7 +26,8 @@ interface Props {
     media?: string;
   };
 }
-const { eyebrow, title, description, compact = false, measure = 'standard', media, breadcrumbs, editFields } = Astro.props;
+const { eyebrow, title, description, compact = false, measure = 'standard', companyName = false, media, breadcrumbs, editFields } = Astro.props;
+const company = companyName ? splitCompanyName(title) : null;
 ---
 
 <section class:list={['page-intro', `page-intro--measure-${measure}`, { 'page-intro--compact': compact, 'page-intro--split': media }]}>
@@ -32,7 +35,11 @@ const { eyebrow, title, description, compact = false, measure = 'standard', medi
     <div class="page-intro__copy" data-reveal>
       {breadcrumbs && <Breadcrumbs items={breadcrumbs} />}
       {eyebrow && <p class="eyebrow" data-tina-field={editFields?.eyebrow}>{eyebrow}</p>}
-      <h1 data-tina-field={editFields?.title}>{title}</h1>
+      <h1 data-tina-field={editFields?.title}>
+        {company ? (
+          <>{company.before}<span class="company-name"><span class="company-name__the">{company.the}</span>{company.rest}</span>{company.after}</>
+        ) : title}
+      </h1>
       {description && <p class="page-intro__description" data-tina-field={editFields?.description}>{description}</p>}
       <slot />
     </div>

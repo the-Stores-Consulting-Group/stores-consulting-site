@@ -49,6 +49,7 @@
     --shadow-overlay: 0 18px 44px rgb(23 36 45 / 16%);
     --font-display: "Archivo", Arial, sans-serif;
     --font-body: "Source Sans 3", Arial, sans-serif;
+  --font-company-name: "Times New Roman", Times, serif;
     --type-label: 0.73rem;
     --type-supporting: 0.82rem;
     --type-small: 0.94rem;
@@ -668,6 +669,16 @@
 
   .page-intro--measure-wide:not(.page-intro--split) h1 {
     max-width: 20ch;
+  }
+
+  .company-name {
+    font-family: var(--font-company-name);
+  }
+
+  .company-name__the {
+    font-style: italic;
+    text-decoration: underline;
+    text-underline-offset: 0.12em;
   }
 
   .breadcrumbs {
