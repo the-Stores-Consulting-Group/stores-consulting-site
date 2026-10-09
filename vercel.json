@@ -2,8 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
   "redirects": [
-    { "source": "/tscg-blog/", "destination": "/insights/", "permanent": true },
-    { "source": "/tscg-blog", "destination": "/insights/", "permanent": true }
+    { "source": "/insights/", "destination": "/", "permanent": false },
+    { "source": "/insights", "destination": "/", "permanent": false },
+    { "source": "/tscg-blog/", "destination": "/", "permanent": false },
+    { "source": "/tscg-blog", "destination": "/", "permanent": false }
   ],
   "rewrites": [
     { "source": "/feed/", "destination": "/feed" }

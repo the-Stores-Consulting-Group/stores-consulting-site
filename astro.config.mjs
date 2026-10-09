@@ -13,7 +13,7 @@ export default defineConfig({
   adapter: vercel(),
   integrations: [
     sitemap({
-      filter: (page) => !page.endsWith('/styleguide/'),
+      filter: (page) => !page.endsWith('/styleguide/') && !page.endsWith('/insights/'),
     }),
     tina(),
   ],
