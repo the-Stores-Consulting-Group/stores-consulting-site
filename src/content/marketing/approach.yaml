@@ -6,8 +6,8 @@ copy:
   title5: Not sure how to begin?
   description6: 'That''s exactly what the first conversation is for. Tell us where things stand, and we''ll go from there.'
   text27: The Foundations Path
-  text28: Assessment. Quick Wins. Model Store. Learning Centers. Chain.
-  text29: 'For retailers where few to no stores have yet proven the standard. We prove it in one store first, refine it in a few more, then scale it across the chain — moving in step with where you actually are.'
+  text28: Assessment. Quick Wins. Model Store. Learning Centers. Chain. Sustainability.
+  text29: 'For retailers where few to no stores have yet proven the standard. We prove it in one store first, refine it in a few more, then scale it across the chain in a manner that can be sustained once the engagement is finished — moving in step with where you actually are.'
   text30: Not every engagement needs every stage. Let us tailor our approach to you.
 media: /assets/editorial/Our-Approach2.jpeg
 mediaAlt: Woman speaking to group on sales floor
@@ -23,3 +23,5 @@ foundations:
     description: Expand into a small set of stores to refine and validate the standard before it is rolled out at scale.
   - title: Chain Rollout
     description: 'Scale in prioritized waves across the remaining stores, with your own leadership carrying it forward.'
+  - title: Long Term Sustainability
+    description: 'Hold the standard in place after rollout, with your own leadership owning the routines that keep results from slipping.'
