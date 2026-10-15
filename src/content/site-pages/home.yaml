@@ -78,7 +78,7 @@ approach:
   steps:
     - number: '01'
       title: Diagnose the real gap
-      copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
+      copy: On the floor. At the support center. What is actually broken and who owns it. Develop the new standard.
     - number: '02'
       title: Prove the standard
       copy: In a model store test environment. Then further more in learning center validation stores. Stores and leaders have to be able to run it without us.
