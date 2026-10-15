@@ -27,8 +27,8 @@ workstreams:
 metrics:
   - value: 70/30
     label: 'The split between human execution and platform capability, per our own Approach thesis'
-  - value: Zero
-    label: 'The long-term goal for field-specialist dependency, once the cascade is installed'
+  - value: 100% Compliance
+    label: The long term goal for project sustainability after the cascade is installed
   - value: Vendor-agnostic
     label: Works with any AI or technology platform already deployed
 metricsNote: A fully sourced, engagement-specific proof point for this pillar is in development.
