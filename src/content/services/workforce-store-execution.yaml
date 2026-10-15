@@ -13,9 +13,9 @@ thesisLabel: Why Technology Alone Hasn't Solved This
 thesis: 'A scheduling or labor-standards platform can generate an optimal schedule. It can''t redesign the manager''s day, retrain the habits underneath it, or make the schedule survive contact with a real Saturday morning. That gap is where execution actually lives.'
 workstreams:
   - title: Next-Generation Workforce Management
-    description: 'Scheduling automation and integration with HR systems, labor standards development, centralized scheduling feasibility, virtual/multi-store management technology.'
-  - title: Leadership Design & Management Effectiveness
-    description: 'Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work.'
+    description: 'AI Scheduling automation and integration with HR systems, labor standards development, employee self-service integration, centralized scheduling feasibility, virtual/multi-store management technology.'
+  - title: Management Effectiveness & Customer Experience
+    description: 'Review of management activity and task work, span of control recommendations, gatekeeper processes for incoming store work, customer centricity versus task orientation to drive top-line sales.'
   - title: Labor Efficiency & Effectiveness
     description: 'Labor benchmarking (payroll %, SPLH, IPH), organization structure, overtime usage, off-hour staffing performance, checkout layout, store technology, management and bookkeeping, replenishment productivity, shelf conditioning.'
   - title: Upstream Activity
