@@ -11,7 +11,7 @@ copy:
   text10: 'Explore retailer profiles across grocery, specialty, convenience, and value retail.'
 photo:
   src: /assets/editorial/Client Logos/Client-Logo-Sheet.png
-  alt: 'Logos of retailers we have worked with, including Kroger, Ahold Delhaize, Best Buy, Macy’s, Whole Foods Market, Goodyear, Giant Eagle and Schnucks'
-  width: 1230
-  height: 544
+  alt: 'Logos of retailers we have worked with, including Kroger, Ahold Delhaize, Best Buy, Macy’s, Whole Foods Market, Goodyear, Food Lion, Giant Eagle and Schnucks'
+  width: 1232
+  height: 548
 showDirectory: false
