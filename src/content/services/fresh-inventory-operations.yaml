@@ -8,7 +8,7 @@ title: Inventory & On-Shelf Availability
 slug: fresh-inventory-operations
 order: 2
 eyebrow: AISLE 02 · What We Do
-summary: Get the items customers want on the shelf and shoppable. That is sales. That is the trip.
+summary: Get the items customers want on the shelf and shoppable. That is sales. That is the reason for the trip.
 thesisLabel: The system can recommend the order. It cannot make the item show up right.
 thesis: 'Production planning tools, CAO, handhelds — they will tell a store what to bring in. They will not walk the set, fix the schematic, catch the bad PLU, or stop yesterday''s product from sitting in front of today''s. That last stretch is sales and the trip. That is the execution layer.'
 workstreams:
@@ -28,7 +28,7 @@ metrics:
   - value: 2–6%
     label: Typical total store sales gains from fresh and inventory execution programs
   - value: 5–15%
-    label: 'Warehouse and replenishment productivity improvement, typical range'
+    label: 'Supply chain productivity improvement, typical range'
   - value: Significant
     label: 'Storewide in-stock improvement, consistently observed across engagements'
 metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client.'
