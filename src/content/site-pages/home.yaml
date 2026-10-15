@@ -20,7 +20,7 @@ hero:
     position: center
 problem:
   heading: The technology is in. The store still has to run it.
-  description: 'ESLs, Robots, Workforce Systems, AI — they are already on the floor. An alert fires. Nobody Acts. The order sits. The schedule dies at 6 a.m. That is the execution gap. That is the work.'
+  description: 'Workforce Systems, Store Ordering, Production Management, Robots, ESLs, AI — they are already on the floor. An alert fires. Nobody Acts. The order sits. The schedule dies at 6 a.m. That is the execution gap. That is the work.'
   cards:
     - label: The Adoption Gap
       title: The alert fires. Nobody acts.
@@ -70,15 +70,15 @@ servicesIntro:
   heading: Four aisles. One discipline.
   description: 'Turning what your data already tells you into what your stores actually do — every shift, every store, every time.'
 approach:
-  heading: Diagnose It. Prove It. Then Spread It.
-  description: Some stores already have the standard. Some do not. The first job is to see which is true — then install it in a store and teach the rest of the fleet. Not a fixed-hour product. Not one path for every banner.
+  heading: Diagnose It. Prove It. Then Scale It.
+  description: We start by reviewing how operations really run today, in stores and at the support center. Find the gaps that leak profit. Apply the fix in one place. Test it. Measure it. Then spread it across the chain, so it lasts.
   action:
     label: See Our Full Approach
     href: /approach/
   steps:
     - number: '01'
       title: Diagnose the real gap
-      copy: 'On the floor. What is actually broken, who owns it, whether a working standard already exists in the fleet.'
+      copy: On the floor. At the support center. What is actually broken and who owns it. Develop the new standard.
     - number: '02'
       title: Prove the standard
       copy: In a model store test environment. Then further more in learning center validation stores. Stores and leaders have to be able to run it without us.
