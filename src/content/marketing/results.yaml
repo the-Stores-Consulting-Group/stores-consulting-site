@@ -13,7 +13,7 @@ copy:
   text12: 'Ranges, not best-case numbers'
   text13: 'Every figure on this page is a range pulled from actual engagement outcomes, not the single best result we''ve ever delivered.'
   text14: 'Scoped to the real gap, every time'
-  text15: A diagnostic determines which of these drivers actually applies before any number gets attached to a proposal.
+  text15: A diagnostic determines which of these drivers actually applies before any number gets attached to a projected benefit.
 media: /assets/editorial/Results-Page-Hero.jpg
 mediaAlt: Three colleagues reviewing performance charts on a wall-mounted display in an office
 mediaWidth: 2000
@@ -43,7 +43,7 @@ resultGroups:
   - title: Store Execution
     items:
       - 100–200+ bps typical contribution margin improvement through foundational execution
-      - $100-150k typical profit increase per store (grocery)
+      - $100-300k profit increase per store, per year
       - PLU and schematic compliance closes the gap between planogram and shelf
       - 5S discipline removes the friction that quietly erodes margin
       - Shelf-tag and case-tag accuracy protect price integrity
