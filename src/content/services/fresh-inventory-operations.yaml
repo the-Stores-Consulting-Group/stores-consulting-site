@@ -28,7 +28,7 @@ metrics:
   - value: 2–6%
     label: Typical total store sales gains from fresh and inventory execution programs
   - value: 5–15%
-    label: 'Warehouse and replenishment productivity improvement, typical range'
+    label: 'Supply chain productivity improvement, typical range'
   - value: Significant
     label: 'Storewide in-stock improvement, consistently observed across engagements'
 metricsNote: 'Ranges reflect typical results across tSCG''s engagement history, not a single client.'
