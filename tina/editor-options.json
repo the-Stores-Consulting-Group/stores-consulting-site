@@ -1,7 +1,6 @@
 {
   "routes": {
     "post": {
-      "28436-who-is-the-stores-consulting-group": "/who-is-the-stores-consulting-group/",
       "28442-tscg-designs-new-cash-stand-layout-for-department-store-and-reduces-transaction-time-by-over-15": "/tscg-designs-new-cash-stand-layout-for-department-store-and-reduces-transaction-time-by-over-15/",
       "28468-is-your-organization-stepping-over-dollars-to-pick-up-pennies": "/is-your-organization-stepping-over-dollars-to-pick-up-pennies/",
       "28474-why-arent-retail-managers-managing": "/why-arent-retail-managers-managing/",
@@ -75,13 +74,11 @@
       "13-contact-us": "/contact-us/",
       "159-services": "/services/",
       "169-fresh-item-management": "/fresh-item-management/",
-      "17-working-here": "/working-here/",
       "171-workforce-management": "/workforce-management/",
       "173-shink-and-profit-recovery": "/shink-and-profit-recovery/",
       "177-supply-chain": "/supply-chain/",
       "26774-homepage-1": "/",
       "26957-transaction-monitoring": "/transaction-monitoring/",
-      "26983-industries": "/industries/",
       "26997-case-studies": "/case-studies/",
       "27063-process-improvement": "/process-improvement/",
       "27065-selling-effectiveness": "/selling-effectiveness/",
@@ -97,8 +94,7 @@
       "28676-support": "/support/",
       "28717-c-store-transformation": "/c-store-transformation/",
       "28905-partners": "/about/partners/",
-      "29074-leadership-change-management": "/leadership-change-management/",
-      "30-key-professionals": "/key-professionals/"
+      "29074-leadership-change-management": "/leadership-change-management/"
     },
     "author": {
       "1-admin": "/author/admin/",
@@ -460,10 +456,6 @@
     {
       "label": "Where are my improvements in Category Management?",
       "value": "/where-are-my-improvements-in-category-management/"
-    },
-    {
-      "label": "Who is the Stores Consulting Group?",
-      "value": "/who-is-the-stores-consulting-group/"
     },
     {
       "label": "Whole Foods",

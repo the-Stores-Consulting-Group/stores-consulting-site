@@ -324,8 +324,10 @@
     "sourcePath": "/industries/",
     "targetPath": "/industries/",
     "type": "page",
-    "status": 200,
-    "sourceId": 26983
+    "status": 404,
+    "sourceId": 26983,
+    "retired": true,
+    "reason": "Redirects to /services/"
   },
   {
     "sourceUrl": "https://storesconsulting.com/is-your-organization-stepping-over-dollars-to-pick-up-pennies/",
@@ -340,8 +342,10 @@
     "sourcePath": "/key-professionals/",
     "targetPath": "/key-professionals/",
     "type": "page",
-    "status": 200,
-    "sourceId": 30
+    "status": 404,
+    "sourceId": 30,
+    "retired": true,
+    "reason": "Redirects to /about/"
   },
   {
     "sourceUrl": "https://storesconsulting.com/labor-standards-what-is-the-correct-level-of-detail/",
@@ -965,8 +969,10 @@
     "sourcePath": "/who-is-the-stores-consulting-group/",
     "targetPath": "/who-is-the-stores-consulting-group/",
     "type": "post",
-    "status": 200,
-    "sourceId": 28436
+    "status": 404,
+    "sourceId": 28436,
+    "retired": true,
+    "reason": "Redirects to /about/"
   },
   {
     "sourceUrl": "https://storesconsulting.com/why-arent-retail-managers-managing/",
@@ -989,8 +995,10 @@
     "sourcePath": "/working-here/",
     "targetPath": "/working-here/",
     "type": "page",
-    "status": 200,
-    "sourceId": 17
+    "status": 404,
+    "sourceId": 17,
+    "retired": true,
+    "reason": "Redirects to /contact-us/"
   },
   {
     "sourceUrl": "https://storesconsulting.com/wp-content/uploads/2016/04/20200515_100011.jpg",
@@ -3097,7 +3105,7 @@
     "sourceId": 29258
   },
   {
-    "sourceUrl": "https://storesconsulting.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.34.08\u202fPM.png",
+    "sourceUrl": "https://storesconsulting.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.34.08 PM.png",
     "sourcePath": "/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.34.08%E2%80%AFPM.png",
     "targetPath": "/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.34.08%E2%80%AFPM.png",
     "type": "media",
@@ -3105,7 +3113,7 @@
     "sourceId": 29263
   },
   {
-    "sourceUrl": "https://storesconsulting.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.37.45\u202fPM.png",
+    "sourceUrl": "https://storesconsulting.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.37.45 PM.png",
     "sourcePath": "/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.37.45%E2%80%AFPM.png",
     "targetPath": "/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-1.37.45%E2%80%AFPM.png",
     "type": "media",

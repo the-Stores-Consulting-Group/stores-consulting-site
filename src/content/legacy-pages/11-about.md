@@ -24,9 +24,9 @@ Rick Marino and Jim Sweeney have been helping companies realize their profit pot
 
 Combining a rapid diagnostic approach with a proven implementation methodology, *the* Stores Consulting Group can achieve real value much faster than strategy companies that tend to study a problem more than they work to solve it. Using a blended team of consultants and client resources, we work with our client organizations to train and build the required expertise to both achieve and sustain results. Leveraging our team’s prior experience with all channels of retail, we will bring fresh ideas to the table on how to run the business rather than suggest different ways of doing the same thing or reworking internal analyses. With a broad exposure to technology solutions, we recommend and implement only the tools that work because we are not vested with any particular solutions or vendor packages. With *the* Stores Consulting Group, you get all the best of a big services firm without all of the noise and excessive costs.
 
-[](/key-professionals/)
+[](/about/)
 
-#### [Meet Our Team](/key-professionals/)
+#### [Meet Our Team](/about/)
 
 [i](/clients/)
 
