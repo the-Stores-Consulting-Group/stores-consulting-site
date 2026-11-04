@@ -791,6 +791,12 @@ export const globalCollection: Collection = {
           "required": true
         },
         {
+          "name": "support",
+          "label": "Support",
+          "type": "string",
+          "required": true
+        },
+        {
           "name": "contactAction",
           "label": "Contact Action",
           "type": "string",

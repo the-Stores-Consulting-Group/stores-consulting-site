@@ -34,6 +34,7 @@ export const footerGroups = [
     label: 'Explore',
     links: [
       { href: '/contact-us/', label: 'Contact', section: 'contact' as const },
+      { href: '/support/', label: 'Support' },
     ],
   },
 ] as const;
@@ -54,7 +55,7 @@ export const navigationLabelKeys: Record<string, string> = {
  '/services/':'servicesOverview', '/services/shrink-profit-recovery/':'shrink',
  '/services/fresh-inventory-operations/':'fresh', '/services/workforce-store-execution/':'workforce',
  '/services/technology-adoption-change-management/':'technology', '/approach/':'approach',
- '/results/':'results', '/about/':'about', '/clients/':'clients', '/insights/':'blog', '/contact-us/':'contact',
+ '/results/':'results', '/about/':'about', '/clients/':'clients', '/insights/':'blog', '/contact-us/':'contact', '/support/':'support',
 };
 export function navigationLabel(labels: Record<string,string>, href: string, fallback: string) {
  return labels[navigationLabelKeys[href]] || fallback;
