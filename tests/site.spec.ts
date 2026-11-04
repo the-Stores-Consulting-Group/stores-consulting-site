@@ -642,3 +642,37 @@ test.describe('contact endpoint safeguards', () => {
     await expect(response.json()).resolves.toMatchObject({ ok: false, code: 'unavailable' });
   });
 });
+
+test.describe('support endpoint safeguards', () => {
+  const valid = { company: 'Acme Grocers', name: 'Test User', email: 'test@example.com', product: 'DIVER', message: 'A legitimate test message.' };
+  const headers = { accept: 'application/json', origin: 'http://127.0.0.1:4321' };
+
+  test('rejects cross-origin submissions', async ({ request }) => {
+    test.skip(test.info().project.name !== 'chromium-1440', 'Endpoint tests run once.');
+    const response = await request.post('/api/support', { headers: { ...headers, origin: 'https://malicious.example' }, form: valid });
+    expect(response.status()).toBe(403);
+  });
+
+  test('rejects missing fields and unknown products', async ({ request }) => {
+    test.skip(test.info().project.name !== 'chromium-1440', 'Endpoint tests run once.');
+    for (const form of [{ ...valid, company: '' }, { ...valid, email: 'bad' }, { ...valid, product: 'Unknown' }]) {
+      const response = await request.post('/api/support', { headers, form });
+      expect(response.status()).toBe(422);
+      await expect(response.json()).resolves.toMatchObject({ ok: false, code: 'invalid' });
+    }
+  });
+
+  test('silently accepts honeypot submissions', async ({ request }) => {
+    test.skip(test.info().project.name !== 'chromium-1440', 'Endpoint tests run once.');
+    const response = await request.post('/api/support', { headers, form: { ...valid, website: 'https://spam.example' } });
+    expect(response.status()).toBe(200);
+    await expect(response.json()).resolves.toMatchObject({ ok: true });
+  });
+
+  test('requires delivery configuration for a valid submission', async ({ request }) => {
+    test.skip(test.info().project.name !== 'chromium-1440', 'Endpoint tests run once.');
+    const response = await request.post('/api/support', { headers, form: valid });
+    expect(response.status()).toBe(503);
+    await expect(response.json()).resolves.toMatchObject({ ok: false, code: 'unavailable' });
+  });
+});

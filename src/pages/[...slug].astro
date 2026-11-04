@@ -37,4 +37,36 @@ const author=authors?.find(item=>item.slug===data.author);
 ---
 <BaseLayout schemaKind={type!=='post'||data.contentType==='video'?'page':data.contentType==='report'?'report':'article'} record={data} author={author} image={data.featuredMedia||undefined} breadcrumbParent={type==='post'?'blog':'home'} seo={data.seo} title={data.title} description={data.excerpt || data.description || data.title} canonicalPath={data.route} article={type === 'post'} navSection={type === 'post' ? 'blog' : undefined}>
 <TinaIsland name={collection} params={{path}} primary wrapper={{tag:"div"}}><EditorialPageContent {...content}/></TinaIsland>
+<script>
+  const messages: Record<string, string> = {
+    success: 'Thank you. Your support request has been sent.',
+    invalid: 'Please review the required fields and try again.',
+    unavailable: 'The form is temporarily unavailable. Please email support@storesconsulting.com.',
+  };
+  const status = new URLSearchParams(location.search).get('status');
+  const note = status && messages[status] ? document.querySelector('[data-enhanced-support] [data-form-feedback]') : null;
+  if (note && status) note.textContent = messages[status];
+  document.addEventListener('submit', async (event) => {
+    const form = event.target;
+    if (!(event instanceof SubmitEvent) || !(form instanceof HTMLFormElement) || !form.matches('[data-enhanced-support]') || !window.fetch) return;
+    event.preventDefault();
+    if (window.self !== window.top) return; // Editor previews never deliver requests.
+    const feedback = form.querySelector('[data-form-feedback]');
+    const submitter = event.submitter;
+    if (submitter instanceof HTMLButtonElement) submitter.disabled = true;
+    if (feedback) feedback.textContent = 'Sending…';
+    try {
+      const response = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { accept: 'application/json' } });
+      if (response.status === 429) throw new Error('Too many attempts. Please wait a minute and try again.');
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.message || messages.invalid);
+      form.reset();
+      if (feedback) feedback.textContent = result.message || messages.success;
+    } catch (error) {
+      if (feedback) feedback.textContent = error instanceof Error ? error.message : messages.unavailable;
+    } finally {
+      if (submitter instanceof HTMLButtonElement) submitter.disabled = false;
+    }
+  });
+</script>
 </BaseLayout>

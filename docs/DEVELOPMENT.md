@@ -14,6 +14,7 @@ Read [AGENTS.md](../AGENTS.md) first. Use Node 24 and `npm ci` with the committe
 | Live previews | `src/lib/tina-islands.ts`, `src/components/editable/`, `src/pages/tina-island/[name].ts` | Register, fetch and rerender editable page regions |
 | Design | `src/styles/global.css`, `src/components/`, `src/pages/styleguide/index.astro` | Tokens, shared markup, responsive behavior and living examples |
 | Contact | `src/pages/api/contact.ts`, `src/pages/contact-us/index.astro` | Server validation/delivery and browser submit handling |
+| Support | `src/pages/api/support.ts`, `src/components/SupportForm.astro`, `src/pages/[...slug].astro` | Software support form on the `/support/` legacy page; delivers to `SUPPORT_TO_EMAIL` (default `support@storesconsulting.com`) using the same Resend settings as Contact |
 | Analytics | `src/scripts/analytics.ts` | Production-only GA4 tracking and conversion events |
 | Checks | `scripts/check-*.mjs`, `tests/`, `.github/workflows/validate.yml` | Content, route, layout, accessibility and editing regressions |
 

@@ -1,0 +1,26 @@
+---
+// Software support request form. Delivery is handled by /api/support; the
+// browser enhancement lives in src/pages/[...slug].astro.
+---
+<form class="contact-form support-form" action="/api/support" method="post" data-enhanced-support aria-describedby="support-feedback" data-reveal>
+  <div class="form-grid">
+    <div class="form-field"><label for="support-company">Company name <span aria-hidden="true">*</span></label><input id="support-company" name="company" type="text" autocomplete="organization" maxlength="160" required /></div>
+    <div class="form-field"><label for="support-name">Contact name <span aria-hidden="true">*</span></label><input id="support-name" name="name" type="text" autocomplete="name" maxlength="120" required /></div>
+    <div class="form-field"><label for="support-email">Email address <span aria-hidden="true">*</span></label><input id="support-email" name="email" type="email" autocomplete="email" maxlength="254" required /></div>
+    <div class="form-field"><label for="support-phone">Phone number</label><input id="support-phone" name="phone" type="tel" autocomplete="tel" maxlength="40" /></div>
+    <div class="form-field">
+      <label for="support-product">Software product <span aria-hidden="true">*</span></label>
+      <select id="support-product" name="product" required>
+        <option value="">Select a product</option>
+        <option value="DIVER">DIVER</option>
+        <option value="Production Planner">Production Planner</option>
+        <option value="Other">Other</option>
+      </select>
+    </div>
+    <div class="form-field"><label for="support-ticket">Ticket number</label><input id="support-ticket" name="ticket" type="text" maxlength="80" /></div>
+    <div class="form-field form-field--wide"><label for="support-message">Message <span aria-hidden="true">*</span></label><textarea id="support-message" name="message" maxlength="5000" required></textarea></div>
+    <div class="form-honeypot" aria-hidden="true"><label for="support-website">Website</label><input id="support-website" name="website" type="text" autocomplete="off" tabindex="-1" /></div>
+  </div>
+  <button class="button" type="submit">Submit support request</button>
+  <p id="support-feedback" data-form-feedback aria-live="polite"></p>
+</form>

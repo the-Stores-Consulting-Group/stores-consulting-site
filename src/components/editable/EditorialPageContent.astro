@@ -7,6 +7,7 @@ import BlogList from '../BlogList.astro';
 import BlogMeta from '../BlogMeta.astro';
 import RelatedContent from '../RelatedContent.astro';
 import LegacyCaseStudyGrid from '../LegacyCaseStudyGrid.astro';
+import SupportForm from '../SupportForm.astro';
 import ArticleBlocks from './ArticleBlocks.astro';
 import MarkdownContent from './MarkdownContent.astro';
 import mediaManifest from '../../data/media-manifest.json';
@@ -37,6 +38,7 @@ const breadcrumbs = [{label:labels.home,href:'/',editField:tinaField(labels,'hom
 {isArchive ? <section class="section"><div class="shell"><BlogList posts={posts} authors={related.authors} categories={related.categories}/></div></section> : <article class="section"><div class:list={['shell',{prose:!isCaseStudies,'project-content':isClient}]} data-reveal>
  {isPost&&<BlogMeta publishedDate={new Date(data.publishedDate)} dateField={tinaField(data,'publishedDate')} author={author} categories={categories}/>}
  {isClient&&data.caseStudy?.published ? <section aria-label="Case study" data-tina-field={tinaField(data,'caseStudy')}><h2 data-tina-field={tinaField(labels,'challenge')}>{labels.challenge}</h2><p data-tina-field={tinaField(data.caseStudy,'challenge')}>{data.caseStudy.challenge}</p><h2 data-tina-field={tinaField(labels,'work')}>{labels.work}</h2><p data-tina-field={tinaField(data.caseStudy,'work')}>{data.caseStudy.work}</p><h2 data-tina-field={tinaField(labels,'results')}>{labels.results}</h2><p data-tina-field={tinaField(data.caseStudy,'results')}>{data.caseStudy.results}</p></section> : isCaseStudies ? <LegacyCaseStudyGrid entries={data.directoryEntries||[]}/> : <div class="prose editorial-body" data-tina-field={tinaField(data,'body')}><MarkdownContent body={data.body||''} title={title} migrated/></div>}
+ {collection==='legacyPage'&&data.route==='/support/'&&<SupportForm/>}
  {isPost&&<ArticleBlocks blocks={data.contentBlocks}/>}
  {isPost&&data.resource&&<section class="report-resource" aria-label="PDF report" data-tina-field={tinaField(data,'resource')}>
    <h2 data-tina-field={tinaField(data.resource,'title')}>{data.resource.title}</h2>
