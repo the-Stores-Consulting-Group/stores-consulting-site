@@ -15,7 +15,7 @@ If you use *the* Stores Consulting Group software and something is not working a
 
 ## Submit a support request
 
-Email [contact@storesconsulting.com](mailto:contact@storesconsulting.com?subject=tSCG%20Software%20Support%20Request) with the subject line **tSCG Software Support Request**. The more detail you include, the faster we can help.
+Email [support@storesconsulting.com](mailto:support@storesconsulting.com?subject=tSCG%20Software%20Support%20Request) with the subject line **tSCG Software Support Request**. The more detail you include, the faster we can help.
 
 Please include:
 
